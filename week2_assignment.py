@@ -75,7 +75,7 @@ Channel: Position/length and color
 Perceptual-accuracy: Bar charts having a common baseline makes it easy to compare the
 average hba1c levels between the different age groups in order to visualize which average
 hba1c level is higher or lower. Bar charts are not as accurate as scatter plots however they
-are more accurate then angle or area channels. 
+are more accurate than angle or area channels. 
 
 Gestalt: I used similarity principle for this bar chart, but instead of showing the grouping it is
 distinguishing the groups.  Each color represents a different group which allows the viewer
@@ -101,7 +101,7 @@ st.write("""
 Channel: Position and color
 
 Perceptual-accuracy: Line charts are coordinate based positions meaning they have the highest accuracy.
-It also does a good job as showing the average hba1c levels trend amoungst the age groups.  Viewers can
+It also does a good job as showing the average hba1c levels trend amongst the age groups.  Viewers can
 easily see if the average hba1c level increases, decreases, or stays the same throughout the age groups.
 
 Gestalt: I used continuity principle, the connected lines allow viewers to follow a smooth path of the average
