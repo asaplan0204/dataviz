@@ -37,6 +37,9 @@ age_colors = {
     "67-80": "#fb9a99"
 }
 
+# shapes to be used
+shapes = ["circle", "square", "diamond", "cross", "triangle-up"]
+
 # scatter plot
 scatt = px.scatter(
     df, 
@@ -94,15 +97,16 @@ line = px.line(
 
 line.update_traces(
     line=dict(color="#444444"),
-    marker=dict(color=[age_colors[group] for group in avg_hba1c["age_group"]])
+    marker=dict(color=[age_colors[group] for group in avg_hba1c["age_group"]],symbol=shapes,size=10)
 )
 st.plotly_chart(line)
 st.write("""
-Channel: Position and color
+Channel: Position, color, and shape
 
 Perceptual-accuracy: Line charts are coordinate based positions meaning they have the highest accuracy.
 It also does a good job as showing the average hba1c levels trend amongst the age groups.  Viewers can
-easily see if the average hba1c level increases, decreases, or stays the same throughout the age groups.
+easily see if the average hba1c level increases, decreases, or stays the same throughout the age groups based on the
+age groups having different colors and different shapes for each one.
 
 Gestalt: I used continuity principle, the connected lines allow viewers to follow a smooth path of the average
 hba1c levels through the different age groups.
