@@ -16,7 +16,7 @@ st.markdown(
 )
 
 # loading the data
-df = pd.read_csv("pizza.csv")
+df = pd.read_csv("Pizza.csv")
 
 # variable legend
 st.subheader("Variable Legend")
