@@ -56,14 +56,14 @@ rolling_mean = sun.rolling(12 if resolution == "Monthly" else 4 if resolution ==
 rolling_std = sun.rolling(12 if resolution == "Monthly" else 4 if resolution == "Quarterly" else 1).std()
 
 # bounds
-lower = rolling_mean - rolling_std
-upper = rolling_mean + rolling_std
+lower = rolling_mean - 2 * rolling_std
+upper = rolling_mean + 2 * rolling_std
 
 # chart
 fig = go.Figure()
 fig.add_trace(go.Scatter(x=upper.index, y=upper, mode="lines", line=dict(width=0), showlegend=False))
-fig.add_trace(go.Scatter(x=lower.index, y=lower, mode="lines", fill="tonexty", fillcolor="rgba(31, 119, 180, 0.2)", line=dict(width=0), name="±1 Standard Deviation"))
-fig.add_trace(go.Scatter(x=rolling_mean.index, y=rolling_mean, mode="lines", name="12-Month Rolling Mean"))
+fig.add_trace(go.Scatter(x=lower.index, y=lower, mode="lines", fill="tonexty", fillcolor="rgba(31, 119, 180, 0.2)", line=dict(width=0), name="±2 Standard Deviation"))
+fig.add_trace(go.Scatter(x=rolling_mean.index, y=rolling_mean, mode="lines", name=f"{resolution} Rolling Mean"))
 fig.update_layout(title="Sunshine Duration Between 2000 and 2023 In The Philippines", xaxis_title="Date",yaxis_title="Sunshine Duration",hovermode="x unified")
 
 st.plotly_chart(fig, use_container_width=True)
