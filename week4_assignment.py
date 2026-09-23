@@ -68,6 +68,12 @@ fig.update_layout(title="Sunshine Duration Between 2000 and 2023 In The Philippi
 
 st.plotly_chart(fig, use_container_width=True)
 
+st.subheader("Uncertainty Band")
+st.info("""
+
+The shaded area around the trend line represents a 2 plus or minus standard deviation, which shows the variability of sunshine duration over time.
+""")
+
 
 # rolling menas for seasonaility chart
 monthly_sunshine = df["Sunshine_Duration"].resample("MS").mean()
