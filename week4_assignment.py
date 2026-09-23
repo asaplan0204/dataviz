@@ -33,22 +33,33 @@ summary = df.describe()
 st.subheader("Summary Statistics")
 st.dataframe(summary)
 
-# Chart that shows trend, seasonality, and uncertainty band
-monthly_sun = df["Sunshine_Duration"].resample("MS").mean()
+st.subheader("Philippines Sunshine Trend With Uncertainty Band")
+# Resolution widget
+resolution = st.selectbox(
+    "Select Resolution",
+    ["Monthly", "Quarterly", "Yearly"]
+)
 
-# rolling mean
-rolling_mean = monthly_sun.rolling(12).mean()
+if resolution == "Monthly":
+    sun = df["Sunshine_Duration"].resample("MS").mean()
 
-# rolling std for uncertainty band
-rolling_std = monthly_sun.rolling(12).std()
+elif resolution == "Quarterly":
+    sun = df["Sunshine_Duration"].resample("QS").mean()
+
+else:
+    sun = df["Sunshine_Duration"].resample("YS").mean()
+
+# Rolling mean
+rolling_mean = sun.rolling(12 if resolution == "Monthly" else 4 if resolution == "Quarterly" else 1).mean()
+
+# Rolling standard deviation
+rolling_std = sun.rolling(12 if resolution == "Monthly" else 4 if resolution == "Quarterly" else 1).std()
 
 # bounds
 lower = rolling_mean - rolling_std
 upper = rolling_mean + rolling_std
 
-
 # chart
-st.subheader("Philippines Sunshine Trend With Uncertainty Band")
 fig = go.Figure()
 fig.add_trace(go.Scatter(x=upper.index, y=upper, mode="lines", line=dict(width=0), showlegend=False))
 fig.add_trace(go.Scatter(x=lower.index, y=lower, mode="lines", fill="tonexty", fillcolor="rgba(31, 119, 180, 0.2)", line=dict(width=0), name="±1 Standard Deviation"))
@@ -125,6 +136,7 @@ st.plotly_chart(fig, use_container_width=True)
 
 
 # stats model decompose seasonality
+monthly_sun = df["Sunshine_Duration"].resample("MS").mean()
 st.subheader("Seasonality Of Philippines Sunshine Decomposed")
 result = seasonal_decompose(monthly_sun, period=12)
 
