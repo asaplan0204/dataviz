@@ -197,7 +197,7 @@ net.set_options("""
     "smooth": false
   },
   "physics": {
-    "enabled": true,
+    "enabled": false,
     "solver": "repulsion",
     "repulsion": {
       "centralGravity": 0.1,
