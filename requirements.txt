@@ -6,3 +6,5 @@ scipy
 numpy
 statsmodels
 matplotlib
+networkx
+pyvis
