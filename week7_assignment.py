@@ -236,8 +236,8 @@ st.write("""
 **BERTopic Visualization Insight and Limitation:**
 
 The BERTopic visualization displays the 10 most represented topics,
-each described by its five representative words. It reveals potential
-themes within the text corpus. However, the representative words may
+each described by its five most representative words. It reveals potential
+themes and topics within the text corpus. However, the representative words may
 be interpreted differently by users than intended by the model,
 potentially leading to misunderstandings about a topic.
 """)
