@@ -18,12 +18,17 @@ This dataset is a text corpus of 18000 news groups posts, including discussion o
 is composed of text from an online conversation.
 """)
 
-data = fetch_20newsgroups(
-    subset="train",
-    remove=("headers", "footers", "quotes")
-)
+@st.cache_data
+def load_news_data():
+    data = fetch_20newsgroups(
+        subset="train",
+        remove=("headers", "footers", "quotes"),
+        download_if_missing=True,
+        data_home="/tmp/20newsgroups"
+    )
+    return data.data
 
-texts = data.data
+texts = load_news_data()
 
 st.sidebar.header("Honest Frequency Options")
 stopword_option = st.sidebar.radio(
