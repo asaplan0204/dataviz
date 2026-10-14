@@ -158,7 +158,7 @@ that it is used a lot and that is it.
 """)
 
 
-st.header("2. BERTopic Visualization")
+st.header("2. BERTopic Visualization(Precomputed)")
 
 # Load precomputed BERTopic results
 RESULTS_FILE = Path(__file__).parent / "bertopic_results.json"
