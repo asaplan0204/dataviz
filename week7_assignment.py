@@ -15,8 +15,8 @@ st.set_page_config(
 st.title("20 Newsgroups Text Visualization")
 st.write("""
 **Dataset Description:**
-This dataset is a text corpus of 18000 news groups posts, including discussion on sports, religion, politics, and more.  Each document 
-is composed of text from an online conversation.
+The original dataset is a text corpus of 18000 news groups posts, including discussion on sports, religion, politics, and more.  Each document 
+is composed of text from an online conversation.  However, due to limits on share.streamlit.io this app will focus on the first 2000 documents.
 """)
 
 DATA_FILE = "20newsgroups.csv"
@@ -31,7 +31,7 @@ def load_news_data():
         remove=("headers", "footers", "quotes")
     )
 
-    texts = data.data
+    texts = data.data[:2000]
 
     pd.DataFrame({"text": texts}).to_csv(
         DATA_FILE,
