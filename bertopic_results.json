@@ -1,0 +1,106 @@
+{
+  "exclude_stopwords": [
+    {
+      "Topic": 0,
+      "Count": 1079,
+      "Topic Words": "team, game, season, games, play"
+    },
+    {
+      "Topic": 1,
+      "Count": 1067,
+      "Topic Words": "car, bike, cars, engine, just"
+    },
+    {
+      "Topic": 2,
+      "Count": 671,
+      "Topic Words": "god, jesus, bible, believe, faith"
+    },
+    {
+      "Topic": 3,
+      "Count": 513,
+      "Topic Words": "patients, msg, medical, health, disease"
+    },
+    {
+      "Topic": 4,
+      "Count": 445,
+      "Topic Words": "space, launch, nasa, lunar, orbit"
+    },
+    {
+      "Topic": 5,
+      "Count": 389,
+      "Topic Words": "window, server, widget, xterm, motif"
+    },
+    {
+      "Topic": 6,
+      "Count": 361,
+      "Topic Words": "key, chip, clipper, encryption, keys"
+    },
+    {
+      "Topic": 7,
+      "Count": 294,
+      "Topic Words": "gun, guns, firearms, file, amendment"
+    },
+    {
+      "Topic": 8,
+      "Count": 274,
+      "Topic Words": "card, monitor, video, vga, drivers"
+    },
+    {
+      "Topic": 9,
+      "Count": 249,
+      "Topic Words": "drive, scsi, drives, disk, ide"
+    }
+  ],
+  "include_stopwords": [
+    {
+      "Topic": 0,
+      "Count": 1073,
+      "Topic Words": "he, the, team, game, in"
+    },
+    {
+      "Topic": 1,
+      "Count": 832,
+      "Topic Words": "god, of, that, is, the"
+    },
+    {
+      "Topic": 2,
+      "Count": 508,
+      "Topic Words": "of, is, in, and, the"
+    },
+    {
+      "Topic": 3,
+      "Count": 438,
+      "Topic Words": "space, the, of, and, launch"
+    },
+    {
+      "Topic": 4,
+      "Count": 361,
+      "Topic Words": "car, the, bike, for, cars"
+    },
+    {
+      "Topic": 5,
+      "Count": 349,
+      "Topic Words": "key, chip, clipper, the, encryption"
+    },
+    {
+      "Topic": 6,
+      "Count": 299,
+      "Topic Words": "gun, of, the, to, guns"
+    },
+    {
+      "Topic": 7,
+      "Count": 285,
+      "Topic Words": "card, monitor, video, drivers, vga"
+    },
+    {
+      "Topic": 8,
+      "Count": 235,
+      "Topic Words": "drive, scsi, drives, disk, ide"
+    },
+    {
+      "Topic": 9,
+      "Count": 230,
+      "Topic Words": "israel, israeli, the, arab, of"
+    }
+  ]
+}

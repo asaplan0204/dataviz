@@ -1,4 +1,3 @@
-import os
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -6,6 +5,8 @@ from sklearn.datasets import fetch_20newsgroups
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from nltk.stem import PorterStemmer
 from bertopic import BERTopic
+from pathlib import Path
+import json
 
 st.set_page_config(
     page_title="20 Newsgroups Text Visualization",
@@ -15,32 +16,12 @@ st.set_page_config(
 st.title("20 Newsgroups Text Visualization")
 st.write("""
 **Dataset Description:**
-The original dataset is a text corpus of 18000 news groups posts, including discussion on sports, religion, politics, and more.  Each document 
-is composed of text from an online conversation.  However, due to limits on share.streamlit.io this app will focus on the first 2000 documents.
+The dataset is a text corpus of 18000 news groups posts, including discussion on sports, religion, politics, and more.  Each document 
+is composed of text from an online conversation.  
 """)
 
-DATA_FILE = "20newsgroups.csv"
-
-@st.cache_data
-def load_news_data():
-    if os.path.exists(DATA_FILE):
-        return pd.read_csv(DATA_FILE)["text"].tolist()
-
-    data = fetch_20newsgroups(
-        subset="train",
-        remove=("headers", "footers", "quotes")
-    )
-
-    texts = data.data[:2000]
-
-    pd.DataFrame({"text": texts}).to_csv(
-        DATA_FILE,
-        index=False
-    )
-
-    return texts
-
-texts = load_news_data()
+df = pd.read_csv("20newsgroups.csv")
+texts = df["text"].dropna().tolist()
 
 st.sidebar.header("Honest Frequency Options")
 stopword_option = st.sidebar.radio(
@@ -176,27 +157,11 @@ topics.  A word or phrase that appears many times within the text corpus does no
 that it is used a lot and that is it.
 """)
 
+
 st.header("2. BERTopic Visualization")
 
-@st.cache_resource
-def create_topic_model(documents, exclude_stopwords):
-
-    if exclude_stopwords:
-        vectorizer_model = CountVectorizer(
-            stop_words="english"
-        )
-    else:
-        vectorizer_model = CountVectorizer()
-
-    topic_model = BERTopic(
-        vectorizer_model=vectorizer_model,
-        min_topic_size=20,
-        verbose=False
-    )
-
-    topics, probabilities = topic_model.fit_transform(documents)
-
-    return topic_model, topics, probabilities
+# Load precomputed BERTopic results
+RESULTS_FILE = Path(__file__).parent / "bertopic_results.json"
 
 st.sidebar.header("BERTopic Options")
 
@@ -209,81 +174,70 @@ exclude_bertopic_stopwords = (
     bertopic_stopwords == "Exclude stop words"
 )
 
+if not RESULTS_FILE.exists():
+    st.error(
+        "Precomputed BERTopic results were not found. "
+        "Please add bertopic_results.json to the app repository."
+    )
+    st.stop()
 
-with st.spinner("Running BERTopic... This may take a moment."):
+with open(RESULTS_FILE, "r", encoding="utf-8") as file:
+    bertopic_results = json.load(file)
 
-    topic_model, topics, probabilities = create_topic_model(
-    texts,
-    exclude_bertopic_stopwords
+# Select the precomputed configuration
+if exclude_bertopic_stopwords:
+    results_key = "exclude_stopwords"
+else:
+    results_key = "include_stopwords"
+
+top_topics = pd.DataFrame(
+    bertopic_results[results_key]
 )
 
-topic_info = topic_model.get_topic_info()
-topic_info = topic_info[
-    topic_info["Topic"] != -1
-].copy()
-
-top_topics = (
-    topic_info
-    .sort_values("Count", ascending=False)
-    .head(10)
-)
-
-def get_topic_words(topic):
-
-    words = topic_model.get_topic(topic)
-
-    if words is None:
-        return "Unknown"
-
-    return ", ".join(
-        [word for word, score in words[:5]]
+if top_topics.empty:
+    st.warning("No topics are available for this configuration.")
+else:
+    fig_topics = px.bar(
+        top_topics.sort_values("Count"),
+        x="Count",
+        y="Topic Words",
+        orientation="h",
+        title="Top 10 BERTopic Topics",
+        labels={
+            "Count": "Number of Documents",
+            "Topic Words": "Representative Topic Words"
+        },
+        hover_data={
+            "Topic": True,
+            "Count": True
+        }
     )
 
+    fig_topics.update_layout(height=600)
 
-top_topics["Topic Words"] = top_topics["Topic"].apply(
-    get_topic_words
-)
+    st.plotly_chart(
+        fig_topics,
+        use_container_width=True
+    )
 
-fig_topics = px.bar(
-    top_topics.sort_values("Count"),
-    x="Count",
-    y="Topic Words",
-    orientation="h",
-    title="Top 10 BERTopic Topics",
-    labels={
-        "Count": "Number of Documents",
-        "Topic Words": "Representative Topic Words"
-    },
-    hover_data={
-        "Topic": True,
-        "Count": True
-    }
-)
+    st.subheader("Topic Details")
 
-fig_topics.update_layout(
-    height=600
-)
+    display_topics = top_topics[
+        ["Topic", "Count", "Topic Words"]
+    ].copy()
 
-st.plotly_chart(
-    fig_topics,
-    use_container_width=True
-)
-
-st.subheader("Topic Details")
-
-display_topics = top_topics[
-    ["Topic", "Count", "Topic Words"]
-].copy()
-
-st.dataframe(
-    display_topics,
-    use_container_width=True,
-    hide_index=True
-)
+    st.dataframe(
+        display_topics,
+        use_container_width=True,
+        hide_index=True
+    )
 
 st.write("""
 **BERTopic Visualization Insight and Limitation:**
-The BERTopic visualization allows the users to view a bar chart and table with the 10 most represented topics with each topic represented by its 5 
-most representative words. The BERTopic visualization reveals themes or topics within the text corpus.  One way BERTopic visualization could mislead 
-the user is the representative words may be interpreted differently than the model, causing the user to misunderstand the topic.
+
+The BERTopic visualization displays the 10 most represented topics,
+each described by its five representative words. It reveals potential
+themes within the text corpus. However, the representative words may
+be interpreted differently by users than intended by the model,
+potentially leading to misunderstandings about a topic.
 """)
