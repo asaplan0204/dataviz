@@ -8,3 +8,5 @@ statsmodels
 matplotlib
 networkx
 pyvis
+nltk
+bertopic
