@@ -1,3 +1,4 @@
+import os
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -18,15 +19,26 @@ This dataset is a text corpus of 18000 news groups posts, including discussion o
 is composed of text from an online conversation.
 """)
 
+DATA_FILE = "20newsgroups.csv"
+
 @st.cache_data
 def load_news_data():
+    if os.path.exists(DATA_FILE):
+        return pd.read_csv(DATA_FILE)["text"].tolist()
+
     data = fetch_20newsgroups(
         subset="train",
-        remove=("headers", "footers", "quotes"),
-        download_if_missing=True,
-        data_home="/tmp/20newsgroups"
+        remove=("headers", "footers", "quotes")
     )
-    return data.data
+
+    texts = data.data
+
+    pd.DataFrame({"text": texts}).to_csv(
+        DATA_FILE,
+        index=False
+    )
+
+    return texts
 
 texts = load_news_data()
 
@@ -106,7 +118,7 @@ else:
             stop_words=stop_words,
             ngram_range=ngram_range
         )
-
+texts = pd.Series(texts).dropna().astype(str).tolist()
 X = vectorizer.fit_transform(texts)
 
 terms = vectorizer.get_feature_names_out()
