@@ -13,12 +13,14 @@ from streamlit_image_comparison import image_comparison
 st.set_page_config(layout="wide")
 st.title("Rice Data")
 
+BASE_DIR = Path(__file__).resolve().parent
+folder = BASE_DIR / "Rice_Dataset" / "aligned_images"
+
 tab1, tab2, tab3 = st.tabs(["Rice Image Montage", "ice Image Intensit", "Rice Image Occlusion Visualization"])
 
 with tab1:
     st.subheader("Rice Image Montage")
 
-    folder = Path("/Users/aspen_saplan/Documents/dataviz/Rice_Dataset/aligned_images")
     all_images = sorted(folder.glob("*.jpg"))
 
     # Get rice labels from filenames
@@ -55,7 +57,6 @@ with tab1:
 with tab2:
     st.subheader("Rice Image Intensity")
 
-    folder = Path("/Users/aspen_saplan/Documents/dataviz/Rice_Dataset/aligned_images")
     images = sorted(folder.glob("*.jpg"))
 
     img_path = st.selectbox(
@@ -106,8 +107,6 @@ with tab3:
         page_title="Rice Image Visualization",
         layout="wide"
     )
-    
-    folder = Path("/Users/aspen_saplan/Documents/dataviz/Rice_Dataset/aligned_images")
 
     # Load images and labels
     image_paths = sorted(folder.glob("*.jpg"))
