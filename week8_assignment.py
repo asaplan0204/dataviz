@@ -16,7 +16,7 @@ st.title("Rice Data")
 BASE_DIR = Path(__file__).resolve().parent
 folder = BASE_DIR / "Rice_Dataset" / "aligned_images"
 
-tab1, tab2, tab3 = st.tabs(["Rice Image Montage", "ice Image Intensit", "Rice Image Occlusion Visualization"])
+tab1, tab2, tab3 = st.tabs(["Rice Image Montage", "Rice Image Intensit", "Rice Image Occlusion Visualization"])
 
 with tab1:
     st.subheader("Rice Image Montage")
