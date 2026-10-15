@@ -10,3 +10,5 @@ networkx
 pyvis
 nltk
 bertopic
+Pillow
+streamlit-image-comparison
