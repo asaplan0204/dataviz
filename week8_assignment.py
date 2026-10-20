@@ -13,7 +13,7 @@ from streamlit_image_comparison import image_comparison
 st.set_page_config(layout="wide")
 
 
-with st.container(border=True):
+with st.container(border=False):
         st.markdown(
             "<h1 style='text-align: center;'>Rice Explorer</h1>",
             unsafe_allow_html=True
