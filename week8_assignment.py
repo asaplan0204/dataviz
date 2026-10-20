@@ -19,7 +19,7 @@ with st.container(border=False):
             unsafe_allow_html=True
         )
         st.markdown("""
-            This dataset contains 5 different types of rice such as arborio, basmati, ipsala, jasmine, and karacadag.  It contains 50 images of each type of 
+            **Data Overview:** This dataset contains 5 different types of rice such as arborio, basmati, ipsala, jasmine, and karacadag.  It contains 50 images of each type of 
             rice, and each image is standardized as much as it can be.
         """)
 
