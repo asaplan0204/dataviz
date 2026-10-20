@@ -11,7 +11,11 @@ from sklearn.metrics import accuracy_score
 from streamlit_image_comparison import image_comparison
 
 st.set_page_config(layout="wide")
-st.title("Rice Data")
+
+st.markdown(
+    "<h1 style='text-align: center;'>Rice Explorer</h1>",
+    unsafe_allow_html=True
+)
 
 BASE_DIR = Path(__file__).resolve().parent
 folder = BASE_DIR / "Rice_Dataset" / "aligned_images"
@@ -20,7 +24,9 @@ tab1, tab2, tab3 = st.tabs(["Rice Image Montage", "Rice Image Intensit", "Rice I
 
 with tab1:
     st.subheader("Rice Image Montage")
-
+    st.markdown(
+        "**Research Question:** How do the visual characteristics of different rice varieties compare in terms of grain shape, size, and color?"
+    )
     all_images = sorted(folder.glob("*.jpg"))
 
     # Get rice labels from filenames
@@ -54,9 +60,17 @@ with tab1:
     plt.tight_layout()
     st.pyplot(fig)
 
+    st.markdown(
+        "**Research Answer:** The montage shows the users the first 8 images of rice for each type of rice in the dataset.  The montage reveals that some rice types share similarities " \
+        "while others do not.  Arborio and ipsala rice share similar shapes, but differ in color.  While basmati rice is much thinner and longer compared to the " \
+        "other 4 types of rice.  Overall, this montage allows users to reveal the visible similarities and differences in shape, size, and color of each type of rice."
+    )
+
 with tab2:
     st.subheader("Rice Image Intensity")
-
+    st.markdown(
+        "**Research Question:** How are pixel intensity values distributed across the red, green, and blue color channels in images of different rice varieties?"
+    )
     images = sorted(folder.glob("*.jpg"))
 
     img_path = st.selectbox(
@@ -101,14 +115,17 @@ with tab2:
 
     st.plotly_chart(fig1, use_container_width=True)
 
+    st.markdown(
+        "**Research Answer:** The RGB pixel intensity distribution reveals that even though all the rice images are white, from a pixel level there are " \
+        "differences within the red, green, and blue values for each image of rice.  This allows the user to know that there are differences in brightness "
+        "and color among the 5 types of rice."
+    )
 with tab3:
     st.subheader("Rice Image Occlusion Visualization")
-    st.set_page_config(
-        page_title="Rice Image Visualization",
-        layout="wide"
+    st.markdown(
+        "**Research Question:** Which image regions contribute most to a machine learning model’s ability to distinguish between different rice varieties?"
     )
 
-    # Load images and labels
     image_paths = sorted(folder.glob("*.jpg"))
     size = (32, 32)
 
@@ -123,7 +140,6 @@ with tab3:
     X = np.array(X)
     y = np.array(y)
 
-    # Train a simple rice classifier
     @st.cache_resource
     def train_model(X, y):
         X_train, X_test, y_train, y_test = train_test_split(
@@ -137,7 +153,6 @@ with tab3:
 
     st.write(f"**Test accuracy:** {accuracy:.1%}")
 
-    # Select an image
     selected_path = st.selectbox(
         "Select a rice image",
         image_paths,
@@ -148,7 +163,6 @@ with tab3:
         Image.open(selected_path).convert("L").resize(size)
     )
 
-    # Occlusion sensitivity
     def occlude(model, img, cls, patch=3):
         base = model.predict_proba([img.ravel()])[0][cls]
         sal = np.zeros(img.shape)
@@ -170,7 +184,6 @@ with tab3:
 
         return sal
 
-    # Predict selected image's class
     prediction = model.predict([img.ravel()])[0]
     class_index = list(model.classes_).index(prediction)
 
@@ -179,23 +192,47 @@ with tab3:
     with st.spinner("Generating occlusion map..."):
         saliency = occlude(model, img, class_index, patch=3)
 
-    original_image = Image.fromarray(img).convert("RGB")
+    display_size = (400, 400)
 
-    # Convert saliency map to a colored heatmap image
+    original_image = Image.fromarray(img).convert("RGB").resize(
+        display_size,
+        Image.Resampling.NEAREST
+    )
+
     saliency_norm = (
         (saliency - saliency.min()) /
         (saliency.max() - saliency.min() + 1e-8)
     )
 
-    saliency_rgb = (plt.cm.plasma(saliency_norm)[:, :, :3] * 255).astype(np.uint8)
-    saliency_image = Image.fromarray(saliency_rgb)
+    saliency_rgb = (
+        plt.cm.plasma(saliency_norm)[:, :, :3] * 255
+    ).astype(np.uint8)
 
-    st.subheader("Original vs. Occlusion Saliency")
+    saliency_image = Image.fromarray(saliency_rgb).resize(
+        display_size,
+        Image.Resampling.NEAREST
+    )
 
-    image_comparison(
-        img1=original_image,
-        img2=saliency_image,
-        label1="Original Rice Image",
-        label2="Occlusion Saliency Map",
-        width=700
+    st.markdown(
+        "<h3 style='text-align: center;'>Original vs. Occlusion Saliency</h3>",
+        unsafe_allow_html=True
+    )
+    left, center, right = st.columns([1, 2, 1])
+
+    with center:
+        image_comparison(
+            img1=original_image,
+            img2=saliency_image,
+            label1="Original Rice Image",
+            label2="Occlusion Saliency Map",
+            width=700
+        )
+
+    st.markdown(
+        "**Research Answer:** A random forest classifier was used as the model in order to produce this occlusion saliency map on rice images.  The streamlit " \
+        "slider on the bottom allows users to look at both the original image and the saliency map.  It can be seen that this model was able to accurately predict " \
+        "84 percent of the images in the test split.  Thus, it is a pretty useful model for predicting types of rice.  In regards to the saliency map the lighter " \
+        "the color indicates the pixels that contributed the most to the model predictive power, while the darker the color the less influence those pixels had on " \
+        "the models predictive power.  Overall, this occlusion saliency map reveals to the users which pixels for each type of rice are influential for a random " \
+        "forest classifier to make predictions of what type of rice the image is."
     )
