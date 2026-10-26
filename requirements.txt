@@ -12,3 +12,4 @@ nltk
 bertopic
 Pillow
 streamlit-image-comparison
+requests
