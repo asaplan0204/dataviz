@@ -567,7 +567,7 @@ with tab3:
 
 with tab4:
     st.markdown("""
-        **Research Question:** What visual characteristics can be observed in the first 40 reply images of the Bluesky app.
+        **Research Question:** What visual characteristics can be observed in reply images of the Bluesky app.
     """)
     
     montage, intensity = st.tabs(["Montage Analysis(Precomputed)", "Intensity Analysis(Precomputed)"])
@@ -587,7 +587,8 @@ with tab4:
         st.subheader("RGB Intensity Distribution by Reply Image")
         st.markdown("""
             **Side Note:** Just like the montage this RGB Intensitiy Distribution will be limited to only the first 10 reply images, again this is due to the other
-            images in the dataset being very explicit and not appropriate. 
+            images in the dataset being very explicit and not appropriate. Also, when using all 40 images for the RGB Intensity Distribution the app was failing, due to
+            the precomputed file being too large for streamlit and github to handle. 
         """)
         rgb_df = load_rgb_data()
         image_options = sorted(rgb_df["image_number"].unique().tolist())
@@ -694,9 +695,9 @@ with tab4:
 
     if st.session_state.show_image_answer:
         st.markdown("""
-        **Research Answer:** The 40 reply images that were used in the montage and RGB intensity distribution reveal a diverse range of visual characteristics.
+        **Research Answer:** The 40 reply images that were used in the montage and the 10 reply images used in the RGB intensity distribution reveal a diverse range of visual characteristics.
         The montage shows that some images have similarities such as being images of food, but they are different foods in the image. While most of the other images
         have nothing to do with each other.  The RGB intensity distribution shows that at the pixel level each image has it own variation of RGB distributions and intensity
-        values. Suggesting that the images vary in color composition and overall visual apperance.  Overall, the image analysis suggests that the first 40 reply images in the
+        values. Suggesting that the images vary in color composition and overall visual apperance.  Overall, the image analysis suggests that the reply images in the
         Bluesky social media app have a very wide range of visual characteristics.
         """)
