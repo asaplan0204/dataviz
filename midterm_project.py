@@ -125,21 +125,23 @@ with tab1:
 
     preview, summary = st.tabs(["Data Preview","Summary Statistics"])
     with preview:
-        st.subheader("First 5 Records")
+        st.subheader("First 5 Records of Network")
+        st.dataframe(df_network.head())
+
+        st.subheader("First 5 Records of Text")
         st.dataframe(df_text.head())
 
-        st.subheader("Last 5 Records")
-        st.dataframe(df_text.tail())
+        st.subheader("First 5 Records of Image")
+        st.dataframe(df_image.head())
 
     with summary:
         st.subheader("Bluesky Summary")
 
-        col1, col2, col3, col4 = st.columns(4)
+        col1, col2, col3 = st.columns(3)
 
-        col1.metric("Total Events", len(df_text))
+        col1.metric("Follow Relationships", len(df_network))    
         col2.metric("Text Records", len(df_text))
-        col3.metric("Follow Relationships", len(df_network))
-        col4.metric("Records with Images", len(df_image))
+        col3.metric("Records with Images", len(df_image))
 
 with tab2:
     st.subheader("Bluesky Relationship Network")
