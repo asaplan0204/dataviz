@@ -508,12 +508,12 @@ with tab3:
             }
         )
 
-    fig_frequency.update_layout(height=700)
+        fig_frequency.update_layout(height=700)
 
-    st.plotly_chart(
-        fig_frequency,
-        use_container_width=True
-    )
+        st.plotly_chart(
+            fig_frequency,
+            use_container_width=True
+        )
 
     with bertopic:
         st.header("2. BERTopic Visualization(Precomputed)")
