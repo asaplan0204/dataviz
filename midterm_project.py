@@ -42,7 +42,7 @@ def load_and_process_data():
     )
 
     df_text = df.loc[text_mask, ["event_type", "text"]].copy()
-    df_corpus = df_text[["text"]].copy()
+    # df_corpus = df_text[["text"]].copy()
 
     image_mask = (
         df["event_type"].isin(["post", "reply", "repost"])
@@ -56,11 +56,11 @@ def load_and_process_data():
         ["event_type", "created_at", "image_urls"]
     ].copy()
 
-    return df_network, df_text, df_corpus, df_image
+    return df_network, df_text, df_image #df_corpus, df_image
 
 
-df_network, df_text, df_corpus, df_image = load_and_process_data()
-
+# df_network, df_text, df_corpus, df_image = load_and_process_data()
+df_network, df_text, df_image = load_and_process_data()
 # @st.cache_data
 # def load_and_process_data():
 #     df = pd.read_csv("bluesky_all_events.csv")
@@ -126,10 +126,10 @@ with tab1:
     preview, summary = st.tabs(["Data Preview","Summary Statistics"])
     with preview:
         st.subheader("First 5 Records")
-        st.dataframe(df_corpus.head())
+        st.dataframe(df_text.head())
 
         st.subheader("Last 5 Records")
-        st.dataframe(df_corpus.tail())
+        st.dataframe(df_text.tail())
 
     with summary:
         st.subheader("Bluesky Summary")
