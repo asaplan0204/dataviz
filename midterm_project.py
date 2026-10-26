@@ -13,35 +13,83 @@ import json
 import re
 import plotly.graph_objects as go
 
-@st.cache_data
+
+@st.cache_data(max_entries=1)
 def load_and_process_data():
-    df = pd.read_csv("bluesky_all_events.csv")
+    usecols = [
+        "event_type",
+        "created_at",
+        "user_did",
+        "target_did",
+        "text",
+        "image_urls"
+    ]
 
-    df_network = df[df["event_type"] == "follow"]
+    df = pd.read_csv(
+        "bluesky_all_events.csv",
+        usecols=usecols
+    )
 
-    df_text = df[
+    df_network = df.loc[
+        df["event_type"] == "follow",
+        ["created_at", "user_did", "target_did"]
+    ].copy()
+
+    text_mask = (
         df["event_type"].isin(["post", "reply", "repost"])
-    ]
-    df_text = df_text[
-        df_text["text"].notna()
-        & (df_text["text"].str.strip() != "")
-    ]
+        & df["text"].notna()
+        & df["text"].str.strip().ne("")
+    )
 
+    df_text = df.loc[text_mask, ["event_type", "text"]].copy()
     df_corpus = df_text[["text"]].copy()
 
-    df_image = df[
+    image_mask = (
         df["event_type"].isin(["post", "reply", "repost"])
-    ]
-    df_image = df_image[
-        df_image["image_urls"].notna()
-        & (df_image["image_urls"].str.strip() != "")
-        & (df_image["image_urls"] != "[]")
-    ]
+        & df["image_urls"].notna()
+        & df["image_urls"].str.strip().ne("")
+        & df["image_urls"].str.strip().ne("[]")
+    )
 
-    return df, df_network, df_text, df_corpus, df_image
+    df_image = df.loc[
+        image_mask,
+        ["event_type", "created_at", "image_urls"]
+    ].copy()
+
+    return df_network, df_text, df_corpus, df_image
 
 
-df, df_network, df_text, df_corpus, df_image = load_and_process_data()
+df_network, df_text, df_corpus, df_image = load_and_process_data()
+
+# @st.cache_data
+# def load_and_process_data():
+#     df = pd.read_csv("bluesky_all_events.csv")
+
+#     df_network = df[df["event_type"] == "follow"]
+
+#     df_text = df[
+#         df["event_type"].isin(["post", "reply", "repost"])
+#     ]
+#     df_text = df_text[
+#         df_text["text"].notna()
+#         & (df_text["text"].str.strip() != "")
+#     ]
+
+#     df_corpus = df_text[["text"]].copy()
+
+#     df_image = df[
+#         df["event_type"].isin(["post", "reply", "repost"])
+#     ]
+#     df_image = df_image[
+#         df_image["image_urls"].notna()
+#         & (df_image["image_urls"].str.strip() != "")
+#         & (df_image["image_urls"] != "[]")
+#     ]
+
+#     return df, df_network, df_text, df_corpus, df_image
+
+
+# df, df_network, df_text, df_corpus, df_image = load_and_process_data()
 
 @st.cache_data
 def load_rgb_data():
