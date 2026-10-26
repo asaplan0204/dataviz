@@ -1,0 +1,106 @@
+{
+  "exclude_stopwords": [
+    {
+      "Topic": 0,
+      "Count": 461,
+      "Topic Words": "yes, lol, oh, yeah, agree"
+    },
+    {
+      "Topic": 1,
+      "Count": 262,
+      "Topic Words": "thank, thanks, love, cute, congrats"
+    },
+    {
+      "Topic": 2,
+      "Count": 213,
+      "Topic Words": "shes, boldandbeautiful, chloe, like, emily"
+    },
+    {
+      "Topic": 3,
+      "Count": 166,
+      "Topic Words": "parents, parent, family, kids, child"
+    },
+    {
+      "Topic": 4,
+      "Count": 148,
+      "Topic Words": "ukraine, putin, russia, trump, russian"
+    },
+    {
+      "Topic": 5,
+      "Count": 137,
+      "Topic Words": "cream, eating, eat, cheese, sugar"
+    },
+    {
+      "Topic": 6,
+      "Count": 131,
+      "Topic Words": "trans, women, rphub, gender, woman"
+    },
+    {
+      "Topic": 7,
+      "Count": 128,
+      "Topic Words": "game, games, steam, demo, play"
+    },
+    {
+      "Topic": 8,
+      "Count": 122,
+      "Topic Words": "ai, agent, bot, chatbot, field"
+    },
+    {
+      "Topic": 9,
+      "Count": 121,
+      "Topic Words": "nsfw, boobs, onlyfans, porn, nsfwbsky"
+    }
+  ],
+  "include_stopwords": [
+    {
+      "Topic": 0,
+      "Count": 257,
+      "Topic Words": "thank, you, love, thanks, cute"
+    },
+    {
+      "Topic": 1,
+      "Count": 244,
+      "Topic Words": "yes, exactly, oh, omg, yeah"
+    },
+    {
+      "Topic": 2,
+      "Count": 239,
+      "Topic Words": "her, she, shes, is, was"
+    },
+    {
+      "Topic": 3,
+      "Count": 198,
+      "Topic Words": "music, song, tune, now, playing"
+    },
+    {
+      "Topic": 4,
+      "Count": 193,
+      "Topic Words": "movie, book, it, movies, the"
+    },
+    {
+      "Topic": 5,
+      "Count": 183,
+      "Topic Words": "parents, their, my, family, to"
+    },
+    {
+      "Topic": 6,
+      "Count": 149,
+      "Topic Words": "vote, voting, early, ballot, voters"
+    },
+    {
+      "Topic": 7,
+      "Count": 148,
+      "Topic Words": "nsfw, boobs, onlyfans, nsfwbsky, tits"
+    },
+    {
+      "Topic": 8,
+      "Count": 147,
+      "Topic Words": "ukraine, putin, russia, trump, russian"
+    },
+    {
+      "Topic": 9,
+      "Count": 143,
+      "Topic Words": "game, games, demo, play, steam"
+    }
+  ]
+}
