@@ -36,23 +36,19 @@ with tab1:
     )
     all_images = sorted(folder.glob("*.jpg"))
 
-    # Get rice labels from filenames
     rice_types = sorted(set(img.name.split("_")[0] for img in all_images))
 
-    # Select 5 rice varieties
     selected_types = st.multiselect(
         "Select 5 rice varieties",
         options=rice_types,
         default=rice_types[:5]
     )
 
-    # Select the first 8 images of each variety
     images = []
     for rice_type in selected_types[:5]:
         type_images = [img for img in all_images if img.name.startswith(rice_type + "_")]
         images.extend(type_images[:8])
 
-    # Display montage
     fig, axes = plt.subplots(4, 10, figsize=(12, 5))
 
     for ax, img_path in zip(axes.ravel(), images):
