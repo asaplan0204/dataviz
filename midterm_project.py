@@ -12,7 +12,112 @@ from pathlib import Path
 import json
 import re
 import plotly.graph_objects as go
+import numpy as np
 
+@st.cache_data(max_entries=4)
+def detect_communities(edges):
+    G = nx.DiGraph()
+    G.add_edges_from(edges)
+
+    G.remove_edges_from(nx.selfloop_edges(G))
+
+    if G.number_of_edges() == 0:
+        return {}, {}
+
+    G_undirected = G.to_undirected()
+
+    communities = nx.community.louvain_communities(
+        G_undirected,
+        seed=42
+    )
+
+    partition = {
+        node: community_id
+        for community_id, community in enumerate(communities)
+        for node in community
+    }
+
+    community_sizes = {
+        community_id: len(community)
+        for community_id, community in enumerate(communities)
+    }
+
+    return partition, community_sizes
+
+@st.cache_data(max_entries=2)
+def calculate_top_terms(
+    stopword_option,
+    stemming_option,
+    ngram_option,
+    representation_option
+):
+    df = pd.read_csv(
+        "bluesky_text_corpus.csv",
+        usecols=["text"]
+    )
+
+    texts = df["text"].dropna().astype(str)
+    texts = texts[texts.str.strip().ne("")].head(5000).tolist()
+
+    del df
+
+    stop_words = (
+        "english"
+        if stopword_option == "Exclude stop words"
+        else None
+    )
+
+    ngram_range = (
+        (1, 1)
+        if ngram_option == "Unigrams"
+        else (2, 2)
+    )
+
+    options = {
+        "stop_words": stop_words,
+        "ngram_range": ngram_range,
+        "max_features": 20000,
+        "min_df": 2
+    }
+
+    if stemming_option == "Include stemming":
+        stemmer = PorterStemmer()
+
+        tokenizer_base = CountVectorizer(
+            stop_words=stop_words
+        )
+        tokenizer = tokenizer_base.build_tokenizer()
+
+        def stem_tokenizer(text):
+            return [
+                stemmer.stem(word)
+                for word in tokenizer(text)
+            ]
+
+        options["tokenizer"] = stem_tokenizer
+        options["token_pattern"] = None
+
+    if representation_option == "Frequency":
+        options["dtype"] = np.int32
+        vectorizer = CountVectorizer(**options)
+    else:
+        options["dtype"] = np.float32
+        vectorizer = TfidfVectorizer(**options)
+
+    X = vectorizer.fit_transform(texts)
+
+    results = pd.DataFrame({
+        "Term": vectorizer.get_feature_names_out(),
+        "Score": X.sum(axis=0).A1
+    })
+
+    top_terms = (
+        results.nlargest(20, "Score")
+        .sort_values("Score")
+        .copy()
+    )
+
+    return top_terms
 
 @st.cache_data(max_entries=1)
 def load_and_process_data():
@@ -134,35 +239,21 @@ with tab2:
 
     df_minute = df_network[df_network["minute"] == selected_minute]
 
-    G = nx.from_pandas_edgelist(
-        df_minute,
-        source="user_did",
-        target="target_did",
-        create_using=nx.DiGraph()
+    edges = tuple(
+        df_minute[["user_did", "target_did"]]
+        .itertuples(index=False, name=None)
     )
 
+    partition, community_sizes = detect_communities(edges)
+
+  
+    G = nx.DiGraph()
+    G.add_edges_from(edges)
     G.remove_edges_from(nx.selfloop_edges(G))
 
     if G.number_of_edges() > 0:
-        G_undirected = G.to_undirected()
-
-        communities = nx.community.louvain_communities(
-            G_undirected,
-            seed=42
-        )
-
-        partition = {
-            node: community_id
-            for community_id, community in enumerate(communities)
-            for node in community
-        }
 
         nx.set_node_attributes(G, partition, "community")
-
-        community_sizes = {
-            community_id: len(community)
-            for community_id, community in enumerate(communities)
-        }
 
         selected_communities = st.multiselect(
             "Select communities",
@@ -226,6 +317,7 @@ with tab2:
                     group=community_id,
                     size=10
                 )
+
             for source, target in G_filtered.edges():
                 net.add_edge(source, target)
 
@@ -244,21 +336,21 @@ with tab2:
 
                 net.set_options("""
                 {
-                "nodes": {
-                    "shape": "dot",
-                    "font": {"size": 10}
-                },
-                "edges": {
-                    "smooth": false
-                },
-                "physics": {
-                    "enabled": false
-                },
-                "interaction": {
-                    "hover": true,
-                    "navigationButtons": true,
-                    "zoomView": true
-                }
+                    "nodes": {
+                        "shape": "dot",
+                        "font": {"size": 10}
+                    },
+                    "edges": {
+                        "smooth": false
+                    },
+                    "physics": {
+                        "enabled": false
+                    },
+                    "interaction": {
+                        "hover": true,
+                        "navigationButtons": true,
+                        "zoomView": true
+                    }
                 }
                 """)
 
@@ -273,21 +365,21 @@ with tab2:
 
                 net.set_options("""
                 {
-                "nodes": {
-                    "shape": "dot",
-                    "font": {"size": 10}
-                },
-                "edges": {
-                    "smooth": false
-                },
-                "physics": {
-                    "enabled": false
-                },
-                "interaction": {
-                    "hover": true,
-                    "navigationButtons": true,
-                    "zoomView": true
-                }
+                    "nodes": {
+                        "shape": "dot",
+                        "font": {"size": 10}
+                    },
+                    "edges": {
+                        "smooth": false
+                    },
+                    "physics": {
+                        "enabled": false
+                    },
+                    "interaction": {
+                        "hover": true,
+                        "navigationButtons": true,
+                        "zoomView": true
+                    }
                 }
                 """)
 
@@ -295,35 +387,36 @@ with tab2:
 
                 net.set_options("""
                 {
-                "nodes": {
-                    "shape": "dot",
-                    "font": {"size": 10}
-                },
-                "edges": {
-                    "smooth": false
-                },
-                "physics": {
-                    "enabled": true,
-                    "solver": "forceAtlas2Based",
-                    "forceAtlas2Based": {
-                    "gravitationalConstant": -50,
-                    "centralGravity": 0.01,
-                    "springLength": 100,
-                    "springConstant": 0.08,
-                    "avoidOverlap": 1
+                    "nodes": {
+                        "shape": "dot",
+                        "font": {"size": 10}
                     },
-                    "stabilization": {
-                    "enabled": true,
-                    "iterations": 200
+                    "edges": {
+                        "smooth": false
+                    },
+                    "physics": {
+                        "enabled": true,
+                        "solver": "forceAtlas2Based",
+                        "forceAtlas2Based": {
+                            "gravitationalConstant": -50,
+                            "centralGravity": 0.01,
+                            "springLength": 100,
+                            "springConstant": 0.08,
+                            "avoidOverlap": 1
+                        },
+                        "stabilization": {
+                            "enabled": true,
+                            "iterations": 200
+                        }
+                    },
+                    "interaction": {
+                        "hover": true,
+                        "navigationButtons": true,
+                        "zoomView": true
                     }
-                },
-                "interaction": {
-                    "hover": true,
-                    "navigationButtons": true,
-                    "zoomView": true
-                }
                 }
                 """)
+
             components.html(
                 net.generate_html(),
                 height=670,
@@ -338,7 +431,7 @@ with tab2:
 
     else:
         st.info("No follow connections are available for this minute.")
-
+    
     if "show_network_answer" not in st.session_state:
         st.session_state.show_network_answer = False
 
@@ -359,121 +452,52 @@ with tab3:
     """)
     frequency, bertopic = st.tabs(["Frequency Analysis","BERTopic Analysis(Precomputed)"])
     with frequency:
-        df = pd.read_csv("bluesky_text_corpus.csv")
-        texts = df["text"].dropna().tolist()
-
         st.subheader("Honest Frequency Options")
+
         col1, col2, col3, col4 = st.columns(4)
+
         with col1:
             stopword_option = st.radio(
                 "Stop words",
                 ["Exclude stop words", "Include stop words"]
             )
+
         with col2:
             stemming_option = st.radio(
                 "Stemming",
                 ["Exclude stemming", "Include stemming"]
             )
+
         with col3:
             ngram_option = st.radio(
                 "N-gram",
                 ["Unigrams", "Bigrams"]
             )
+
         with col4:
             representation_option = st.radio(
                 "Representation",
                 ["Frequency", "TF-IDF"]
             )
 
-
-        if stopword_option == "Exclude stop words":
-            stop_words = "english"
-        else:
-            stop_words = None
-
-        if ngram_option == "Unigrams":
-            ngram_range = (1, 1)
-        else:
-            ngram_range = (2, 2)
-
-        if stemming_option == "Include stemming":
-
-            stemmer = PorterStemmer()
-
-            base_vectorizer = CountVectorizer(
-                stop_words=stop_words
-            )
-
-            tokenizer = base_vectorizer.build_tokenizer()
-
-            def stem_tokenizer(text):
-                words = tokenizer(text)
-                return [stemmer.stem(word) for word in words]
-
-            if representation_option == "Frequency":
-
-                vectorizer = CountVectorizer(
-                    stop_words=stop_words,
-                    tokenizer=stem_tokenizer,
-                    token_pattern=None,
-                    ngram_range=ngram_range
-                )
-
-            else:
-
-                vectorizer = TfidfVectorizer(
-                    stop_words=stop_words,
-                    tokenizer=stem_tokenizer,
-                    token_pattern=None,
-                    ngram_range=ngram_range
-                )
-
-        else:
-
-            if representation_option == "Frequency":
-
-                vectorizer = CountVectorizer(
-                    stop_words=stop_words,
-                    ngram_range=ngram_range
-                )
-
-            else:
-
-                vectorizer = TfidfVectorizer(
-                    stop_words=stop_words,
-                    ngram_range=ngram_range
-                )
-        texts = pd.Series(texts).dropna().astype(str).tolist()
-        X = vectorizer.fit_transform(texts)
-
-        terms = vectorizer.get_feature_names_out()
-        scores = X.sum(axis=0).A1
-        results = pd.DataFrame({
-            "Term": terms,
-            "Score": scores
-        })
-
-        top_terms = (
-            results
-            .sort_values("Score", ascending=False)
-            .head(20)
+        top_terms = calculate_top_terms(
+            stopword_option,
+            stemming_option,
+            ngram_option,
+            representation_option
         )
 
         st.header("1. Honest Frequency Visualization")
 
         if representation_option == "Frequency":
-
             chart_title = f"Top 20 Most Frequent {ngram_option}"
             x_label = "Number of Occurrences"
-
         else:
-
             chart_title = f"Top 20 {ngram_option} by TF-IDF"
             x_label = "Total TF-IDF Score"
 
-
         fig_frequency = px.bar(
-            top_terms.sort_values("Score"),
+            top_terms,
             x="Score",
             y="Term",
             orientation="h",
@@ -484,14 +508,13 @@ with tab3:
             }
         )
 
-        fig_frequency.update_layout(
-            height=700
-        )
+    fig_frequency.update_layout(height=700)
 
-        st.plotly_chart(
-            fig_frequency,
-            use_container_width=True
-        )
+    st.plotly_chart(
+        fig_frequency,
+        use_container_width=True
+    )
+
     with bertopic:
         st.header("2. BERTopic Visualization(Precomputed)")
 
