@@ -42,7 +42,6 @@ def load_and_process_data():
     )
 
     df_text = df.loc[text_mask, ["event_type", "text"]].copy()
-    # df_corpus = df_text[["text"]].copy()
 
     image_mask = (
         df["event_type"].isin(["post", "reply", "repost"])
@@ -56,47 +55,17 @@ def load_and_process_data():
         ["event_type", "created_at", "image_urls"]
     ].copy()
 
-    return df_network, df_text, df_image #df_corpus, df_image
+    return df_network, df_text, df_image 
 
-
-# df_network, df_text, df_corpus, df_image = load_and_process_data()
 df_network, df_text, df_image = load_and_process_data()
-# @st.cache_data
-# def load_and_process_data():
-#     df = pd.read_csv("bluesky_all_events.csv")
-
-#     df_network = df[df["event_type"] == "follow"]
-
-#     df_text = df[
-#         df["event_type"].isin(["post", "reply", "repost"])
-#     ]
-#     df_text = df_text[
-#         df_text["text"].notna()
-#         & (df_text["text"].str.strip() != "")
-#     ]
-
-#     df_corpus = df_text[["text"]].copy()
-
-#     df_image = df[
-#         df["event_type"].isin(["post", "reply", "repost"])
-#     ]
-#     df_image = df_image[
-#         df_image["image_urls"].notna()
-#         & (df_image["image_urls"].str.strip() != "")
-#         & (df_image["image_urls"] != "[]")
-#     ]
-
-#     return df, df_network, df_text, df_corpus, df_image
 
 
-# df, df_network, df_text, df_corpus, df_image = load_and_process_data()
-
-@st.cache_data
+@st.cache_data(max_entries=1)
 def load_rgb_data():
     return pd.read_csv("bluesky_reply_rgb_intensity.csv")
 
 
-@st.cache_data
+@st.cache_data(max_entries=1)
 def load_bertopic_results(path):
     with open(path, "r", encoding="utf-8") as file:
         return json.load(file)
