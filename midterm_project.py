@@ -126,17 +126,17 @@ with tab1:
     preview, summary = st.tabs(["Data Preview","Summary Statistics"])
     with preview:
         st.subheader("First 5 Records")
-        st.dataframe(df.head())
+        st.dataframe(df_corpus.head())
 
         st.subheader("Last 5 Records")
-        st.dataframe(df.tail())
+        st.dataframe(df_corpus.tail())
 
     with summary:
         st.subheader("Bluesky Summary")
 
         col1, col2, col3, col4 = st.columns(4)
 
-        col1.metric("Total Events", len(df))
+        col1.metric("Total Events", len(df_text))
         col2.metric("Text Records", len(df_text))
         col3.metric("Follow Relationships", len(df_network))
         col4.metric("Records with Images", len(df_image))
