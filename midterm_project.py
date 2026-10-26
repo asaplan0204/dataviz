@@ -632,8 +632,10 @@ with tab4:
             images in the dataset being very explicit and not appropriate. Also, when using all 40 images for the RGB Intensity Distribution the app was failing, due to
             the precomputed file being too large for streamlit and github to handle. 
         """)
+
         rgb_df = load_rgb_data()
-        image_options = sorted(rgb_df["image_number"].unique().tolist())
+
+        image_options = sorted(rgb_df["image_number"].unique().tolist())[:10]
 
         selected_image = st.selectbox(
             "Select an image",
@@ -650,17 +652,15 @@ with tab4:
             ("Green", "green"),
             ("Blue", "blue")
         ]:
+            channel_df = plot_df[plot_df["Channel"] == channel]
+
             fig.add_trace(
-                go.Histogram(
-                    x=plot_df[channel],
+                go.Bar(
+                    x=channel_df["Intensity"],
+                    y=channel_df["Pixel_Count"],
                     name=channel,
                     marker_color=color,
-                    opacity=0.55,
-                    xbins=dict(
-                        start=0,
-                        end=256,
-                        size=1
-                    )
+                    opacity=0.55
                 )
             )
 
@@ -679,55 +679,102 @@ with tab4:
 
         st.plotly_chart(fig, use_container_width=True)
 
-        df_image = df_image[
-            (df_image["event_type"] == "reply")
-            & df_image["image_urls"].notna()
-            & (df_image["image_urls"].str.strip() != "")
-            & (df_image["image_urls"] != "[]")
-        ]
+    #     rgb_df = load_rgb_data()
+    #     image_options = sorted(rgb_df["image_number"].unique().tolist())
 
-        images = []
+    #     selected_image = st.selectbox(
+    #         "Select an image",
+    #         options=image_options,
+    #         format_func=lambda x: f"Image {x}"
+    #     )
 
-        for _, row in df_image.iterrows():
-            try:
-                urls = row["image_urls"]
+    #     plot_df = rgb_df[rgb_df["image_number"] == selected_image]
 
-                if isinstance(urls, str):
-                    urls = json.loads(urls)
+    #     fig = go.Figure()
 
-                if not isinstance(urls, list):
-                    continue
+    #     for channel, color in [
+    #         ("Red", "red"),
+    #         ("Green", "green"),
+    #         ("Blue", "blue")
+    #     ]:
+    #         fig.add_trace(
+    #             go.Histogram(
+    #                 x=plot_df[channel],
+    #                 name=channel,
+    #                 marker_color=color,
+    #                 opacity=0.55,
+    #                 xbins=dict(
+    #                     start=0,
+    #                     end=256,
+    #                     size=1
+    #                 )
+    #             )
+    #         )
 
-                for value in urls:
-                    if not isinstance(value, str):
-                        continue
+    #     fig.update_layout(
+    #         title=f"RGB Intensity Distribution: Image {selected_image}",
+    #         xaxis_title="Pixel Intensity (0–255)",
+    #         yaxis_title="Pixel Count",
+    #         barmode="overlay",
+    #         bargap=0.05,
+    #         legend_title="Color Channel",
+    #         height=500,
+    #         template="plotly_white"
+    #     )
 
-                    match = re.search(r"\]\((https?://[^)]+)\)", value)
-                    url = match.group(1) if match else value.strip()
+    #     fig.update_xaxes(range=[0, 255])
 
-                    if url.startswith("https://"):
-                        images.append(url)
+    #     st.plotly_chart(fig, use_container_width=True)
 
-                    if len(images) >= 40:
-                        break
+    #     df_image = df_image[
+    #         (df_image["event_type"] == "reply")
+    #         & df_image["image_urls"].notna()
+    #         & (df_image["image_urls"].str.strip() != "")
+    #         & (df_image["image_urls"] != "[]")
+    #     ]
 
-                if len(images) >= 40:
-                    break
+    #     images = []
 
-            except (json.JSONDecodeError, TypeError):
-                continue
+    #     for _, row in df_image.iterrows():
+    #         try:
+    #             urls = row["image_urls"]
 
-        if 1 <= selected_image <= len(images):
-            col1, col2, col3 = st.columns([1, 2, 1])
+    #             if isinstance(urls, str):
+    #                 urls = json.loads(urls)
 
-            with col2:
-                st.image(
-                    images[selected_image - 1],
-                    caption=f"Reply Image {selected_image}",
-                    width=500
-                )
-        else:
-            st.warning("Could not find the URL for this image.")
+    #             if not isinstance(urls, list):
+    #                 continue
+
+    #             for value in urls:
+    #                 if not isinstance(value, str):
+    #                     continue
+
+    #                 match = re.search(r"\]\((https?://[^)]+)\)", value)
+    #                 url = match.group(1) if match else value.strip()
+
+    #                 if url.startswith("https://"):
+    #                     images.append(url)
+
+    #                 if len(images) >= 40:
+    #                     break
+
+    #             if len(images) >= 40:
+    #                 break
+
+    #         except (json.JSONDecodeError, TypeError):
+    #             continue
+
+    #     if 1 <= selected_image <= len(images):
+    #         col1, col2, col3 = st.columns([1, 2, 1])
+
+    #         with col2:
+    #             st.image(
+    #                 images[selected_image - 1],
+    #                 caption=f"Reply Image {selected_image}",
+    #                 width=500
+    #             )
+    #     else:
+    #         st.warning("Could not find the URL for this image.")
 
     if "show_image_answer" not in st.session_state:
         st.session_state.show_image_answer = False
