@@ -38,10 +38,10 @@ for _, row in df_image.iterrows():
             if url.startswith("https://"):
                 images.append((row["event_type"], url))
 
-            if len(images) >= 40:
+            if len(images) >= 10:
                 break
 
-        if len(images) >= 40:
+        if len(images) >= 10:
             break
 
     except (json.JSONDecodeError, TypeError):

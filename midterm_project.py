@@ -586,8 +586,8 @@ with tab4:
     with intensity:
         st.subheader("RGB Intensity Distribution by Reply Image")
         st.markdown("""
-            **Side Note:** Just like the montage this RGB Intensitiy Distribution will be limited to only the first 40 reply images, again this is due to the other
-            images in the dataset being very explicit and not appropriate.
+            **Side Note:** Just like the montage this RGB Intensitiy Distribution will be limited to only the first 10 reply images, again this is due to the other
+            images in the dataset being very explicit and not appropriate. 
         """)
         rgb_df = load_rgb_data()
         image_options = sorted(rgb_df["image_number"].unique().tolist())
