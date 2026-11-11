@@ -13,3 +13,6 @@ bertopic
 Pillow
 streamlit-image-comparison
 requests
+geopandas
+folium
+streamlit-folium
