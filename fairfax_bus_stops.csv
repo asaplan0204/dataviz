@@ -1,0 +1,1798 @@
+name,ref,operator,network,highway,public_transport,shelter,bench,stop_id,longitude,latitude
+HQ / DAU,,Fort Belvoir,,bus_stop,platform,,,1,-77.1347429,38.68845749999999
+12th Street / Hall Road,,Fort Belvoir,,bus_stop,platform,,,2,-77.1423509,38.69724980000001
+Pence Gate,,Fort Belvoir,,bus_stop,platform,,,3,-77.142273,38.7094113
+D,,,,bus_stop,platform,no,no,4,-77.1692337,38.7667554
+E,,,,bus_stop,platform,,no,5,-77.1688624,38.766791
+F,,,,bus_stop,platform,,,6,-77.1686445,38.7668167
+G,,,,bus_stop,platform,,,7,-77.1684142,38.76685119999999
+H,,,,bus_stop,platform,,,8,-77.1681935,38.7668927
+A,,,,bus_stop,platform,,,9,-77.1700746,38.76667019999999
+B,,,,bus_stop,platform,no,no,10,-77.1698478,38.766690200000006
+C,,,,bus_stop,platform,no,no,11,-77.1695414,38.766722699999995
+Walker Ln,,,,bus_stop,platform,,,12,-77.1591208,38.7694844
+,,,,bus_stop,platform,,,13,-77.1552928,38.769511099999995
+Walker Ln,,,,bus_stop,platform,,,14,-77.1606489,38.7684999
+Huntington Metro,,,,bus_stop,platform,yes,yes,15,-77.0760348,38.7923501
+A,,,,bus_stop,platform,,,16,-77.3829838,38.951699700000006
+Hunters Woods Vlg Ctr,,,,bus_stop,platform,,,17,-77.3616342,38.936084
+C,,,Fairfax Connector,bus_stop,platform,yes,,18,-77.359565,38.9568608
+Lake Anne Vlg Ctr,,,,bus_stop,platform,,yes,19,-77.3411635,38.96954149999999
+Blake Ln at Lindenbrook St,5,City of Fairfax,CUE,bus_stop,platform,no,yes,20,-77.2776744,38.86920049999999
+Blake Ln at Lindenbrook St,57,City of Fairfax;WMATA,CUE;WMATA Metrobus,bus_stop,platform,no,,21,-77.2774695,38.8693318
+,4,City of Fairfax,CUE,bus_stop,platform,no,no,22,-77.2790716,38.8709014
+Five Oaks Road,3,City of Fairfax,CUE,bus_stop,platform,no,no,23,-77.2819097,38.873578900000005
+Five Oaks Road,59,City of Fairfax;WMATA,CUE;WMATA Metrobus,bus_stop,platform,no,no,24,-77.2814195,38.873465200000005
+Country Creek Rd at Vaden Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,no,25,-77.2749044,38.8789966
+,7,City of Fairfax,CUE,bus_stop,platform,no,,26,-77.2724459,38.866738600000005
+Blake Ln at Blake Ln,56,City of Fairfax;WMATA,CUE;WMATA Metrobus,bus_stop,platform,no,,27,-77.27451850000001,38.86776679999999
+,6,City of Fairfax,CUE,bus_stop,platform,no,,28,-77.2746533,38.8675455
+Bell Glade Street,58,City of Fairfax;WMATA,CUE;WMATA Metrobus,bus_stop,platform,no,no,29,-77.2789174,38.871121300000006
+West Falls Church–VT Metro,,,,bus_stop,platform,,,30,-77.1879985,38.8998028
+West Falls Church Metro,,,,bus_stop,platform,,,31,-77.1885416,38.899169
+,,,,bus_stop,platform,,,32,-77.243327,38.914154799999984
+S Jefferson St,,,,bus_stop,platform,,,33,-77.1182214,38.85064680000001
+,,,,bus_stop,platform,,,34,-77.1570499,38.769338899999994
+Beulah St at Metro Park Dr,,,Fairfax Connector,bus_stop,platform,,,35,-77.15525,38.7678108
+Westmoreland & Placid,5443,,Fairfax Connector,bus_stop,platform,,,36,-77.172597,38.906014
+108,,,,bus_stop,platform,,,37,-77.2331894,38.931664
+HV2230,,,,bus_stop,platform,,,38,-77.1740757,38.8694878
+069,,,,bus_stop,platform,yes,yes,39,-77.203932,38.9031872
+Bennington Woods Rd and Waterside View Dr,1361,Transdev,Fairfax Connector,bus_stop,platform,no,no,40,-77.3573113,38.96999550000001
+Bennington Woods Rd and Whisperhill Dr,1534,Transdev,Fairfax Connector,bus_stop,platform,no,no,41,-77.357483,38.9699622
+,,,,bus_stop,platform,,,42,-77.3386712,38.9312725
+Burke Centre Pky at Martins Landing Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,,43,-77.3038256,38.7881466
+North Shore Dr & Washington Plz W,2918,,Fairfax Connector,bus_stop,platform,yes,yes,44,-77.3421099,38.96912619999999
+,,,,bus_stop,platform,,,45,-77.3474756,38.94573200000001
+,,,,bus_stop,platform,,,46,-77.3425028,38.94515410000001
+,,,,bus_stop,platform,no,yes,47,-77.3485869,38.9348535
+Burke Centre Pkwy at Pond Spice Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,48,-77.299817,38.786593999999994
+23rd Street/Gunston Road (300 Area),,Fort Belvoir,,bus_stop,platform,,,49,-77.1384981,38.6847322
+12th Street / Gunston Road,,Fort Belvoir,,bus_stop,platform,no,,50,-77.1446551,38.6963611
+Old Dominion Dr & #6556,,Metrobus,,bus_stop,platform,no,no,51,-77.168163,38.92911689999999
+,,Fort Belvoir,,bus_stop,platform,,,52,-77.142093,38.6876058
+Defense Logistics Agency (DLA),1190,Fort Belvoir,,bus_stop,platform,,,53,-77.1619881,38.7208662
+Grave Fitness Center,,,,bus_stop,platform,,,54,-77.150241,38.7160769
+PX/Commissary,,Fort Belvoir,,bus_stop,platform,,,55,-77.1489202,38.721305
+Tracy Loop/Theote Road,,,,bus_stop,platform,,,56,-77.14523,38.688952900000004
+Tracy Loop/Theote Road,,Fort Belvoir,,bus_stop,platform,,,57,-77.14507090000001,38.68895630000001
+12th Street / Gunston Road,,,,bus_stop,platform,,,58,-77.1445107,38.69641750000001
+23rd Street/Gunston Road (300 Area),,Fort Belvoir,,,platform,,,59,-77.1384722,38.68467340000001
+Gunston Rd & 5th St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,60,-77.1487312,38.7045709
+Dunn Loring Metro,,,,bus_stop,platform,yes,,61,-77.2300651,38.88214419999999
+Dunn Loring Metro,,,,bus_stop,platform,yes,,62,-77.2296208,38.8822741
+Dunn Loring Metro,,,,bus_stop,platform,yes,,63,-77.2294066,38.882339
+Dunn Loring Metro,,,,bus_stop,platform,yes,,64,-77.2298418,38.8822069
+Fort Belvoir Community Hospital,,,,bus_stop,platform,,,65,-77.1424828,38.7056275
+C,,,,bus_stop,platform,,,66,-77.2627377,38.77582009999999
+B,,,,bus_stop,platform,,,67,-77.2629893,38.77591100000001
+A,,,,bus_stop,platform,,,68,-77.263248,38.7759947
+Lee Hwy at Hyson Ln,,,,bus_stop,platform,,,69,-77.2154682,38.875626
+Lee Hwy at Gallows Rd,,,,bus_stop,platform,,,70,-77.2258862,38.874650700000004
+Building 1001,,Fort Belvoir,,bus_stop,platform,,,71,-77.1372657,38.69415620000001
+Goethals Road / Gunston Road,,Fort Belvoir,,bus_stop,platform,,,72,-77.1522273,38.712381500000006
+Hospital / WT,,Fort Belvoir,,bus_stop,platform,,,73,-77.1396467,38.7041244
+H,,,,bus_stop,platform,,,74,-77.2315794,38.932832600000005
+C,,,,bus_stop,platform,,,75,-77.2316343,38.9326276
+E,,,,bus_stop,platform,,,76,-77.2322922,38.9325327
+F,,,,bus_stop,platform,,,77,-77.2321185,38.932750700000014
+G,,,,bus_stop,platform,,,78,-77.2318899,38.9327846
+J,,,,bus_stop,platform,,,79,-77.2311301,38.93290050000001
+D,,Fairfax County Transit,,bus_stop,platform,,,80,-77.2319944,38.932576499999996
+I,,,,bus_stop,platform,,,81,-77.2313534,38.932866999999995
+USGS,,,,bus_stop,platform,yes,,82,-77.3696851,38.94847469999999
+USGS,,,,bus_stop,platform,no,no,83,-77.3695778,38.94801999999999
+Sunset Hills Park-and-Ride,5942,,Fairfax Connector,bus_stop,platform,yes,yes,84,-77.3387879,38.9510996
+,,,,bus_stop,platform,,,85,-77.344045,38.95227400000001
+,,,,bus_stop,platform,,,86,-77.3436507,38.952067500000005
+Sunset Hills Park-and-Ride,3341,,Fairfax Connector,bus_stop,platform,,,87,-77.3374387,38.950593799999986
+Sunset Hills Park-and-Ride,,,,bus_stop,platform,,,88,-77.3419435,38.95182290000001
+W-bound Sunset Hills Rd @ Plaza America,3329,,Fairfax Connector,bus_stop,platform,,,89,-77.3469767,38.9531229
+E-bound Sunset Hills Rd @ Plaza America,3323,,Fairfax Connector,bus_stop,platform,,,90,-77.3483688,38.9531959
+E-bound Sunset Hills Rd @ Oracle,3327,,Fairfax Connector,bus_stop,platform,,,91,-77.3544627,38.9548646
+A,,,,bus_stop,platform,yes,,92,-77.359132,38.9569588
+D,,Fairfax Connector,Fairfax Connector,bus_stop,platform,yes,,93,-77.3597972,38.95680649999999
+,,,,bus_stop,platform,,,94,-77.361497,38.9559581
+,,,,bus_stop,platform,,,95,-77.361159,38.9561417
+C,,,,bus_stop,platform,,,96,-77.3835511,38.95170939999999
+D,,,,bus_stop,platform,,,97,-77.383812,38.9517115
+H,,,,bus_stop,platform,,,98,-77.3847797,38.95172079999999
+G,,,,bus_stop,platform,yes,yes,99,-77.3845564,38.9517198
+B,,,,bus_stop,platform,,,100,-77.3832521,38.95170939999999
+E,,,,bus_stop,platform,,,101,-77.3840924,38.951709399999984
+F,3939,,,bus_stop,platform,yes,yes,102,-77.384311,38.951713599999984
+K,,,,bus_stop,platform,,,103,-77.3834694,38.950916799999995
+Wiehle–Reston East Metro,,,,bus_stop,platform,yes,,104,-77.3389784,38.9464851
+Wiehle–Reston East Metro,,,,bus_stop,platform,yes,,105,-77.3391679,38.94658239999999
+Wiehle–Reston East Metro,,,,bus_stop,platform,,,106,-77.3397655,38.94688440000001
+Wiehle–Reston East Metro,,,,bus_stop,platform,yes,,107,-77.3395618,38.9467801
+Wiehle–Reston East Metro,,,,bus_stop,platform,yes,,108,-77.3393577,38.94667830000001
+W-bound Leesburg Pike @ Beulah Rd,,,,bus_stop,platform,,,109,-77.2743114,38.9579935
+E-bound Leesburg Pike @ Beulah Rd,,,,bus_stop,platform,,,110,-77.2746078,38.95775840000001
+,,Fairfax County Connector,,bus_stop,platform,,,111,-77.3597833,38.941303
+Soapstone Dr & Purple Beech Dr & Glencourse Ln,,,,bus_stop,platform,,,112,-77.3455322,38.93958450000001
+,,,,bus_stop,platform,,,113,-77.34554840000001,38.94016439999999
+Soapstone Dr & Glencourse Ln,,,,bus_stop,platform,,,114,-77.3455537,38.93665540000001
+Soapstone Dr & Glencourse Ln,,,,bus_stop,platform,,,115,-77.3452962,38.9368849
+A,,,,bus_stop,platform,,,116,-77.209679,38.745766100000004
+B,,,,bus_stop,platform,,,117,-77.2094689,38.7458923
+C,,,,bus_stop,platform,,,118,-77.2092513,38.746016999999995
+D,,,,bus_stop,platform,,,119,-77.2090492,38.7461407
+B,,,,bus_stop,platform,,,120,-77.4552234,38.835940699999995
+A,,,,bus_stop,platform,,,121,-77.4041384,38.85319249999999
+Huntington Metro,,,,bus_stop,platform,yes,yes,122,-77.0760643,38.7921708
+Huntington Metro,,,,bus_stop,platform,yes,yes,123,-77.0760944,38.791992599999986
+K,,,Fairfax Connector,bus_stop,platform,,,124,-77.3580529,38.95712419999999
+,,Fairfax Connector,Fairfax Connector,bus_stop,platform,yes,,125,-77.3597419,38.9409331
+,3428,,,bus_stop,platform,no,no,126,-77.3596727,38.945643799999985
+C,,,,bus_stop,platform,,,127,-77.2327461,38.755914
+B,,,,bus_stop,platform,,,128,-77.2326965,38.75583300000002
+Soapstone Dr & Durand Dr & Winged Foot Ct,,,,bus_stop,platform,,,129,-77.3467034,38.941184099999994
+Soapstone Dr & Stoneview Sq & Ivy Bush Ct,,,,bus_stop,platform,,,130,-77.3471835,38.9327616
+Soapstone Dr & Green Watch Way & Rolling Green Ct,,,,bus_stop,platform,,,131,-77.3460892,38.9345163
+Soapstone Dr & Ridge Heights Rd,,,,bus_stop,platform,,,132,-77.3452657,38.938300899999994
+Soapstone Dr & Ridge Heights Rd,,,,bus_stop,platform,,,133,-77.3449492,38.938714000000004
+South Lakes Dr & Soapstone Dr,SR 5329,,,bus_stop,platform,,,134,-77.3461173,38.9329643
+Soapstone Dr & Rolling Green Ct & Green Watch Way,,,,bus_stop,platform,,,135,-77.3455447,38.934754099999985
+South Lakes Dr & Soapstone Dr,SR 5329,,,bus_stop,platform,,,136,-77.3461723,38.93388829999999
+Soapstone Dr & Stoneview Sq,,,,bus_stop,platform,,,137,-77.3468107,38.93237349999999
+Soapstone Dr between Underoak Ct & Hearthstone Ct,,,,bus_stop,platform,,,138,-77.3463279,38.93059370000001
+Soapstone Dr & Hearthstone Ct,,,,bus_stop,platform,,,139,-77.3443243,38.928290200000006
+Soapstone Dr & Hearthstone Ct,,,,bus_stop,platform,,,140,-77.3440883,38.9283945
+Soapstone Dr & Woodhollow Ct,,,,bus_stop,platform,,,141,-77.3440105,38.9269882
+Soapstone Dr & Woodhollow Ct,,,,bus_stop,platform,,,142,-77.3442787,38.92695059999999
+Soapstone Dr between Hearthstone Ct & Underoak Ct,,,,bus_stop,platform,,,143,-77.3461294,38.930704299999995
+Glade Dr & Soapstone Dr,,,,bus_stop,platform,,,144,-77.3446998,38.92608460000001
+Soapstone Dr & Sweetbay Ln,,,,bus_stop,platform,,,145,-77.3444235,38.9257153
+Soapstone Dr & Sweetbay Ln,,,,bus_stop,platform,,,146,-77.3446381,38.92578829999999
+Soapstone Dr & Catalpa Ct,3407,,,bus_stop,platform,no,no,147,-77.3444852,38.9232822
+Glade Dr west of Soapstone Dr,,,,bus_stop,platform,,,148,-77.3450512,38.926316299999996
+Soapstone Dr south of Catalpa Ct,3406,,,bus_stop,platform,no,no,149,-77.3448661,38.9232154
+Soapstone Dr north of Lawyers Rd,,,,bus_stop,platform,,,150,-77.3462367,38.921208
+West Falls Church–VT Metro,,,,bus_stop,platform,,,151,-77.1903614,38.9009597
+West Falls Church–VT Metro,,,,bus_stop,platform,,,152,-77.1901146,38.9011763
+F,,,,bus_stop,platform,,,153,-77.1888131,38.8994521
+West Falls Church–VT Metro,,,,bus_stop,platform,,,154,-77.1896761,38.90125979999999
+West Falls Church–VT Metro,,,,bus_stop,platform,,,155,-77.1901159,38.9009582
+West Falls Church–VT Metro,28A,,,bus_stop,platform,yes,yes,156,-77.1882793,38.90009400000001
+E,,,,bus_stop,platform,,,157,-77.1894253,38.90097959999999
+West Falls Church Metro,,,,bus_stop,platform,,,158,-77.1889505,38.8995951
+West Falls Church Metro,,,,bus_stop,platform,,,159,-77.1886783,38.89931020000001
+West Falls Church–VT Metro,,,,bus_stop,platform,,,160,-77.1898867,38.9009671
+A,,,,bus_stop,platform,yes,yes,161,-77.1878616,38.89965779999999
+West Falls Church–VT Metro,,,,bus_stop,platform,,,162,-77.1904037,38.9011043
+West Falls Church–VT Metro,,,,bus_stop,platform,,,163,-77.1896526,38.90097430000001
+West Falls Church–VT Metro,,,,bus_stop,platform,,,164,-77.1898946,38.9012197
+West Falls Church–VT Metro,,,,bus_stop,platform,yes,,165,-77.1881331,38.8999405
+Vienna Metro,463,,,bus_stop,platform,yes,yes,166,-77.2714087,38.87901779999999
+Vienna Metro,,,,bus_stop,platform,yes,no,167,-77.2702855,38.8770215
+Vienna/Fairfax-GMU,1,City of Fairfax,CUE,bus_stop,platform,yes,yes,168,-77.271426,38.87844090000001
+Vienna/Fairfax-GMU,1,City of Fairfax,CUE,bus_stop,platform,yes,yes,169,-77.2722557,38.878548499999994
+Vienna/Fairfax-GMU,1,City of Fairfax,CUE,bus_stop,platform,yes,yes,170,-77.2717805,38.87838519999998
+Vienna Metro,,,,bus_stop,platform,yes,yes,171,-77.27079930000001,38.87722190000001
+Vienna Metro,,,,bus_stop,platform,yes,yes,172,-77.2710006,38.87729959999999
+Vienna Metro,,,,bus_stop,platform,yes,yes,173,-77.27253010000001,38.87705759999999
+Vienna Metro,6323,,,bus_stop,platform,yes,yes,174,-77.2723055,38.87872060000001
+Vienna Metro,,,,bus_stop,platform,yes,yes,175,-77.2705915,38.877139099999994
+Vienna Metro,,,,bus_stop,platform,yes,yes,176,-77.2715975,38.8771552
+Vienna/Fairfax-GMU,1,City of Fairfax,CUE,bus_stop,platform,yes,yes,177,-77.2713594,38.878842
+8300 Greensboro Drive,,,,bus_stop,platform,,,178,-77.2322131,38.924711099999996
+Lee Jackson Mem Hwy & Stringfellow Rd,,,,bus_stop,platform,,,179,-77.4060982,38.88459379999999
+,5290,,Fairfax Connector,bus_stop,platform,,,180,-77.38774440000002,38.877523499999995
+A,,,,bus_stop,platform,,,181,-77.4551678,38.8358008
+C,,,,bus_stop,platform,,,182,-77.4552797,38.8360834
+Metrobus & Fairfax Connector,,,,bus_stop,platform,,,183,-77.0889214,38.71233549999999
+C,,,,bus_stop,platform,yes,yes,184,-77.2985825,38.7969323
+B,,,,bus_stop,platform,yes,yes,185,-77.2985778,38.7971115
+A,,,,bus_stop,platform,yes,yes,186,-77.2990411,38.7970551
+C,,,,bus_stop,platform,,,187,-77.4040524,38.8529005
+B,,,,bus_stop,platform,,,188,-77.4040888,38.85303749999999
+Little River Tpke at Backlick Rd,,,,bus_stop,platform,yes,yes,189,-77.193556,38.829886999999985
+FC Route 310 Bus Stop,,Fairfax Connector,Fairfax Connector,bus_stop,platform,,,190,-77.0847318,38.798749099999995
+Thomas Edison High School,1170,Fairfax Connector,Fairfax Connector,bus_stop,platform,,,191,-77.132998,38.783978799999986
+B,,,Fairfax Connector,bus_stop,platform,yes,,192,-77.3593462,38.95691159999999
+,,,,bus_stop,platform,,,193,-77.2195546,38.91618249999999
+Deepford St & Frontier Dr,1749,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,194,-77.1712754,38.78415770000001
+Frontier Dr & Deepford St,2022,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,,195,-77.1716198,38.783897399999994
+,,,,bus_stop,platform,,,196,-77.3371008,38.94859199999999
+Wiehle–Reston East Metro,,,Fairfax Connector,bus_stop,platform,,,197,-77.3380986,38.94873799999999
+Wiehle–Reston East Metro,,,,bus_stop,platform,,,198,-77.3384741,38.94846059999999
+Wiehle–Reston East Metro,,,,bus_stop,platform,,,199,-77.3378331,38.948663
+Wiehle–Reston East Metro,,,,bus_stop,platform,yes,,200,-77.3387209,38.94852950000001
+Wiehle–Reston East Metro,,,,bus_stop,platform,,,201,-77.3382113,38.94838549999999
+Wiehle–Reston East Metro,,,,bus_stop,platform,,,202,-77.3379457,38.948304199999995
+Wiehle–Reston East Metro,,,,bus_stop,platform,yes,yes,203,-77.3383641,38.948809000000004
+Wiehle–Reston East Metro,,,,bus_stop,platform,,yes,204,-77.3389515,38.94859199999999
+Wiehle–Reston East Metro,,,,bus_stop,platform,yes,yes,205,-77.3386055,38.9488757
+Gannett,,Fairfax Connector,Fairfax Connector,bus_stop,platform,yes,yes,206,-77.21888850000002,38.93161979999999
+,,Fairfax Connector,Fairfax Connector,bus_stop,platform,,,207,-77.177459,38.7805609
+,,Fairfax Connector,Fairfax Connector,bus_stop,platform,,,208,-77.177029,38.7800711
+,,,,bus_stop,platform,,,209,-77.2249768,38.8963988
+Annandale Rd at Kenfig Dr,4864,,Fairfax Connector,bus_stop,platform,,,210,-77.1789044,38.8609984
+"26A, 29C",,Metro,,bus_stop,platform,yes,yes,211,-77.2350241,38.8361271
+"29C, 29E, 29X",,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,yes,212,-77.2387776,38.83648139999998
+"29 K, N",,Metro/WMATA,,bus_stop,platform,yes,yes,213,-77.2362915,38.834954999999994
+,,,,bus_stop,platform,no,,214,-77.14727510000002,38.860703300000004
+Rt 7 Leesburg Pk & Glen Carlyn Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,yes,215,-77.13746,38.8546739
+Leesburg Pike at Gorham St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,yes,216,-77.1235655,38.847822099999995
+,,,,bus_stop,platform,yes,yes,217,-77.2164769,38.9301239
+,,,,bus_stop,platform,yes,yes,218,-77.21635120000002,38.9286499
+,183,City of Fairfax;WMATA,CUE;WMATA Metrobus,bus_stop,platform,no,,219,-77.2641951,38.874120500000004
+Nutley St at Lee Hwy,198,City of Fairfax;WMATA,CUE;WMATA Metrobus,bus_stop,platform,no,,220,-77.2632222,38.87087540000002
+,24,City of Fairfax,CUE,bus_stop,platform,yes,yes,221,-77.3080252,38.84413099999999
+,177,City of Fairfax,CUE,bus_stop,platform,no,,222,-77.2811129,38.86663939999999
+,62,City of Fairfax,CUE,bus_stop,platform,no,,223,-77.2813132,38.86671379999999
+Reston Town Center Metro Bay L,6723,,Fairfax Connector,bus_stop,platform,yes,yes,224,-77.3604682,38.9538284
+Backlick Rd & Woodland Dr,,,,bus_stop,platform,,,225,-77.1844056,38.80598239999999
+Backlick Rd & Hechinger Dr,,,,bus_stop,platform,,,226,-77.1857923,38.7964527
+Backlick Rd & Backlick Ct,1256,,Fairfax Connector,bus_stop,platform,,,227,-77.1846309,38.8008112
+Backlick Rd & Industrial Rd,1275,,Fairfax Connector,bus_stop,platform,,,228,-77.18517,38.80036799999999
+Backlick Rd and Leewood Forest Dr,,,,bus_stop,platform,,,229,-77.1838181,38.8042891
+Backlick Rd & Edsall Rd,,,,bus_stop,platform,,,230,-77.1840085,38.8052213
+Annandale Rd at Blundell Rd,4868,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,231,-77.1848639,38.857190300000006
+Columbia Pike at Whispering Ln,,,,bus_stop,platform,yes,yes,232,-77.1664959,38.837729599999996
+Columbia Pike at Mason District Pike,,,,bus_stop,platform,,,233,-77.1753964,38.83631830000001
+,,,,bus_stop,platform,yes,,234,-77.377515,38.866377099999994
+,,,,bus_stop,platform,yes,,235,-77.3691717,38.869918799999994
+,,,,bus_stop,platform,yes,,236,-77.3875516,38.85963160000001
+,,,,bus_stop,platform,yes,,237,-77.3682001,38.86011919999999
+,,,,bus_stop,platform,yes,,238,-77.3633466,38.86301509999999
+,,,,bus_stop,platform,yes,yes,239,-77.3534535,38.85658359999999
+,,,,bus_stop,platform,,,240,-77.2300846,38.9318676
+,,,,bus_stop,platform,,,241,-77.2301232,38.93208429999999
+,,,,bus_stop,platform,,,242,-77.2275338,38.93193629999999
+,,,,bus_stop,platform,,,243,-77.2268664,38.932043499999985
+,,,,bus_stop,platform,,,244,-77.2272918,38.9310342
+,,,,bus_stop,platform,,,245,-77.2263124,38.9287592
+,,,,bus_stop,platform,,,246,-77.2266322,38.928934299999995
+,,,,bus_stop,platform,,,247,-77.2300605,38.92757559999999
+Rt 7 Leesburg Pk at Glen Carlyn Rd,,,,bus_stop,platform,,,248,-77.13953940000002,38.8561216
+Little River Tpke at Hillbrook Dr,,,,bus_stop,platform,,,249,-77.1857485,38.8284856
+,188,City of Fairfax,CUE,bus_stop,platform,no,,250,-77.3082141,38.844614299999996
+,,,,bus_stop,platform,,,251,-77.1722459,38.8369217
+Columbia Pike at Maplewood Dr,,,,bus_stop,platform,,,252,-77.1634607,38.83784370000001
+Little River Tpke at John Marr Dr,,,,bus_stop,platform,,,253,-77.1895092,38.8292281
+,,,,bus_stop,platform,yes,yes,254,-77.1524115,38.87313090000001
+,,,,bus_stop,platform,yes,,255,-77.3857131,38.858117699999994
+Coffer Woods Rd & Burke Towne Ct,,,,bus_stop,platform,,,256,-77.2758543,38.79335439999999
+Country Creek Road,2,City of Fairfax,CUE,bus_stop,platform,no,no,257,-77.2782336,38.8783421
+Shuttle Stop,,,,bus_stop,platform,,,258,-77.0877151,38.709412799999996
+Shuttle Stop,,,,bus_stop,platform,,,259,-77.0896317,38.70604440000001
+Shuttle Stop,,,,bus_stop,platform,no,yes,260,-77.088347,38.705251499999996
+Merrifield Town Center,,Reston Limousine,Mosaic District Shuttle,bus_stop,platform,no,yes,261,-77.2302245,38.8703323
+Columbia Pike at Gallows Rd,,,,bus_stop,platform,,,262,-77.1865842,38.8342152
+Braddock Rd at Queensberry Ave,,,,bus_stop,platform,,,263,-77.22506940000001,38.8114229
+6800 Edsall Rd,1791,,Fairfax Connector,bus_stop,platform,,,264,-77.1813093,38.80697719999999
+Little River Tpke at Pinecrest Pky,,,,bus_stop,platform,,,265,-77.1765901,38.8261783
+Little River Tpke at Conwell Dr,,,,bus_stop,platform,,,266,-77.1776971,38.826239599999994
+Little River Tpke at Logsdon Dr,,,,bus_stop,platform,,,267,-77.1792455,38.826741899999995
+Sunrise Valley Dr at Reston Int'l Center,,,,bus_stop,platform,,,268,-77.3541409,38.94893799999999
+Sunrise Valley Dr at Reston Int'l Center,,,,bus_stop,platform,yes,,269,-77.3542883,38.94917379999999
+Leesburg Pike at Leesburg Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,yes,270,-77.1173023,38.845958
+Leesburg Pike at S Jefferson St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,yes,271,-77.1184013,38.84636480000001
+school bus stop,,,,bus_stop,platform,,,272,-77.3046214,38.7847443
+F,,,,bus_stop,platform,,,273,-77.4036913,38.853481200000004
+E,,,,bus_stop,platform,,,274,-77.40362170000002,38.85325170000001
+D,,,,bus_stop,platform,,,275,-77.4035587,38.853017099999995
+,,,,bus_stop,platform,,,276,-77.2396788,38.6699665
+,,,,bus_stop,platform,,,277,-77.2114555,38.7070694
+Lorton Station Blvd & Graysons Mill Ln,2710,,Fairfax Connector,bus_stop,platform,,,278,-77.20871070000001,38.7162452
+Lorton Market St & Groom Cottage Dr,5839,,Fairfax Connector,bus_stop,platform,,,279,-77.2219967,38.70030040000001
+Lorton Market St & Lorton Station South,5833,,Fairfax Connector,bus_stop,platform,,,280,-77.2217097,38.7014663
+Lorton Market St & Shoppers Market,4027,,Fairfax Connector,bus_stop,platform,,,281,-77.2210472,38.70346709999998
+Lorton Rd & Lewis Chapel Rd,2648,,Fairfax Connector,bus_stop,platform,,,282,-77.2168061,38.7042488
+Backlick Rd & Sunset La N Stop,401,,,bus_stop,platform,,,283,-77.1888479,38.8177543
+Backlick Rd & Sunset La Stop,402,,,bus_stop,platform,,,284,-77.1889589,38.8176535
+Backlick Rd & Wilburdale Dr Stop,402,,,bus_stop,platform,,,285,-77.1875611,38.81607640000001
+Backlick Rd & Sunset La S Stop,402,,,bus_stop,platform,,,286,-77.1868493,38.81559750000001
+Saratoga Shopping Ctr Stop,"371, 373",,,bus_stop,platform,,,287,-77.2113463,38.73994319999999
+Lorton Park & Ride,1092,,Fairfax Connector,bus_stop,platform,,,288,-77.222247,38.703966399999985
+Lorton Station Blvd & Grandwind Dr,2647,,Fairfax Connector,bus_stop,platform,,,289,-77.2118793,38.7083798
+Lorton Station Blvd & Graysons Mill Ln,2709,,Fairfax Connector,bus_stop,platform,,,290,-77.2091676,38.7165065
+Lorton Station Blvd & Grandwind Dr,2711,,Fairfax Connector,bus_stop,platform,,,291,-77.2121381,38.708166299999995
+Lorton Station Blvd & Percy Simms Dr,2714,,Fairfax Connector,bus_stop,platform,,,292,-77.2133462,38.7129237
+Lorton Station Blvd & Percy Simms Dr,2714,,Fairfax Connector,bus_stop,platform,,,293,-77.2136815,38.7130008
+Edsall Rd at Indian Run Pky,,,,bus_stop,platform,,,294,-77.1537931,38.8044648
+Edsall Rd at Bren Mar Dr,,,,bus_stop,platform,,,295,-77.1489843,38.8027886
+Edsall Rd at Independence Cir,,,,bus_stop,platform,,,296,-77.1455215,38.803508300000004
+Edsall Rd and Independence Cir,1798,,Fairfax Connector,bus_stop,platform,,,297,-77.1458675,38.8030902
+,,,,bus_stop,platform,,,298,-77.1489436,38.8029849
+Edsall Rd at Timber Forest Dr,,,,bus_stop,platform,,,299,-77.1536107,38.8047448
+Indian Run Pky at Enid Pl,,,,bus_stop,platform,,,300,-77.1548638,38.80406659999999
+,,,,bus_stop,platform,,,301,-77.1567891,38.8040885
+Harrover Pl & Lorton Station B,3975,,Fairfax Connector,bus_stop,platform,,,302,-77.2132039,38.7146179
+,,,,bus_stop,platform,,,303,-77.2132961,38.7145359
+,,,,bus_stop,platform,,,304,-77.1835517,38.75304259999999
+,,,,bus_stop,platform,,,305,-77.182803,38.75800759999999
+,,,,bus_stop,platform,,,306,-77.1829452,38.75842490000001
+,,,,bus_stop,platform,,,307,-77.182622,38.7607987
+,,,,bus_stop,platform,,,308,-77.1827735,38.76129439999999
+,,,,bus_stop,platform,,,309,-77.1824262,38.76453409999999
+,,,,bus_stop,platform,,,310,-77.1819353,38.7652127
+,,,,bus_stop,platform,,,311,-77.1819299,38.7653162
+,,,,bus_stop,platform,,,312,-77.1832237,38.78238869999999
+S George Mason Dr,,,,bus_stop,platform,no,no,313,-77.1164965,38.84300840000001
+,,,Fairfax Connector,bus_stop,platform,no,no,314,-77.1376492,38.78398729999999
+,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,no,315,-77.1233643,38.85057129999999
+,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,no,316,-77.1226498,38.85160369999999
+Carlin Springs Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,no,317,-77.1224611,38.851856700000006
+S Carlin Springs Rd at Columbia Pike,15020,Metrobus;ART,,bus_stop,platform,no,no,318,-77.1220869,38.85373299999999
+,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,yes,319,-77.1160427,38.8451373
+,,,,bus_stop,platform,no,no,320,-77.162852,38.7787198
+,,,,bus_stop,platform,no,no,321,-77.1637841,38.7793502
+,,,,bus_stop,platform,no,no,322,-77.1635741,38.77965590000001
+Backlick Rd & Highland St,,,,bus_stop,platform,,,323,-77.186448,38.7923093
+Amherst Ave & Backlick Rd,,,,bus_stop,platform,,,324,-77.1866639,38.7927379
+Backlick Rd & Cabin John Rd,,,,bus_stop,platform,,,325,-77.18619800000002,38.794100199999995
+Backlick Rd & Cabin John Rd,,,,bus_stop,platform,,,326,-77.186422,38.7940595
+,,,,bus_stop,platform,no,no,327,-77.1557284,38.780279
+,,,,bus_stop,platform,no,yes,328,-77.1464629,38.782265299999985
+,,,,bus_stop,platform,yes,yes,329,-77.1481063,38.78157389999999
+,,,,bus_stop,platform,yes,yes,330,-77.1452512,38.7821449
+,,,,bus_stop,platform,yes,yes,331,-77.1557606,38.779993700000006
+,,,Fairfax Connector,bus_stop,platform,no,no,332,-77.1411664,38.7832743
+,,,,bus_stop,platform,,,333,-77.157473,38.7800114
+,,,,bus_stop,platform,,,334,-77.1573899,38.77969160000001
+,,,Fairfax Connector,bus_stop,platform,no,no,335,-77.1402084,38.783187
+,,,,bus_stop,platform,,,336,-77.1290668,38.78398529999999
+Franconia Rd & Westchester St,6471,,Fairfax Connector,bus_stop,platform,,,337,-77.1235553,38.78593059999999
+Franconia Rd & Westchester St,6470,,Fairfax Connector,bus_stop,platform,,,338,-77.1231355,38.78590449999999
+,,,,bus_stop,platform,,,339,-77.1192794,38.78740299999998
+,,,,bus_stop,platform,,,340,-77.1176352,38.788560700000005
+,,,,bus_stop,platform,,,341,-77.1204059,38.7869182
+,,,,bus_stop,platform,,,342,-77.2519903,38.939344
+Leesburg Pike at George C Marshall Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,yes,343,-77.2104675,38.90725020000001
+Leesburg Pk & Castle Rd,,Metrobus,,bus_stop,platform,no,no,344,-77.1542428,38.86988620000001
+Leesburg Pike at Rio Dr,,Metrobus,,bus_stop,platform,no,no,345,-77.1469798,38.86103179999999
+Leesburg Pike at Rio Dr,,Metrobus,,bus_stop,platform,yes,yes,346,-77.1472889,38.86090440000001
+Leesburg Pike,,Metrobus,,bus_stop,platform,no,no,347,-77.1489251,38.863087500000006
+Leesburg Pk at Patrick Henry Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,yes,348,-77.150706,38.865358
+Leesburg Pike at S Jefferson St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,yes,349,-77.1193563,38.846305799999996
+Leesburg Pike at Leesburg Pike,,Metrobus,,bus_stop,platform,yes,yes,350,-77.1361873,38.854274499999995
+Leesburg Pike at Glen Carlyn Dr,,Metrobus,,bus_stop,platform,yes,yes,351,-77.1395212,38.85582069999999
+Rt 7 Leesburg Pk at Nevius St,,Metrobus,,bus_stop,platform,no,no,352,-77.1443787,38.85845350000001
+Seminary Rd at Gorham St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,no,353,-77.1247899,38.84630860000001
+Seminary Rd at Magnolia Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,yes,354,-77.1231115,38.844937699999996
+Seminary Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,no,355,-77.1217961,38.84246949999999
+S Carlin Springs Rd at Ardley Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,no,356,-77.1253176,38.85655589999999
+,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,yes,357,-77.1234769,38.850465799999995
+Carlin Springs Rd at Leesburg Pk,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,no,358,-77.1241116,38.8486527
+Barrick Street,181,City of Fairfax;WMATA,CUE;WMATA Metrobus,bus_stop,platform,yes,yes,359,-77.2621906,38.8669636
+,,,,bus_stop,platform,yes,,360,-77.0968819,38.7914298
+,,,,bus_stop,platform,no,,361,-77.0969698,38.79168370000001
+Lee Hwy at Circle Woods Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,yes,362,-77.270784,38.86881399999999
+Richmond Hwy at S Kings Hwy,,,Fairfax Connector,bus_stop,platform,yes,yes,363,-77.0791074,38.78102239999999
+,,,,bus_stop,platform,,,364,-77.0805517,38.7803945
+,,,,bus_stop,platform,,,365,-77.0807958,38.780413300000006
+,,Metrobus,,bus_stop,platform,no,no,366,-77.1458995,38.869690500000004
+Patrick Henry Dr at Willston Dr,,Metrobus,,bus_stop,platform,no,no,367,-77.146556,38.870515299999994
+Rose Hill Dr & Greenhaven Pl,3154,,Fairfax Connector,bus_stop,platform,,,368,-77.120918,38.7853099
+Old Dominion Dr & Valley Ave,,Metrobus,,bus_stop,platform,no,no,369,-77.1576066,38.9238062
+Old Dominion Dr & Valley Ave,,Metrobus,,bus_stop,platform,no,no,370,-77.1575754,38.9236607
+Old Dominion Dr & #6330,,Metrobus,,bus_stop,platform,no,no,371,-77.1561134,38.9229864
+Old Dominion Dr & #6306,,Metrobus,,bus_stop,platform,no,no,372,-77.1546474,38.9221663
+Old Dominion Dr & #6315,,Metrobus,,bus_stop,platform,no,no,373,-77.1543739,38.921908800000004
+Old Dominion Dr & Chesterbrook Shopping Ctr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,yes,374,-77.1515911,38.920283299999994
+Old Dominion Dr & Chesterbrook Shopping Ctr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,no,375,-77.1509649,38.920115499999994
+Old Dominion Dr & #6556,,Metrobus,,bus_stop,platform,no,no,376,-77.1682316,38.929058999999995
+Old Dominion Dr & 6th Pl,,Metrobus,,bus_stop,platform,no,no,377,-77.1658934,38.9264385
+Old Dominion Dr & 6th Pl,,Metrobus,,bus_stop,platform,no,no,378,-77.1657271,38.92639079999999
+Old Dominion Dr & Cooper Dr,,Metrobus,,bus_stop,platform,no,no,379,-77.1645099,38.9244282
+Old Dominion Dr & Ingleside Ave,,Metrobus,,bus_stop,platform,no,no,380,-77.1828074,38.9360273
+Old Dominion Dr & Ingleside Ave,,Metrobus,,bus_stop,platform,no,no,381,-77.182255,38.9355414
+Old Dominion Dr & Beverly Rd,,Metrobus;WMATA,WMATA,bus_stop,platform,no,no,382,-77.1798593,38.934547800000004
+Old Dominion Dr & Hampton Hill Cir,,Metrobus,,bus_stop,platform,no,no,383,-77.1721271,38.930866300000005
+Old Dominion Dr & Holmes Pl,,Metrobus,,bus_stop,platform,no,no,384,-77.1729154,38.9309604
+Old Dominion Dr & Chain Bridge Rd,,Metrobus,,bus_stop,platform,yes,yes,385,-77.1765778,38.933548600000016
+,,,,bus_stop,platform,,,386,-77.0939291,38.792097999999996
+,,,,bus_stop,platform,,,387,-77.093289,38.79460919999999
+,,,,bus_stop,platform,,,388,-77.0934009,38.7947131
+,,,,bus_stop,platform,,,389,-77.0936315,38.7927418
+,,,,bus_stop,platform,,,390,-77.1192085,38.7822969
+,,,,bus_stop,platform,,,391,-77.119297,38.78273180000001
+,,,,bus_stop,platform,,,392,-77.10097980000002,38.7915466
+,,,,bus_stop,platform,yes,yes,393,-77.4410022,38.87664289999999
+,1260,,,bus_stop,platform,yes,yes,394,-77.1863443,38.8122398
+Braddock Rd & Dodson Dr,,,,bus_stop,platform,,,395,-77.1793982,38.81196759999999
+Braddock Rd at Dodson Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,396,-77.180145,38.811787999999986
+,"5001743, 1412",,,bus_stop,platform,yes,yes,397,-77.1840787,38.8118004
+Braddock Rd at Backlick Rd,,,,bus_stop,platform,no,yes,398,-77.1844703,38.8119885
+Wilson Blvd at Peyton Randolph Dr,,,,bus_stop,platform,,,399,-77.1492888,38.87322269999999
+,2558,,,bus_stop,platform,yes,,400,-77.1098224,38.7386231
+,,,,bus_stop,platform,no,no,401,-77.35142030000002,38.9366223
+,,,,bus_stop,platform,no,no,402,-77.351533,38.93733259999999
+Penny Lane,,,Mosaic District Shuttle,bus_stop,platform,no,no,403,-77.2320354,38.8696733
+Strawberry Lane @ The Alley,,Reston Limosine,Mosaic Shuttle,bus_stop,platform,no,no,404,-77.2304071,38.872349500000006
+Dunn Loring Metro,,Reston Limosine,Mosaic Shuttle,bus_stop,platform,no,yes,405,-77.2284048,38.8819953
+Udvar-Hazy Air & Space Museum,6253,,,bus_stop,platform,yes,yes,406,-77.4432358,38.91037599999999
+,,,,bus_stop,platform,,,407,-77.1858593,38.78561260000001
+Sunset Hills Rd and Washington & Old Dominion Trail,3332,,Fairfax Connector,bus_stop,platform,yes,yes,408,-77.3277444,38.946967699999995
+Sunset Hills Rd and Business Center Dr,3289,,Fairfax Connector,bus_stop,platform,yes,yes,409,-77.3257201,38.9470268
+Leesville Blvd at Catlett St,,,,bus_stop,platform,,,410,-77.1883217,38.80089319999999
+Leesville Blvd at Backlick Rd,,,,bus_stop,platform,,,411,-77.1852116,38.8021118
+Backlick Rd at Leesville Blvd,,,,bus_stop,platform,,,412,-77.1841642,38.802635499999994
+,,,,bus_stop,platform,,,413,-77.183943,38.802602
+,,,,bus_stop,platform,yes,yes,414,-77.3654994,38.961519999999986
+,,,,bus_stop,platform,,,415,-77.1978983,38.836064900000004
+Loisdale Ct,,,,bus_stop,platform,,,416,-77.1784249,38.7751631
+Loisdale Ct,,,,bus_stop,platform,,,417,-77.1786006,38.775159900000006
+Loisdale Ct at Springfield Hilton,,,,bus_stop,platform,,,418,-77.1784101,38.7770262
+Loisdale Ct at Comfort Inn,,,,bus_stop,platform,,,419,-77.1785789,38.776289399999996
+Chain Bridge Rd at University Dr,,,,bus_stop,platform,no,,420,-77.3115545,38.83565879999999
+,123,City of Fairfax,CUE,bus_stop,platform,no,,421,-77.3114872,38.835129900000005
+,,,,bus_stop,platform,,,422,-77.19824840000001,38.837165000000006
+Columbia Pike at Carlin Hill Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,423,-77.124228,38.8529262
+Vienna Metro,,,,bus_stop,platform,yes,yes,424,-77.272737,38.876989599999995
+Vienna Metro,,,,bus_stop,platform,yes,yes,425,-77.2729591,38.8769171
+Vienna Metro,,,,bus_stop,platform,yes,yes,426,-77.2731471,38.8766033
+Vienna Metro,,,,bus_stop,platform,yes,yes,427,-77.273183,38.876424300000004
+Vienna Metro,,,,bus_stop,platform,yes,yes,428,-77.2721175,38.877117500000004
+Tysons Metro,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,429,-77.2225188,38.91983059999999
+Tysons Metro,,,,bus_stop,platform,,,430,-77.2226974,38.91982689999998
+Tysons Metro,,,,bus_stop,platform,,,431,-77.2228823,38.9198265
+Tysons Metro,,,,bus_stop,platform,,,432,-77.22206920000002,38.9205923
+Tysons Metro,,,,bus_stop,platform,,,433,-77.2223946,38.9204694
+Tysons Metro,,,,bus_stop,platform,,,434,-77.222074,38.92078189999999
+Tysons Metro,,,,bus_stop,platform,,,435,-77.22210050000001,38.920989299999995
+Spring Hill Metro,,,,bus_stop,platform,,,436,-77.2418507,38.928727999999985
+Spring Hill Metro,,,,bus_stop,platform,yes,yes,437,-77.2412825,38.92917919999999
+Spring Hill Metro,,,,bus_stop,platform,yes,yes,438,-77.2413892,38.9292728
+Spring Hill Metro,,,,bus_stop,platform,yes,no,439,-77.24148400000001,38.92937309999999
+Spring Hill Metro,,,,bus_stop,platform,yes,yes,440,-77.2415781,38.929468699999994
+McLean Metro,,,,bus_stop,platform,yes,yes,441,-77.2077728,38.924241599999995
+McLean Metro,,,,bus_stop,platform,yes,yes,442,-77.2078592,38.924329199999995
+McLean Metro,,,,bus_stop,platform,yes,yes,443,-77.2079965,38.9244555
+McLean Metro,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,,444,-77.208539,38.9245968
+McLean Metro,,,,bus_stop,platform,,,445,-77.2099796,38.92442299999999
+McLean Metro,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,,446,-77.2097605,38.92451150000001
+Huntington Ave at Fenwick Dr,730,,Fairfax Connector,bus_stop,platform,,,447,-77.0742785,38.79572299999999
+Huntington Metro,,,,bus_stop,platform,,,448,-77.0751268,38.796028199999995
+Huntington Metro,,,,bus_stop,platform,,,449,-77.0749256,38.795824399999994
+Huntington Metro,,,,bus_stop,platform,,,450,-77.0749471,38.79566450000001
+Huntington Metro,,,,bus_stop,platform,,,451,-77.0749739,38.7954784
+Huntington Metro,,,,bus_stop,platform,,,452,-77.074998,38.795265199999996
+Huntington Metro,,,,bus_stop,platform,,,453,-77.0750248,38.79509120000001
+Huntington Metro,,,,bus_stop,platform,,,454,-77.0765926,38.792741400000004
+Huntington Metro,,,,bus_stop,platform,,,455,-77.0761929,38.792768599999995
+,,,,bus_stop,platform,,,456,-77.233817,38.92135400000001
+,,,,bus_stop,platform,,,457,-77.1703492,38.766629200000004
+L,,,,bus_stop,platform,,,458,-77.1674719,38.767072
+K,,,,bus_stop,platform,,,459,-77.1677421,38.766996200000015
+J,,,,bus_stop,platform,,,460,-77.1679828,38.766939199999996
+,,,,bus_stop,platform,,,461,-77.2276147,38.8830225
+,,,,bus_stop,platform,yes,yes,462,-77.2280851,38.8829009
+Dunn Loring Metro,,,,bus_stop,platform,yes,,463,-77.2291727,38.882085499999995
+Dunn Loring Metro,,,,bus_stop,platform,yes,,464,-77.2293592,38.8820281
+Dunn Loring Metro,,,,bus_stop,platform,yes,,465,-77.2295643,38.88196339999998
+Dunn Loring Metro,,,,bus_stop,platform,yes,,466,-77.2297682,38.8819028
+Patriot Ridge,6153,,Fairfax Connector,bus_stop,platform,,,467,-77.1881792,38.74686969999999
+,,,,bus_stop,platform,,,468,-77.1957779,38.755282900000005
+,,,,bus_stop,platform,,,469,-77.1959536,38.75542299999999
+,,,,bus_stop,platform,,,470,-77.2384659,38.755966799999996
+,,,,bus_stop,platform,,,471,-77.4502934,38.8710249
+,,,,bus_stop,platform,,,472,-77.4501063,38.8705999
+E,,,,bus_stop,platform,,,473,-77.3597125,38.95687259999999
+F,,,,bus_stop,platform,,,474,-77.3594932,38.95692319999999
+G,,,,bus_stop,platform,,,475,-77.3592699,38.95697429999999
+H,,,,bus_stop,platform,,,476,-77.3590426,38.9570269
+,,,,bus_stop,platform,,,477,-77.37356,38.92566879999999
+C,,,,bus_stop,platform,,,478,-77.3721734,38.92607829999999
+B,,,,bus_stop,platform,,,479,-77.3722793,38.925926
+A,,,,bus_stop,platform,,,480,-77.3723839,38.92576530000001
+Lorton VRE Bay A,1189,,Fairfax Connector,bus_stop,platform,,,481,-77.21432340000001,38.71492279999999
+Lorton VRE Bay B,5960,,Fairfax Connector,bus_stop,platform,,,482,-77.214487,38.71477689999999
+Lorton VRE Bay C,22079,,Fairfax Connector,bus_stop,platform,,,483,-77.21461840000002,38.7146691
+,,,,bus_stop,platform,,,484,-77.3831732,38.95181699999999
+A,,,,bus_stop,platform,,,485,-77.2326328,38.7557702
+,,,Fairfax Connector,bus_stop,platform,,,486,-77.1841566,38.77105430000001
+B,,,,bus_stop,platform,,,487,-77.2314063,38.9326614
+A,,,,bus_stop,platform,,,488,-77.2311837,38.93269419999999
+,,,,bus_stop,platform,,,489,-77.1838374,38.77017970000001
+,,,,bus_stop,platform,,,490,-77.438662,38.8257327
+Government Center Rdwy at Bay 1,,,,bus_stop,platform,,,491,-77.3582118,38.8534004
+,,,,bus_stop,platform,,,492,-77.3604266,38.854313699999985
+,,,,bus_stop,platform,,,493,-77.2023292,38.932115200000005
+,,,,bus_stop,platform,yes,,494,-77.3697661,38.94831009999999
+,,,,bus_stop,platform,yes,,495,-77.3694858,38.9487701
+Arlington Blvd at Stonehurst Dr,180,City of Fairfax;WMATA,CUE;WMATA Metrobus,bus_stop,platform,yes,yes,496,-77.2654851,38.864879499999994
+Old Dominion Dr & Cloverlawn Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,,497,-77.1490896,38.9168453
+Westmoreland Street & Mayfair McLean Court,5441,,Fairfax Connector,bus_stop,platform,,,498,-77.172765,38.91005909999999
+Westmoreland St & Hopewood Dr,5447,,Fairfax Connector,bus_stop,platform,,,499,-77.1725525,38.908429399999996
+Westmoreland St & Youngblood St,5449,,Fairfax Connector,bus_stop,platform,no,no,500,-77.1735672,38.912259
+Westmoreland St & Youngblood St,5440,,Fairfax Connector,bus_stop,platform,no,no,501,-77.1736683,38.91210110000001
+,29,City of Fairfax,CUE,bus_stop,platform,no,no,502,-77.31014860000002,38.835011999999985
+Seven Corners,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,,503,-77.1525656,38.8706294
+Seven Corners,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,,504,-77.1527909,38.8707159
+Seven Corners,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,,505,-77.15291,38.8707635
+Patrick Henry Dr & Greenwood Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,,506,-77.1498485,38.8660592
+Patrick Henry Dr & Brook Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,,507,-77.1476794,38.8670158
+Patrick Henry Dr & Arlington Blvd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,,508,-77.1470481,38.867982100000006
+Arlington Blvd & Olin Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,,509,-77.1414537,38.86632199999999
+Arlington Blvd & Montague St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,,510,-77.137724,38.86625120000001
+Arlington Blvd & Arlington Blvd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,,511,-77.1432658,38.8665444
+Patrick Henry Dr & Arlington Blvd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,,512,-77.1472607,38.86812409999999
+Patrick Henry Dr & Brook Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,,513,-77.1480982,38.8669147
+Patrick Henry Dr & Leesburg Pk,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,,514,-77.150568,38.865970999999995
+Leesburg Pk & Patrick Henry Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,,515,-77.1512312,38.8666123
+Little River Tpke & Pinecrest Heights Dr,,,,bus_stop,platform,,,516,-77.1748401,38.8256646
+Tysons Corner Shopping Center Parking Terrace C,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,517,-77.2207405,38.9164212
+Old Dominion Dr & Birch Rd,5001628,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,,518,-77.1621161,38.92399939999999
+Old Dominion Dr & Hampton Ridge Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,,519,-77.1740921,38.932035
+Old Dominion Dr & Corner Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,,520,-77.175547,38.933217199999994
+Old Dominion Dr & Beverly Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,,521,-77.1804787,38.9350008
+Galleria Dr & Tysons Blvd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,,522,-77.2204773,38.9221136
+Leesburg Pk & International Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,,523,-77.2253365,38.91503629999998
+International Dr & Fletcher St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,,524,-77.2253642,38.9166243
+International Dr & Tysons Corner Ctr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,,525,-77.225434,38.91849
+Dolley Madison Bl at International Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,,526,-77.2242682,38.91990799999999
+Old Dominion Dr & Whittier Ave,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,,527,-77.1741488,38.9318136
+Old Dominion Dr & Birch Rd,5001626,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,,528,-77.1622068,38.923859699999994
+Old Dominion Dr & #6325,,Metrobus,,bus_stop,platform,no,no,529,-77.1559601,38.92278819999998
+Old Dominion Dr & Park Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,,530,-77.1493686,38.91703100000001
+Little River Tpke & Oasis Dr,5000577,,,bus_stop,platform,,,531,-77.1416326,38.8178965
+4813 Beauregard St,5002020,Alexandria Transit Company,DASH,bus_stop,platform,no,,532,-77.1429461,38.81950969999999
+N Beauregard St & Lincolnia Rd,5002022,WMATA;DASH,WMATA;DASH,bus_stop,platform,no,,533,-77.140153,38.81992350000001
+N Beauregard St+Gloucester Rd,4000545,Alexandria Transit Company,DASH,bus_stop,platform,no,,534,-77.1399563,38.82008079999999
+Beauregard St + N Chambliss St,5002023,WMATA;DASH,WMATA;DASH,bus_stop,platform,no,,535,-77.1423247,38.82068180000001
+Little River Tpke + Oasis Dr - Landmark Plaza (Southbound),5000578,WMATA;DASH,WMATA;DASH,bus_stop,platform,yes,,536,-77.1422599,38.81780760000001
+Lincolnia Rd + N Beauregard St,5000592,Alexandria Transit Company,DASH,bus_stop,platform,no,,537,-77.139665,38.8195521
+Jones Branch Dr & Westbranch Dr,,Fairfax Connector,Fairfax Connector,bus_stop,platform,yes,,538,-77.2211933,38.93149530000001
+Jones Branch Dr & Freddie Mac Cir,,,,bus_stop,platform,yes,,539,-77.224865,38.9314497
+,,,,bus_stop,platform,yes,,540,-77.3586148,38.962100299999996
+,,,,bus_stop,platform,yes,,541,-77.3587234,38.962284899999986
+,,,,bus_stop,platform,yes,,542,-77.3571503,38.9621587
+Arlington Blvd & Prosperity Ave (SE),1A 1C,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,,543,-77.2390721,38.8653106
+Arlington Blvd & Prosperity Ave (NW),1A 1C,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,yes,544,-77.2407179,38.865548100000005
+Lee Jackson Hwy and Plaza La,,,,bus_stop,platform,no,,545,-77.3997812,38.8816982
+Route 50 & Highland Oaks Drive,4083,,Fairfax Connector,bus_stop,platform,no,no,546,-77.3951209,38.8803223
+Baron Cameron Ave & Hunter Mill Rd,1308,Fairfax Connector,Fairfax Connector,bus_stop,platform,yes,,547,-77.3164265,38.97594950000001
+,,,,bus_stop,platform,,,548,-77.3250563,38.7986754
+,,,,bus_stop,platform,,,549,-77.225288,38.92889829999999
+Annandale Rd at Barrett Rd,4844,,Fairfax Connector,bus_stop,platform,no,,550,-77.1751951,38.86588369999999
+Annandale Rd at Gouthier Rd,,Washington Metropolitan Area Transit Authority,Fairfax Connector,bus_stop,platform,,,551,-77.1762841,38.8642431
+Annandale Rd at Gouthier Rd,4844,Washington Metropolitan Area Transit Authority,Fairfax Connector,bus_stop,platform,,,552,-77.1764647,38.8637867
+Annadale Rd at Kenfig Dr,7228,,Fairfax Connector,bus_stop,platform,,,553,-77.1788181,38.8606907
+Arlington Bl at Jaguar Tr,,,,bus_stop,platform,,,554,-77.2074765,38.865826099999985
+,2218,,,bus_stop,platform,yes,yes,555,-77.3888823,38.973871599999995
+Cedar Lane & Bowling Green Drive,462;467,,,bus_stop,platform,,,556,-77.2429111,38.88675140000001
+Cedar Lane & Bowling Green Drive,462;467,,,bus_stop,platform,,,557,-77.2432016,38.8866495
+Leesburg Pike & Delta Glen Ct,2664,Fairfax County,Fairfax Connector,bus_stop,platform,no,no,558,-77.3037395,38.97367119999999
+,,,,bus_stop,platform,,,559,-77.2854804,38.9650492
+,,,,bus_stop,platform,,,560,-77.3336367,38.9625969
+,,,,bus_stop,platform,yes,yes,561,-77.2171269,38.9272656
+,2463,,,bus_stop,platform,yes,yes,562,-77.2176044,38.9263866
+,,,,bus_stop,platform,,,563,-77.3202592,38.97456
+,,,,bus_stop,platform,,,564,-77.3195464,38.97404079999998
+,,,,bus_stop,platform,,,565,-77.3193131,38.9740559
+,,,,bus_stop,platform,,,566,-77.3619495,38.9625336
+,,,,bus_stop,platform,,,567,-77.36116930000001,38.96356509999998
+,,,,bus_stop,platform,,,568,-77.3602003,38.964840699999996
+,,,,bus_stop,platform,,,569,-77.3622086,38.96262819999999
+,,,,bus_stop,platform,,,570,-77.3614046,38.963660299999994
+,,,,bus_stop,platform,,,571,-77.3603167,38.965297199999995
+Baron Cameron Ave & Hunter Mill Rd,1307,Fairfax Connector,Fairfax Connector,bus_stop,platform,yes,,572,-77.3164411,38.97657590000001
+,,,,bus_stop,platform,yes,yes,573,-77.3644862,38.962921
+,,,,bus_stop,platform,yes,yes,574,-77.353756,38.960342100000005
+Vienna Metro,,,,bus_stop,platform,yes,yes,575,-77.2714492,38.8772447
+,"5000823,3696",WMATA;Fairfax County Department of Transportation,WMATA Metrobus;Fairfax Connector,bus_stop,platform,yes,yes,576,-77.309454,38.8353093
+Main St at Whitacre Rd,45;5000918,City of Fairfax;WMATA,CUE;WMATA Metrobus,bus_stop,platform,yes,yes,577,-77.27780730000002,38.8418022
+Main St at Pickett Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,no,578,-77.272342,38.8410868
+,,,,bus_stop,platform,yes,yes,579,-77.3647289,38.963031500000014
+SUNSET HILLS RD @ YMCA-RESTON,5843,,Fairfax Connector,bus_stop,platform,yes,yes,580,-77.3685014,38.955380200000015
+,,,,bus_stop,platform,,yes,581,-77.3685698,38.95497449999999
+,60,City of Fairfax,CUE,bus_stop,platform,no,no,582,-77.2782475,38.87811320000001
+,61,City of Fairfax,CUE,bus_stop,platform,no,,583,-77.2798092,38.868400099999995
+,178,City of Fairfax,CUE,bus_stop,platform,no,,584,-77.2801319,38.8682662
+Arlington Blvd at Stonehurst Dr,185,City of Fairfax;WMATA,CUE;WMATA Metrobus,bus_stop,platform,yes,yes,585,-77.2649872,38.8651792
+Barrick Street,184,City of Fairfax;WMATA,CUE;WMATA Metrobus,bus_stop,platform,yes,yes,586,-77.2623384,38.866854499999995
+Nutley St at Rt 29 Lee Hwy,197,City of Fairfax;WMATA,CUE;WMATA Metrobus,bus_stop,platform,no,,587,-77.2628821,38.871295100000005
+Nutley St at Hermosa Dr,182,City of Fairfax;WMATA,CUE;WMATA Metrobus,bus_stop,platform,no,,588,-77.2633251,38.87314860000001
+,154,City of Fairfax,CUE,bus_stop,platform,no,,589,-77.31480770000002,38.84617109999999
+,,George Mason University,,bus_stop,platform,yes,yes,590,-77.3070468,38.83471409999999
+,,George Mason University,,bus_stop,platform,yes,yes,591,-77.3070239,38.8345631
+,,George Mason University,,bus_stop,platform,yes,yes,592,-77.3070162,38.8345095
+GMU Campus,30,City of Fairfax,CUE,bus_stop,platform,yes,yes,593,-77.3070678,38.834862999999984
+Little River Tpke & Green Spring Rd,,,,bus_stop,platform,,,594,-77.1594844,38.82188479999999
+Vaden Dr at Lee Hwy,2B,,,bus_stop,platform,yes,yes,595,-77.27001770000001,38.870751199999994
+Lee Hwy at Circle Woods Dr,2B,,,bus_stop,platform,no,no,596,-77.2710864,38.86895
+Richmond Highway at Hagel Circle,,,Fairfax Connector,bus_stop,platform,yes,yes,597,-77.2154342,38.695820099999985
+Richmond Highway at Hagel Circle,,,Fairfax Connector,bus_stop,platform,yes,yes,598,-77.2155189,38.69623049999999
+,,,,bus_stop,platform,,,599,-77.269405,38.886534899999994
+Lee Hwy at Nutley St,,,,bus_stop,platform,,,600,-77.2606701,38.8722992
+,,,,bus_stop,platform,,,601,-77.2634342,38.86491929999999
+Richmond Hwy at S Kings Hwy,,,Fairfax Connector,bus_stop,platform,yes,,602,-77.07822350000001,38.781476600000005
+,,,,bus_stop,platform,yes,,603,-77.0685964,38.7867328
+,,,Fairfax Connector,bus_stop,platform,yes,,604,-77.0812476,38.77104880000001
+,,,Fairfax Connector,bus_stop,platform,yes,,605,-77.0817328,38.7708939
+Richmond Hwy at Arlington Dr,,,Fairfax Connector,bus_stop,platform,yes,,606,-77.0832668,38.7552706
+Richmond Hwy at Arlington Dr,,,Fairfax Connector,bus_stop,platform,yes,,607,-77.0837391,38.754991
+,,,Fairfax Connector,bus_stop,platform,yes,,608,-77.0975492,38.734421699999984
+,,,Fairfax Connector,bus_stop,platform,yes,,609,-77.0853618,38.7428935
+Richmond Hwy at Ladson Ln,,,Fairfax Connector,bus_stop,platform,yes,,610,-77.0876659,38.7404008
+Richmond Hwy at Mohawk Ln,,,Fairfax Connector,bus_stop,platform,yes,,611,-77.10434130000002,38.7312166
+,,,Fairfax Connector,bus_stop,platform,yes,,612,-77.1074884,38.7291564
+,,,Fairfax Connector,bus_stop,platform,yes,,613,-77.213205,38.697902799999994
+Richmond Hwy at Lukens Ln,,,Fairfax Connector,bus_stop,platform,yes,,614,-77.1195518,38.723166
+Richmond Hwy at Sacramento Dr,,,Fairfax Connector,bus_stop,platform,yes,,615,-77.12613,38.720331399999985
+,,,Fairfax Connector,bus_stop,platform,no,yes,616,-77.2107144,38.7008
+,,,Fairfax Connector,bus_stop,platform,yes,,617,-77.2091288,38.702356299999984
+,,,Fairfax Connector,bus_stop,platform,yes,,618,-77.2128413,38.6987945
+,2917,County of Fairfax,Fairfax Connector,bus_stop,platform,yes,yes,619,-77.3420638,38.96941349999999
+North Shore Dr & Village Rd,,County of Fairfax,Fairfax Connector,bus_stop,platform,,,620,-77.3403766,38.9702718
+North Shore Dr & Village Rd,,County of Fairfax,Fairfax Connector,bus_stop,platform,,,621,-77.3404623,38.9701564
+Westmoreland St at 32nd,,Metrobus,,bus_stop,platform,no,no,622,-77.1685803,38.89703260000001
+Westmoreland St at 33rd,,Metrobus,,bus_stop,platform,no,no,623,-77.1690577,38.8983727
+Westmoreland St at Gordon,,Metrobus,,bus_stop,platform,no,no,624,-77.1694386,38.89954589999999
+Westmoreland St at Moly,,Metrobus,,bus_stop,platform,no,no,625,-77.1710426,38.90169169999999
+Westmoreland St at Haycock,5444,Metrobus,,bus_stop,platform,no,no,626,-77.1720296,38.9036538
+Westmoreland St at Kirby,,Metrobus,,bus_stop,platform,no,no,627,-77.1727189,38.907452599999985
+Westmoreland St at Poole,,Metrobus,,bus_stop,platform,no,no,628,-77.1753207,38.9133027
+Westmoreland St at Somerville,,Metrobus,,bus_stop,platform,no,no,629,-77.1775925,38.9152875
+Westmoreland St at Van Fleet,,Metrobus,,bus_stop,platform,no,no,630,-77.1794647,38.917869
+Westmoreland St at Lumsden,,Metrobus,,bus_stop,platform,no,no,631,-77.1806663,38.91966990000001
+Westmoreland St at Southbridge,,Metrobus,,bus_stop,platform,no,no,632,-77.1812966,38.92100130000001
+Westmoreland St at Rosemont,,Metrobus,,bus_stop,platform,no,no,633,-77.1819001,38.9235367
+Westmoreland St at Old Chesterbrook,,Metrobus,,bus_stop,platform,no,no,634,-77.1825224,38.92603870000001
+Westmoreland St at Chain Bridge,,Metrobus,,bus_stop,platform,no,no,635,-77.1843141,38.92898079999999
+Chain Bridge at Laughlin,,Metrobus,,bus_stop,platform,no,no,636,-77.1804088,38.931772499999994
+Chain Bridge at Redmond,,Metrobus,,bus_stop,platform,no,no,637,-77.1787217,38.932990999999994
+Chain Bridge at Corner,,Metrobus,,bus_stop,platform,no,no,638,-77.1769166,38.93458090000001
+Chain Bridge at Brawner St,,Metrobus,,bus_stop,platform,no,no,639,-77.1760073,38.9358577
+Chain Bridge at Nolte St,,Metrobus,,bus_stop,platform,no,no,640,-77.1754199,38.93823199999999
+Chain Bridge at Dolly Madison,,Metrobus,,bus_stop,platform,no,no,641,-77.1748084,38.9398968
+Dolley Madison Blvd & Buchanan,,Metrobus,,bus_stop,platform,no,no,642,-77.1698892,38.9420998
+Dolley Madison Blvd & Waverly,,Metrobus,,bus_stop,platform,no,no,643,-77.1659249,38.9428217
+Dolley Madison Blvd & Ballantrae,,Metrobus,,bus_stop,platform,no,no,644,-77.159965,38.9423126
+Dolley Madison Blvd & Lynwood Hill,,Metrobus,,bus_stop,platform,no,no,645,-77.1585917,38.9424274
+Dolley Madison Blvd & Dunaway,,Metrobus,,bus_stop,platform,no,no,646,-77.1548501,38.943059500000004
+Dolley Madison Blvd & Georgetown,,Metrobus,,bus_stop,platform,no,no,647,-77.1511138,38.9436999
+Westmoreland St at Old Chesterbrook,,Metrobus,,bus_stop,platform,no,no,648,-77.1823588,38.92607619999998
+Westmoreland St at Rosemont,,Metrobus,,bus_stop,platform,no,no,649,-77.1817312,38.923530499999984
+Westmoreland St at Felix,,Metrobus,,bus_stop,platform,no,no,650,-77.1811169,38.9211474
+Westmoreland St at Dean,,Metrobus,,bus_stop,platform,no,no,651,-77.1802962,38.9193778
+Westmoreland St at Van Fleet,,Metrobus,,bus_stop,platform,no,no,652,-77.1793065,38.9179066
+Westmoreland St at Somerville,,Metrobus,,bus_stop,platform,no,no,653,-77.1774745,38.91537929999999
+Westmoreland St at Poole,,Metrobus,,bus_stop,platform,no,no,654,-77.1753126,38.913530200000004
+Westmoreland St at Mayfair,,Metrobus,,bus_stop,platform,no,no,655,-77.1726143,38.91029109999999
+Westmoreland St at Kirby,,Metrobus,,bus_stop,platform,no,no,656,-77.1725446,38.9073315
+Westmoreland St at Placid,,Metrobus,,bus_stop,platform,no,no,657,-77.1722174,38.90550309999999
+Westmoreland St at Haycock,,Metrobus,,bus_stop,platform,no,no,658,-77.1717131,38.90324890000001
+Westmoreland St at Boxwood,,Metrobus,,bus_stop,platform,no,no,659,-77.1702004,38.90114479999999
+Westmoreland St at Roosevelt,,Metrobus,,bus_stop,platform,no,no,660,-77.1692026,38.899704499999984
+Westmoreland St at 33rd,,Metrobus,,bus_stop,platform,no,no,661,-77.1686769,38.8982015
+Dolley Madison Blvd & Potomac School,,Metrobus,,bus_stop,platform,no,no,662,-77.1524388,38.9431012
+Dolley Madison Blvd & Dunaway,,Metrobus,,bus_stop,platform,no,no,663,-77.1544397,38.94280499999999
+Dolley Madison Blvd & Lynwood Hill,,Metrobus,,bus_stop,platform,no,no,664,-77.1574169,38.9423168
+Dolley Madison Blvd & Ballantrae,,Metrobus,,bus_stop,platform,no,no,665,-77.1608502,38.941974699999996
+Dolley Madison Blvd & Outlet,,Metrobus,,bus_stop,platform,no,no,666,-77.1657747,38.9424545
+Dolley Madison Blvd & Buchanan,,Metrobus,,bus_stop,platform,no,no,667,-77.1695352,38.941803599999986
+Dolley Madison Blvd & Kurtz,,Metrobus,,bus_stop,platform,no,no,668,-77.1732152,38.94079810000001
+Chain Bridge at Nolte St,,Metrobus,,bus_stop,platform,no,no,669,-77.1750444,38.9385929
+Chain Bridge at Brawner St,,Metrobus,,bus_stop,platform,no,no,670,-77.1757391,38.93594949999999
+Chain Bridge at Emerson,,Metrobus,,bus_stop,platform,no,no,671,-77.1779868,38.933356199999984
+Chain Bridge at Tennyson Dr,,Metrobus,,bus_stop,platform,no,no,672,-77.1797007,38.9320167
+Chain Bridge at Buena Vista Ave,,Metrobus,,bus_stop,platform,no,no,673,-77.18197530000002,38.93067919999999
+Westmoreland St at Chain Bridge,,Metrobus,,bus_stop,platform,no,no,674,-77.1841639,38.9290371
+Langley,,,,bus_stop,platform,,,675,-77.1459733,38.9472358
+Dolley Madison Blvd at Old Meadow Rd,5402,,,bus_stop,platform,yes,yes,676,-77.209884,38.924017299999996
+Dolley Madison Blvd at Colshire Dr,,,,bus_stop,platform,,,677,-77.2075872,38.9251522
+Dolley Madison Blvd at Scotts Crossing Rd,5537,,,bus_stop,platform,,,678,-77.207892,38.9254486
+,,,,bus_stop,platform,,,679,-77.2628994,38.7584106
+,,,,bus_stop,platform,,,680,-77.2590102,38.7594528
+,,,,bus_stop,platform,,,681,-77.2534768,38.76711679999998
+,,,,bus_stop,platform,,,682,-77.2489332,38.7740282
+,3720,,,bus_stop,platform,yes,yes,683,-77.1337194,38.7735955
+Gallows Rd & Cottage St,2078,,Fairfax Connector,bus_stop,platform,no,no,684,-77.2270456,38.886848
+Gallows Rd & Cottage St,2079,,Fairfax Connector,bus_stop,platform,no,no,685,-77.2272517,38.886981999999996
+Lee Hwy at Mainstone Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,686,-77.2520196,38.8724828
+Lee Hwy at Espana Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,687,-77.2527262,38.8727514
+,,,,bus_stop,platform,,,688,-77.3289359,38.94044599999999
+,,,,bus_stop,platform,,,689,-77.3286202,38.9392002
+,,Fairfax County Connector,,bus_stop,platform,,,690,-77.3429258,38.956392599999994
+"Sunrise Valley Drive &Parkridge Boulevard",3545,,Fairfax Connector,bus_stop,platform,no,no,691,-77.3155391,38.94321069999999
+Sunset Hills Rd and Michael Faraday Ct,3318,,Fairfax Connector,bus_stop,platform,no,no,692,-77.3335043,38.94928679999999
+Bennington Woods Rd and Fieldthorn Drive,1526,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,693,-77.3574078,38.9721516
+Bennington Woods Rd and Moss Point Ln,1528,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,694,-77.3578163,38.9724442
+Walnut Branch Rd and Grey Squirrel Ln,5802,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,695,-77.3583031,38.973787599999994
+Walnut Branch Rd and Fairfax County Pkwy,5803,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,696,-77.360836,38.97541939999999
+Bennington Woods Rd and Trail Edge Ln,1532,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,697,-77.3553137,38.97398049999999
+Bennington Woods Rd and Harvest Green Dr,1527,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,698,-77.35329,38.97421099999998
+Bennington Woods Rd and Stevenage Rd,1531,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,699,-77.358958,38.96804000000001
+Bennington Woods Rd and Waterside View Dr,1533,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,700,-77.3591854,38.9681177
+Stevenage Rd and Bennington Woods Rd,6001,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,701,-77.3588231,38.96764939999999
+Bracknell Dr and Stevenage Rd,6000,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,702,-77.3573086,38.96733850000001
+Bracknell Dr and Stevenage Rd,6002,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,703,-77.35711700000002,38.967385
+Fountain Dr and Baron Cameron Ave,1991,Fairfax Connector,Fairfax Connector,bus_stop,platform,yes,yes,704,-77.3559953,38.965405399999995
+Fountain Dr and Baron Cameron Ave,6008,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,705,-77.3562398,38.96536350000001
+Fountain Dr at Spectrum Center,6010,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,706,-77.3559207,38.96358810000001
+Fountain Dr at Spectrum Center,6009Bennington Woods Rd,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,707,-77.35636,38.9630628
+Fountain Dr and Bowman Towne Dr,6403,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,708,-77.3563331,38.9626342
+Fountain Dr and Bowman Towne Dr,1973,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,709,-77.3568905,38.9618125
+Fountain Dr and Bowman Towne Dr,1974,Fairfax Connector,Fairfax Connector,bus_stop,platform,yes,yes,710,-77.3566294,38.9618109
+New Dominion Pkwy and Fountain Dr,2844,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,711,-77.3574443,38.960708100000005
+New Dominion Pkwy at Reston Pkwy,2846,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,712,-77.3564162,38.960580499999985
+New Dominion Pkwy and Explorer St,6404,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,713,-77.3609833,38.9606745
+Town Center Pkwy at Market St,5827,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,714,-77.3634266,38.95849689999999
+Town Center Pkwy at Bluemont Way,6311,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,715,-77.3626004,38.9568648
+Town Center Pkwy at Sunset Hills Rd,3603,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,716,-77.36272930000001,38.954327500000005
+Reston Town Center Metro Bay G,7297,Fairfax Connector,Fairfax Connector,bus_stop,platform,yes,yes,717,-77.3594943,38.9534677
+Reston Parkway and Bennington Woods Rd,3235,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,718,-77.3514678,38.97418360000001
+Reston Parkway and Lake Newport Rd,3241,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,719,-77.3489557,38.977566599999996
+Lake Newport Rd and Reston Parkway,7196,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,720,-77.3506342,38.977665099999996
+North Point Village Center,398,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,yes,721,-77.3495674,38.979495799999995
+Lake Newport Rd and Arbor Glen Way,2637,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,722,-77.3520946,38.97787629999999
+Lake Newport Rd and Woodcrest Dr,2641,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,723,-77.35408420000002,38.979583299999994
+Lake Newport Rd and Deer Point Way,2638,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,724,-77.35545570000001,38.980336
+Lake Newport Rd and Poplar Grove Dr,2640,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,725,-77.3591698,38.97923
+,,,,bus_stop,platform,,,726,-77.3476976,38.934239
+Backlick Rd & Beverly St,,,Fairfax Connector,bus_stop,platform,,,727,-77.1911837,38.821097800000004
+Sunrise Valley Dr and South Lakes Dr,3560,,Fairfax Connector,bus_stop,platform,,,728,-77.3288549,38.9418072
+Little River Tpke at John Marr Dr,5310;5000757,,Fairfax Connector;metrobus,bus_stop,platform,no,no,729,-77.1885065,38.82936899999999
+Little River Tpke at Lake Blvd,5313;5000831,,Fairfax Connector; metrobus,bus_stop,platform,no,no,730,-77.2246982,38.8355727
+Little River Tpke at Pine Ridge Dr,,,Fairfax Connector; metrobus,bus_stop,platform,no,,731,-77.2242564,38.8352967
+Sunset Hills Rd and Samuel Morse Dr,3331,,Fairfax Connector,bus_stop,platform,,,732,-77.3306761,38.9478221
+ROUTE 50 @ MUIRFIELD LN,2633,,Fairfax Connector,bus_stop,platform,no,,733,-77.39724,38.8811682
+,,,,bus_stop,platform,yes,,734,-77.2273402,38.87345040000001
+,,,,bus_stop,platform,no,,735,-77.2274499,38.8711958
+Sunset Hills Rd and Hunter Mill Rd,3307,,Fairfax Connector,bus_stop,platform,,,736,-77.312937,38.948570200000006
+10742 Sunset Hills Rd,3060,,Fairfax Connector,bus_stop,platform,,,737,-77.3186877,38.947777499999994
+SUNRISE VALLEY @ CAMPUS COMMON,3497,,Fairfax Connector,bus_stop,platform,,,738,-77.3372374,38.94381080000001
+SUNRISE VALLEY @ CAMPUS COMMON,3496,,Fairfax Connector,bus_stop,platform,,,739,-77.3330902,38.942317599999996
+SUNRISE VALLEY @ LAKEPORT,3537,,Fairfax Connector,bus_stop,platform,,,740,-77.3310786,38.942086
+,3546,,Fairfax Connector,bus_stop,platform,,,741,-77.3267602,38.94144980000001
+Sunrise Valley Dr and Barton Hill Rd,3491,,Fairfax Connector,bus_stop,platform,,,742,-77.3245823,38.94094909999999
+Sunrise Valley Dr and Robert Fulton Dr,3555,,Fairfax Connector,bus_stop,platform,,,743,-77.3217137,38.94201199999999
+Sunrise Valley Dr and Alexander Bell Dr,3488,,Fairfax Connector,bus_stop,platform,,,744,-77.3197369,38.9433158
+,3322,,Fairfax Connector,bus_stop,platform,,,745,-77.3516679,38.95507109999999
+SUNSET HILLS @ RESTON PKWY,3326,,Fairfax Connector,bus_stop,platform,,,746,-77.3562974,38.955511200000004
+SUNSET HILLS RD @ RESTON PKWY,6349,,Fairfax Connector,bus_stop,platform,,,747,-77.3575446,38.9550189
+SUNSET HILLS RD @ TOWN CENTER PKWY,3303,,Fairfax Connector,bus_stop,platform,,,748,-77.3632101,38.9538586
+SUNSET HILLS RD @ TOWN CTR PKW,3333,,Fairfax Connector,bus_stop,platform,,,749,-77.3647819,38.9541652
+,6441,,Fairfax Connector,bus_stop,platform,no,no,750,-77.1469527,38.7555498
+Kingstowne Village Pkwy. and Hayfield Rd.,2524,Transdev,Fairfax Connector,bus_stop,platform,no,no,751,-77.1451908,38.75674959999999
+Kingstowne Village Pkwy. and Park Village Dr.,2534,,Fairfax Connector,bus_stop,platform,yes,yes,752,-77.1514347,38.7534919
+Leesburg Pike at Haycock Rd,,,,bus_stop,platform,no,,753,-77.1900822,38.894638500000006
+,,,,bus_stop,platform,no,no,754,-77.3267298,38.9719291
+Commonwealth Blvd at Pommeroy Dr,,,,bus_stop,platform,no,no,755,-77.284046,38.813181400000005
+Pommeroy Dr at Bacon Ct,,,,bus_stop,platform,no,no,756,-77.2855095,38.81077870000001
+Pommeroy Dr at Bronte Dr,,,,bus_stop,platform,no,no,757,-77.2850233,38.80860909999999
+Pommeroy Dr at Morley Ct,,,,bus_stop,platform,no,no,758,-77.2847411,38.8068025
+,,,,bus_stop,platform,no,,759,-77.2833996,38.80438139999999
+Guinea Rd at Pierrpont St,,,,bus_stop,platform,no,,760,-77.28276820000002,38.8041827
+Guinea Rd at Pierrpont St,,,,bus_stop,platform,no,,761,-77.2823435,38.80440149999999
+Guinea Rd at Burke Rd,,,,bus_stop,platform,no,,762,-77.2809739,38.80600909999999
+Guinea Rd at Burke Rd,,,,bus_stop,platform,no,,763,-77.2816015,38.80591340000001
+Guinea Rd at Burke Rd,,,,bus_stop,platform,no,,764,-77.2798815,38.806653699999984
+,,,,bus_stop,platform,no,,765,-77.2780694,38.809434399999994
+Guinea Rd at Bronte Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,,766,-77.27826,38.809538
+Twinbrook Rd at Heathwood Ct,,,,bus_stop,platform,no,,767,-77.2750571,38.81391589999999
+Twinbrook Rd at Heathwood Ct,,,,bus_stop,platform,no,,768,-77.27514340000002,38.81424719999999
+,,,,bus_stop,platform,no,,769,-77.2749195,38.8155211
+,,,,bus_stop,platform,no,,770,-77.2744799,38.81648140000001
+,,,,bus_stop,platform,yes,,771,-77.27588680000001,38.8186473
+Burke Rd at Ashbourn Dr,,,,bus_stop,platform,no,,772,-77.2789612,38.8045761
+,,,,bus_stop,platform,no,,773,-77.2790155,38.80434629999999
+Burke Rd at Peppercorn Dr,,,,bus_stop,platform,no,,774,-77.278506,38.8035208
+,,,,bus_stop,platform,no,,775,-77.2781877,38.803635
+,,,,bus_stop,platform,no,,776,-77.2769246,38.80169699999998
+Burke Rd at Lake Braddock Dr,,,,bus_stop,platform,no,,777,-77.2767938,38.80119959999999
+WMATA,,,,bus_stop,platform,no,yes,778,-77.2277705,38.87826849999999
+,,,Fairfax Connector,bus_stop,platform,,,779,-77.0774294,38.7379836
+S Carlin Springs Rd at Columbia Pike,,,,bus_stop,platform,,,780,-77.1220927,38.85376070000001
+Arlington Blvd at N Montague St,,,Arlington Transit,bus_stop,platform,,,781,-77.1377426,38.8662488
+S Carlin Springs Rd at Ardley Ct,,,,bus_stop,platform,,,782,-77.1254061,38.8566266
+,,,,bus_stop,platform,,,783,-77.2917714,38.9672167
+Columbia Pike at Maple Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,784,-77.13581,38.847739799999985
+Columbia Pike at Lacy Blvd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,785,-77.1358203,38.847455399999994
+Columbia Pike at Courtland Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,786,-77.1322913,38.8493366
+Columbia Pike,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,787,-77.1321429,38.8491297
+Columbia Pike at Moray Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,788,-77.1271516,38.851153599999996
+Columbia Pike at Moray Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,789,-77.127334,38.8513875
+Rt 7 Leesburg Pk,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,790,-77.1208852,38.8468927
+Rt 7 Leesburg Pk,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,yes,791,-77.1208463,38.8472216
+,,,Fairfax Connector,bus_stop,platform,,,792,-77.211348,38.6997873
+,3618,,Fairfax Connector,bus_stop,platform,no,no,793,-77.1329626,38.760843799999996
+,3617,,Fairfax Connector,bus_stop,platform,no,no,794,-77.1329536,38.7610363
+,3968,,Fairfax Connector,bus_stop,platform,no,no,795,-77.1308856,38.7623911
+,3644,,Fairfax Connector,bus_stop,platform,no,no,796,-77.1301433,38.7626794
+,3626,,Fairfax Connector,bus_stop,platform,no,no,797,-77.1288418,38.76365259999999
+,6435,,Fairfax Connector,bus_stop,platform,no,no,798,-77.1290091,38.7633413
+,3614,,Fairfax Connector,bus_stop,platform,no,no,799,-77.1265154,38.76494499999998
+,3615,,Fairfax Connector,bus_stop,platform,no,no,800,-77.1262656,38.7647738
+,3357,,Fairfax Connector,bus_stop,platform,no,no,801,-77.1129327,38.76945969999999
+,2490,,Fairfax Connector,bus_stop,platform,no,no,802,-77.1132313,38.769250299999996
+,3364,,Fairfax Connector,bus_stop,platform,no,no,803,-77.1074961,38.77044479999999
+,3365,,Fairfax Connector,bus_stop,platform,no,no,804,-77.1018549,38.7715976
+,3360,,Fairfax Connector,bus_stop,platform,no,no,805,-77.1006914,38.772039799999995
+S Kings Hwy at Queens Rd,6445,,Fairfax Connector,bus_stop,platform,,,806,-77.0928698,38.77355500000001
+Little River Tpk at Minor Ln,,,,bus_stop,platform,yes,,807,-77.1664949,38.823332199999996
+Braddock Rd at Monroe Dr,,,,bus_stop,platform,no,,808,-77.1731419,38.81201159999999
+Braddock Rd at Monroe Dr,,,,bus_stop,platform,,,809,-77.1734568,38.8118212
+Richmond Hwy at Dart Dr,,,,bus_stop,platform,yes,,810,-77.0836967,38.75937530000001
+,1417,,Fairfax Connector,bus_stop,platform,no,no,811,-77.1327494,38.7483198
+,709,,Fairfax Connector,bus_stop,platform,no,no,812,-77.1350024,38.7463829
+,2282,,Fairfax Connector,bus_stop,platform,no,no,813,-77.1374422,38.7555119
+,3616,,Fairfax Connector,bus_stop,platform,no,no,814,-77.1242985,38.7657634
+,2503,,,bus_stop,platform,yes,yes,815,-77.1378582,38.7700872
+,,,,bus_stop,platform,no,no,816,-77.1339527,38.7694088
+,588,,Fairfax Connector,bus_stop,platform,yes,no,817,-77.13709410000001,38.7552437
+,587,,Fairfax Connector,bus_stop,platform,no,no,818,-77.1345842,38.7537859
+,2281,,Fairfax Connector,bus_stop,platform,no,no,819,-77.1315036,38.7523811
+,712,,Fairfax Connector,bus_stop,platform,no,no,820,-77.1298502,38.75088840000001
+,687,,Fairfax Connector,bus_stop,platform,no,no,821,-77.1371207,38.7453379
+,1488,,Fairfax Connector,bus_stop,platform,no,no,822,-77.1398361,38.746802
+,2486,,,bus_stop,platform,no,no,823,-77.1379286,38.768238800000006
+,2488,,,bus_stop,platform,no,no,824,-77.1383869,38.76769529999999
+,2278,,Fairfax Connector,bus_stop,platform,no,no,825,-77.1408268,38.7551354
+,2277,,Fairfax Connector,bus_stop,platform,no,no,826,-77.1410774,38.7554671
+,6437,,Fairfax Connector,bus_stop,platform,no,no,827,-77.1386725,38.753436099999995
+,2279,,Fairfax Connector,bus_stop,platform,no,no,828,-77.1382572,38.7554591
+,2275,,Fairfax Connector,bus_stop,platform,no,no,829,-77.13806900000002,38.75530009999999
+,3622,,Fairfax Connector,bus_stop,platform,no,no,830,-77.1353292,38.75891329999999
+,,,,bus_stop,platform,no,no,831,-77.1315687,38.772518299999994
+,2493,,Fairfax Connector,bus_stop,platform,no,no,832,-77.132283,38.7495964
+,2527,,,bus_stop,platform,no,no,833,-77.140293,38.7674989
+,1140,,,bus_stop,platform,yes,yes,834,-77.1355848,38.77138810000002
+,1146,,,bus_stop,platform,no,no,835,-77.1347294,38.77221609999999
+,,,,bus_stop,platform,no,no,836,-77.1318803,38.77195799999999
+,7369,,,bus_stop,platform,yes,yes,837,-77.1368449,38.770987000000005
+,,,,bus_stop,platform,,,838,-77.1483735,38.76425350000001
+,,,,bus_stop,platform,,,839,-77.1543244,38.76508729999999
+,2502,,,bus_stop,platform,yes,yes,840,-77.1390658,38.7697547
+,3795,,,bus_stop,platform,no,no,841,-77.3345108,38.95501519999999
+,4732,,,bus_stop,platform,no,no,842,-77.3350586,38.9519371
+,,,,bus_stop,platform,,,843,-77.18399620000001,38.7616123
+Innovation Center Metro Station (South),,,Fairfax Connector,bus_stop,platform,,,844,-77.4174598,38.95962149999999
+,3633,,Fairfax Connector,bus_stop,platform,no,no,845,-77.0938962,38.785864999999994
+,3634,,Fairfax Connector,bus_stop,platform,yes,yes,846,-77.0937,38.785766
+,3024,,Fairfax Connector,bus_stop,platform,no,no,847,-77.099138,38.772723400000004
+,3025,,Fairfax Connector,bus_stop,platform,no,no,848,-77.099322,38.77294220000001
+,3003,,Fairfax Connector,bus_stop,platform,no,no,849,-77.0993722,38.7743187
+,3002,,Fairfax Connector,bus_stop,platform,no,no,850,-77.0995778,38.77469539999999
+Gallows Rd at Willow Oaks Corp Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,851,-77.227435,38.862905
+,,,,bus_stop,platform,,,852,-77.2152879,38.868575199999995
+Arlington Bl at Williams Dr,,,,bus_stop,platform,,,853,-77.2345672,38.865322400000004
+Arlington Bl at Jaguar Tr,,,,bus_stop,platform,,,854,-77.2076351,38.86613870000001
+,,,,bus_stop,platform,,,855,-77.1878063,38.867581799999996
+Arlington Bl at Monticello Dr,,,,bus_stop,platform,,,856,-77.1972275,38.866295
+Lee Hwy at N Fairview Park Dr,,,,bus_stop,platform,,,857,-77.2145235,38.87526929999999
+Beulah St at Charles Arrington Dr,,,Fairfax Connector,bus_stop,platform,,,858,-77.1550457,38.766968999999996
+,3719,,,bus_stop,platform,yes,yes,859,-77.1334803,38.77386779999999
+,,,,bus_stop,platform,no,no,860,-77.171884,38.7789465
+,,,,bus_stop,platform,yes,yes,861,-77.1713869,38.775821799999996
+,,,,bus_stop,platform,no,no,862,-77.1717486,38.7761062
+,,,,bus_stop,platform,no,no,863,-77.1706951,38.77078620000001
+,,,Fairfax Connector,bus_stop,platform,no,no,864,-77.1356469,38.778371700000015
+,3711,,Fairfax Connector,bus_stop,platform,yes,yes,865,-77.1353074,38.778811499999996
+,,,Fairfax Connector,bus_stop,platform,no,no,866,-77.1355243,38.78304579999999
+,,,Fairfax Connector,bus_stop,platform,no,no,867,-77.1359372,38.7832714
+,,,Fairfax Connector,bus_stop,platform,no,no,868,-77.13843230000002,38.78353069999999
+,,,,bus_stop,platform,no,no,869,-77.1511624,38.78098479999999
+,,,,bus_stop,platform,no,no,870,-77.1516071,38.78119410000001
+,,,,bus_stop,platform,no,no,871,-77.160011,38.77925230000001
+,,,,bus_stop,platform,no,no,872,-77.1637497,38.78162739999999
+,,,,bus_stop,platform,no,no,873,-77.1663498,38.783425
+,,,,bus_stop,platform,no,no,874,-77.166502,38.7835729
+,,,,bus_stop,platform,no,no,875,-77.1716233,38.783929400000005
+,3726,,Fairfax Connector,bus_stop,platform,no,no,876,-77.1362172,38.786632299999994
+,3714,,Fairfax Connector,bus_stop,platform,no,no,877,-77.1363763,38.78801820000001
+,,,Fairfax Connector,bus_stop,platform,no,no,878,-77.1367641,38.788352399999994
+,3723,,,bus_stop,platform,no,no,879,-77.1366689,38.79141539999999
+,,,Fairfax Connector,bus_stop,platform,no,no,880,-77.1372556,38.7921363
+Shuttle Stop,,,,bus_stop,platform,,,881,-77.089242,38.70701580000001
+,3796,,,bus_stop,platform,no,no,882,-77.3347894,38.9546754
+,3800,,,bus_stop,platform,no,no,883,-77.335379,38.951808299999996
+,,,,bus_stop,platform,yes,,884,-77.1911316,38.7567331
+,,,,bus_stop,platform,yes,,885,-77.1925833,38.7555786
+Seven Corners Transit Center,,,,,platform,,,886,-77.1526909,38.870725199999995
+,685,,Fairfax Connector,bus_stop,platform,no,no,887,-77.1423577,38.74864730000001
+,3608,,Fairfax Connector,bus_stop,platform,no,no,888,-77.1428109,38.7487807
+,772,,Fairfax Connector,bus_stop,platform,no,no,889,-77.0896182,38.7873944
+,1060,,Fairfax Connector,bus_stop,platform,no,no,890,-77.0896685,38.7874918
+,736,,Fairfax Connector,bus_stop,platform,no,no,891,-77.1363288,38.7571863
+,3611,,Fairfax Connector,bus_stop,platform,yes,yes,892,-77.1366442,38.757306099999994
+,6436,,Fairfax Connector,bus_stop,platform,no,no,893,-77.1449478,38.7467937
+,3623,,Fairfax Connector,bus_stop,platform,no,no,894,-77.1402272,38.75156460000001
+,698,,Fairfax Connector,bus_stop,platform,no,no,895,-77.1071282,38.76967099999999
+,3702,,Fairfax Connector,bus_stop,platform,no,no,896,-77.1072809,38.7697313
+,3701,,Fairfax Connector,bus_stop,platform,no,no,897,-77.1087422,38.768263499999996
+,3699,,Fairfax Connector,bus_stop,platform,no,no,898,-77.1090718,38.767638000000005
+,715,,Fairfax Connector,bus_stop,platform,no,no,899,-77.1079931,38.76413459999999
+,3251,,Fairfax Connector,bus_stop,platform,no,no,900,-77.1060445,38.764158
+,3254,,Fairfax Connector,bus_stop,platform,no,no,901,-77.1060254,38.76603959999999
+,3252,,Fairfax Connector,bus_stop,platform,no,no,902,-77.1084635,38.766521899999994
+,3358,,Fairfax Connector,bus_stop,platform,no,no,903,-77.1196472,38.7677809
+,6192,,Fairfax Connector,bus_stop,platform,no,no,904,-77.1190793,38.76778809999999
+,3620,,Fairfax Connector,bus_stop,platform,no,no,905,-77.0834505,38.7939325
+,3619,,Fairfax Connector,bus_stop,platform,no,no,906,-77.0826425,38.7945609
+,3628,,Fairfax Connector,bus_stop,platform,no,no,907,-77.0818603,38.796235900000006
+,532,,Fairfax Connector,bus_stop,platform,no,no,908,-77.0807448,38.7973348
+,2425,,,bus_stop,platform,,,909,-77.0766189,38.79709890000001
+,2420,,,bus_stop,platform,no,no,910,-77.0765142,38.7968385
+,3607,,Fairfax Connector,bus_stop,platform,no,no,911,-77.0885008,38.7881078
+,3621,,Fairfax Connector,bus_stop,platform,no,no,912,-77.0872426,38.7887462
+,3034,,Fairfax Connector,bus_stop,platform,no,no,913,-77.0951351,38.7847611
+,3033,,Fairfax Connector,bus_stop,platform,no,no,914,-77.0952693,38.784754099999994
+,3020,,Fairfax Connector,bus_stop,platform,no,no,915,-77.0989442,38.7765935
+,3021,,Fairfax Connector,bus_stop,platform,no,no,916,-77.0986098,38.77672499999999
+,3016,,Fairfax Connector,bus_stop,platform,no,no,917,-77.095909,38.7799958
+,3005,,Fairfax Connector,bus_stop,platform,no,no,918,-77.0959771,38.7803544
+,2993,,Fairfax Connector,bus_stop,platform,no,no,919,-77.0953773,38.78237159999999
+,3035,,Fairfax Connector,bus_stop,platform,no,no,920,-77.0954689,38.7826084
+,3641,,Fairfax Connector,bus_stop,platform,no,no,921,-77.0860422,38.789499200000016
+,749,,Fairfax Connector,bus_stop,platform,no,no,922,-77.0847587,38.7916576
+,770,,Fairfax Connector,bus_stop,platform,no,no,923,-77.0849134,38.79189350000001
+Griffith at Cherri,5334,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,,924,-77.1988587,38.9092014
+Leesburg Pk at Towers Crescent Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,925,-77.223079,38.91322300000001
+Leesburg Pk at Lisle Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,926,-77.214297,38.908715
+Leesburg Pk at Paul Edwin Ter,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,927,-77.213529,38.90801199999999
+Leesburg Pk at George C Marshall Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,928,-77.210401,38.90745399999999
+Route 29 at Waples Mill Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,929,-77.339165,38.851009
+Route 29 at Shirley Gate Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,930,-77.336922,38.851055
+Main St at Rust Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,931,-77.331665,38.851669
+Williams Dr at Arlington Bl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,932,-77.233482,38.866436
+Eskridge Rd at Strawberry Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,933,-77.231613,38.8727
+Eskridge Rd at Strawberry Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,934,-77.231697,38.873020000000004
+Merrilee Dr at #2809,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,935,-77.231133,38.876343
+Merrilee Dr at #2812,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,936,-77.231255,38.87620900000001
+Merrilee Dr at Prosperity Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,937,-77.230652,38.87988699999999
+Merrilee Dr at Halsted Square Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,938,-77.230751,38.879894
+Country Creek Rd at Shawn Leigh Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,no,939,-77.276413,38.878417999999996
+Country Creek Rd at Sutton Oaks Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,no,940,-77.278831,38.87836099999999
+Country Creek Rd at Rensselaer Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,941,-77.279075,38.8782549
+Braddock Rd at Twinbrook Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,942,-77.275116,38.818267999999996
+Braddock Rd at Nash Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,943,-77.276108,38.818909000000005
+Monument Dr Bay G,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,944,-77.361343,38.858528
+Leesburg Pk at Towers Crescent Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,945,-77.222496,38.91323500000001
+Huntsman Bl at Sydenstricker Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,946,-77.253944,38.766109
+Huntsman Bl at Spur Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,947,-77.257553,38.76261099999999
+Huntsman Bl at Spur Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,948,-77.256905,38.762623000000005
+Huntsman Bl at Rockefeller Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,949,-77.26152,38.759907000000005
+GW Pw at Northdown Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,950,-77.049062,38.74827099999999
+Huntington Av at Metroview Pkwy,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,951,-77.075253,38.79637499999999
+Vaden Dr at Royal Victoria Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,yes,952,-77.272392,38.87345800000001
+Vaden Dr at Royal Victoria Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,no,953,-77.27176500000002,38.873583
+Blake Ln at Platten Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,954,-77.287097,38.87609500000001
+Columbia Pk at Madison Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,,955,-77.140177,38.84552299999999
+Huntington Av at West Entrance,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,956,-77.073213,38.795271
+Braddock Rd at Bradfield Dr X,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,957,-77.262803,38.810674
+Belvoir Rd at 16 St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,958,-77.137741,38.694453999999986
+Old Dominion Dr at #6315,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,959,-77.154845,38.922151
+Old Dominion Dr at #6556,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,960,-77.168434,38.929157
+Arlington Bl at South St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,961,-77.163915,38.871617
+Gunston Rd at Goethals Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,962,-77.152153,38.711811000000004
+Ft Belvoir Commissary,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,963,-77.150919,38.723386999999995
+Gunston Rd at 5 St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,964,-77.148966,38.70428199999999
+Gunston Rd at Goethals Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,965,-77.151941,38.71205299999999
+Richmond Hwy at Jeff Todd Wy,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,966,-77.13174300000001,38.71754399999999
+Richmond Hwy at Mt Vernon Hwy,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,967,-77.130868,38.717678
+John Marr Dr at Little River Tpk,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,968,-77.190413,38.828661
+Richmond Hwy at Belford Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,969,-77.084247,38.74448100000001
+Little River Tpk at Annandale Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,970,-77.198099,38.830888999999985
+Old Keene Mill Rd at Rolling Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,971,-77.234749,38.77902199999999
+S George Mason Dr at #3713,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,972,-77.116794,38.842535999999996
+Gallows Rd at Providence Forest Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,973,-77.227084,38.877297999999996
+Fair Lakes Pkwy at Legato Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,974,-77.36451,38.861864999999995
+Columbia Pk at Barcroft View Terrace,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,975,-77.137199,38.846849000000006
+Jermantown Rd at Arrowhead Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,976,-77.315001,38.873603
+Heritage Dr at Heritage Woods Wy,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,977,-77.210355,38.831387
+Ravensworth Rd at Carmine St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,978,-77.203093,38.821537
+Wilmot Wy at INOVA Hospital Gray Entrance,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,979,-77.228126,38.856546999999985
+Arlington Bl at Williams Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,980,-77.234559,38.865666
+Willow Oaks Corp Dr at Behavioral Health Ctr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,981,-77.234141,38.864242
+Willow Oaks Corp Dr at Behavioral Health Ctr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,982,-77.233721,38.864004
+Ft Belvoir Rd at Langfitt Lp,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,983,-77.138836,38.69660999999999
+Ft Belvoir at 16 St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,984,-77.137801,38.69426300000001
+Ft Belvoir Rd at Langfitt Lp,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,985,-77.138957,38.696507
+Hillside Rd at Hillside Manor Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,986,-77.245816,38.777626
+Hillside Rd at Sheridan Farms Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,987,-77.245911,38.777505999999995
+Old Keene Mill Rd at Hastings St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,988,-77.19708100000001,38.777235999999995
+Lee Hwy at Nutley St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,989,-77.260722,38.87248
+Arlington Bl at Cherry St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,990,-77.16985,38.870608999999995
+Arlington Bl at Chichester Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,991,-77.24755,38.86544
+GW Pkwy at Stratford Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,992,-77.071953,38.711694
+Jermantown Rd at Arrowhead Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,993,-77.314673,38.873509000000006
+Waples Mill Rd at Fairfax Bl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,994,-77.33563,38.856709999999985
+Government Center Pkwy at Monument Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,995,-77.35992,38.858379
+Monument Dr at Fair Lakes Pkwy,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,996,-77.365503,38.860566
+Random Hills Rd at Summit Corner Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,997,-77.355141,38.860096999999996
+Random Hills Rd at Grey Finch Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,998,-77.344142,38.858478
+Random Hills Rd at Verret Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,999,-77.339464,38.85762199999999
+Waples Mill Rd at Fairfax Bl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1000,-77.336034,38.856689
+Random Hills Rd at Ridge Top Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1001,-77.340095,38.857529
+Random Hills Rd at Grey Finch Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1002,-77.34493,38.858321999999994
+Random Hills Rd at Summit Corner Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1003,-77.354849,38.85995
+Monument Dr at Fair Lakes Pkwy,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1004,-77.366072,38.860775999999994
+Government Center Pkwy at Forum Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1005,-77.355731,38.85142
+Government Center Pkwy at Runabout Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1006,-77.352355,38.85142200000001
+Government Center Pkwy at Oakdale Crescent Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1007,-77.351437,38.85162
+Government Center Pkwy at Forum Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1008,-77.355786,38.85117999999999
+Government Ctr Pkwy at Lower Park Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1009,-77.347794,38.85294900000001
+Government Center Pkwy at Fairfax Green Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1010,-77.345132,38.853875
+Ridge Top Rd at Cavalier Landing Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1011,-77.341709,38.851911
+Ridge Top Rd at Cavalier Landing Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1012,-77.341968,38.85198299999999
+Government Center Pkwy at River Forth Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1013,-77.344409,38.85369200000001
+Government Center Pkwy at Lower Park Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1014,-77.346989,38.85299200000001
+Haycock Rd at Leesburg Pk,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1015,-77.189015,38.896291999999995
+Haycock Rd at Falls Church Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1016,-77.186994,38.89782900000001
+Arlington Bl at Leesburg Pk,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1017,-77.158636,38.872631
+Braddock Rd at Rose Wy,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1018,-77.286028,38.82606599999999
+Mt Vernon Hwy at Grist Mill Rd - Metrobus,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1019,-77.131044,38.714158
+Glen Carlyn Dr at Bellview Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1020,-77.14036800000001,38.853951
+Glen Carlyn Dr at Leesburg Pk,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1021,-77.140519,38.85557699999999
+Columbia Pk at Carlin Springs Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1022,-77.122635,38.853028999999985
+Columbia Pk at Carlin Hill Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1023,-77.124401,38.852489999999996
+Carrleigh Pkwy at Greeley Bl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1024,-77.225308,38.789795000000005
+Old Keene Mill Rd at Westmore Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1025,-77.195206,38.777454999999996
+S George Mason Dr at Seminary Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1026,-77.119848,38.84173700000001
+S George Mason Dr at #3713,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1027,-77.118099,38.84235100000001
+Skyline Plz Rdwy (E) at Main Entrance,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1028,-77.114531,38.843256000000004
+S George Mason Dr at WalkWay To #3709,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1029,-77.115923,38.843019
+S George Mason Dr at Seminary Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1030,-77.119525,38.841522000000005
+Arlington Bl at Graham Park Plaza,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1031,-77.197485,38.866014
+Gallows Rd at Arlington Bl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1032,-77.228019,38.86425599999999
+Leesburg Pk at International Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1033,-77.225011,38.914784
+Lee Hwy at Old Lee Hwy,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1034,-77.241713,38.87320299999999
+Jermantown Rd at Trevor House Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1035,-77.297935,38.875955
+Fair Oaks Mall,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1036,-77.36049300000002,38.863785
+Lee Hwy at Saxon Flowers Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1037,-77.248833,38.872950999999986
+Lee Hwy at Old Lee Hwy,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1038,-77.242679,38.87334500000001
+Richmond Hwy at Belford Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1039,-77.084093,38.743944
+Little River Tpk at Duncan Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1040,-77.230595,38.836116000000004
+Little River Tpk at Olley Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1041,-77.267386,38.84038699999999
+Mt Vernon Hwy at Mt Vernon Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1042,-77.128394,38.710494
+Mt Vernon Hwy at Grist Mill Woods Wy - Metrobus,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1043,-77.131349,38.714352
+Little River Tpk at Beauregard St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1044,-77.14433,38.818822000000004
+Galleria Dr at Tysons Bl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1045,-77.220227,38.922195
+Huntington Av at Foley St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1046,-77.066433,38.791315999999995
+Huntington Av at Biscayne Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1047,-77.07235,38.79484699999998
+Tysons Corner Ctr at Parking Terrace C (Stop 1),,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1048,-77.220517,38.916395
+Tysons Corner Ctr at Parking Terrace C (Stop 2),,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1049,-77.221092,38.91644899999999
+Braddock Rd at Pt Royal Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1050,-77.221472,38.81146799999999
+Leesburg Pk at Baileys Crossroads Ctr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1051,-77.132217,38.851744
+Americana Dr at Herkimer St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1052,-77.221275,38.820406999999996
+Ravensworth Rd at Newcastle Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1053,-77.205447,38.818267999999996
+Americana Dr at Oriskany Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1054,-77.220906,38.817623999999995
+Columbia Pk at Lincolnia Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1055,-77.156976,38.836456
+Little River Tpk at Woodland Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1056,-77.208669,38.832356999999995
+Columbia Pk at Maplewood Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1057,-77.163409,38.838115
+Hillside Rd at Willowick Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1058,-77.250431,38.784786000000004
+Little River Tpk at Ravensworth Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1059,-77.196386,38.830392
+John Marr Dr at Tom Davis Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1060,-77.18979,38.830376
+Little River Tpk at Wakefield Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1061,-77.242769,38.83751199999999
+Mt Vernon Hwy at Grist Mill Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1062,-77.125794,38.70920999999999
+Mt Vernon Hwy at Patton Bl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1063,-77.122432,38.70836599999999
+Mt Vernon Hwy at Old Mill Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1064,-77.116879,38.707708999999994
+Mt Vernon Hwy at Forest Haven Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1065,-77.11079,38.708638
+Mt Vernon Memorial Hwy at Southwood Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1066,-77.106126,38.710758
+Mt Vernon Hwy at Cherrytree Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1067,-77.101712,38.713548
+Mt Vernon Hwy at Old Mill Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1068,-77.100754,38.71420500000001
+Mt Vernon Hwy at Old Mt Vernon Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1069,-77.097096,38.716154999999986
+GW Pkwy at Vernon View Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1070,-77.063042,38.710265
+GW Pkwy at River Farm Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1071,-77.062182,38.710953999999994
+Vernon View Dr at Prices Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1072,-77.062523,38.71263799999999
+Vernon View Dr at Wakefield St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1073,-77.06268,38.71416199999999
+Vernon View Dr at Battery Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1074,-77.06285,38.71550299999999
+Vernon View Dr at Danewood Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1075,-77.062768,38.717736
+Vernon View Dr at Danewood Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1076,-77.06159800000002,38.719106999999994
+Ft Hunt Rd at Elkin St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1077,-77.060806,38.722271
+Ft Hunt Rd at Old Stage Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1078,-77.05914,38.72561499999999
+Waynewood Bl at Ft Hunt Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1079,-77.058114,38.72648699999999
+Waynewood Bl at Crowley Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1080,-77.056272,38.725930999999996
+Waynewood Bl at Conover Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1081,-77.054255,38.725415000000005
+Waynewood Bl at Cushman Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1082,-77.052167,38.724827
+Waynewood Bl at Dalebrook Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1083,-77.049703,38.72403499999999
+Waynewood Bl at Croton Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1084,-77.046122,38.722854
+Waynewood Bl at Eaglebrook Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1085,-77.044869,38.722183999999984
+GW Pkwy at Collingwood Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1086,-77.047239,38.731909
+GW Pkwy at Wellington Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1087,-77.048867,38.737809
+GW Pkwy at Northdown Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1088,-77.049521,38.749258999999995
+GW Pkwy at Tulane Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1089,-77.053441,38.765251
+GW Pkwy at Belle Haven Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1090,-77.053146,38.779702
+GW Pkwy at Belle Haven Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1091,-77.053708,38.781019
+GW Pw at Tulane Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1092,-77.053512,38.766529
+GW Pw at Wellington Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1093,-77.048233,38.739336
+GW Pw at Collingwood Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1094,-77.047892,38.733070000000005
+Waynewood Bl at W Boulevard Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1095,-77.044492,38.721937
+Waynewood Bl at Dewolfe Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1096,-77.04617,38.722743
+Waynewood Bl at Dalebrook Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1097,-77.049647,38.72387899999998
+Waynewood Bl at Cushman Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1098,-77.052368,38.724740999999995
+Waynewood Bl at Conover Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1099,-77.055031,38.725411
+Waynewood Bl at Crowley Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1100,-77.056402,38.72584700000001
+Ft Hunt Rd at Waynewood Bl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1101,-77.058356,38.726338
+Ft Hunt Rd at Plymouth Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1102,-77.059243,38.725242
+Ft Hunt Rd at Elkin St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1103,-77.060635,38.722272999999994
+Vernon View Dr at Ft Hunt Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1104,-77.06137,38.719046000000006
+Vernon View Dr at Danewood Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1105,-77.062677,38.717458
+Vernon View Dr at Wakefield St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1106,-77.062568,38.714724
+Vernon View Dr at Prices Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1107,-77.062387,38.712558
+Vernon View Dr at River Farm Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1108,-77.062313,38.710949
+GW Pw at Stratford Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1109,-77.070496,38.71075399999999
+GW Pw at Mt Vernon House,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1110,-77.087283,38.711237
+Mt Vernon Hwy at Old Mt Vernon Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1111,-77.096476,38.716068
+Mt Vernon Hwy at Old Mill Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1112,-77.100891,38.713951
+Mt Vernon Memorial Hwy at Southwood Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1113,-77.105443,38.711006
+Mt Vernon Hwy at Forest Haven Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1114,-77.110879,38.70846499999999
+Mt Vernon Hwy at Ferry Landing Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1115,-77.117694,38.707568
+Mt Vernon Hwy at Patton Bl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1116,-77.122851,38.70829400000001
+Mt Vernon Hwy at Grist Mill Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1117,-77.125798,38.709102999999985
+Mt Vernon Hwy at Mt Vernon Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1118,-77.128522,38.7104
+Richmond Hwy at Southgate Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1119,-77.080878,38.773505
+Richmond Hwy at Ladson Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1120,-77.087406,38.74015899999999
+Richmond Hwy at Mohawk Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1121,-77.102968,38.731542
+Richmond Hwy at Frye Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1122,-77.111414,38.727208999999995
+Richmond Hwy at Cooper Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1123,-77.125116,38.720456
+Richmond Hwy at Lukens Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1124,-77.119983,38.72331100000001
+Richmond Hwy at Frye Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1125,-77.111626,38.727399000000005
+Richmond Hwy at Lockheed Bl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1126,-77.083992,38.758415
+Richmond Hwy at Southgate Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1127,-77.081306,38.773491
+Huntington Av at Hunting Creek Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1128,-77.065603,38.79068099999999
+Huntington Av at Blaine Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1129,-77.070879,38.794202999999996
+Huntington Av at Farrington Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1130,-77.071072,38.794489000000006
+Huntington Av at Fenwick Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1131,-77.072348,38.79507799999999
+Huntington Av at Foley St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1132,-77.066977,38.791943999999994
+Huntington Av at Old Richmond Hwy,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1133,-77.06462,38.79037599999999
+Old Richmond Hwy at Cameron Run Ter,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1134,-77.06329300000002,38.79063000000001
+Old Richmond Hwy at Ft Hunt Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1135,-77.061214,38.79125799999999
+Commonwealth Bl at Gainsborough Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1136,-77.293494,38.813120000000005
+Braddock Rd at Ravensworth Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1137,-77.209845,38.811544000000005
+Braddock Rd at Heming Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1138,-77.203465,38.81163999999999
+Braddock Rd at Blue Ridge Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1139,-77.199816,38.811688
+Braddock Rd at Ferndale St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1140,-77.195894,38.811836
+Braddock Rd at Nursing Home,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1141,-77.191053,38.81192000000001
+Braddock Rd at Backlick Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1142,-77.188168,38.811989999999994
+Braddock Rd at Columbia Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1143,-77.175911,38.811983
+Braddock Rd at Spring Valley Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1144,-77.170445,38.81409299999999
+Braddock Rd at Randolph Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1145,-77.168439,38.81642
+Braddock Rd at Montrose St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1146,-77.16502100000001,38.81899
+Braddock Rd at Irvin Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1147,-77.164252,38.82080399999999
+Braddock Rd at Irvin Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1148,-77.163947,38.820962
+Braddock Rd at Montrose St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1149,-77.164779,38.818957
+Braddock Rd at Randolph Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1150,-77.168602,38.815934
+Braddock Rd at Spring Valley Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1151,-77.170197,38.814087
+Braddock Rd at Columbia Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1152,-77.176286,38.811851999999995
+Braddock Rd at Backlick Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1153,-77.18442500000002,38.81180400000001
+Braddock Rd at Bradwood St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1154,-77.189156,38.81173100000001
+Braddock Rd at Ferndale St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1155,-77.195856,38.81161699999999
+Braddock Rd at Blue Ridge Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1156,-77.201263,38.811376
+Braddock Rd at Heming Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1157,-77.204123,38.81128100000001
+Braddock Rd at Ravensworth Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1158,-77.210598,38.811241
+Leesburg Pk at Dominion Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1159,-77.20712700000001,38.90623800000001
+Leesburg Pk at Dominion Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1160,-77.20622,38.90591500000001
+Leesburg Pk at Patterson Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1161,-77.204794,38.904504
+Leesburg Pk at Pimmit Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1162,-77.203051,38.90290199999998
+Leesburg Pk at Idylwood Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1163,-77.199855,38.90094
+Leesburg Pk at Idylwood Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1164,-77.200049,38.900709000000006
+W Falls Ch Exit Rdwy at Leesburg Pk,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1165,-77.193954,38.897327999999995
+S Washington St at S Maple Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1166,-77.178877,38.879295
+S Washington St at Cavalier Trl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1167,-77.178788,38.879149999999996
+S Washington St at Cameron Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1168,-77.181495,38.878980000000006
+S Washington St at Greenway Bl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1169,-77.182682,38.87891
+S Washington St at Marshall St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1170,-77.184759,38.878778999999994
+S Washington St at Goodwin Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1171,-77.186473,38.87868
+S Washington St at Rosemary Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1172,-77.188267,38.87847599999999
+S Washington St at Woodley Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1173,-77.191756,38.87771099999999
+S Washington St at Graham Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1174,-77.192195,38.87737599999999
+Lee Hwy at Kalmia Lee Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1175,-77.194054,38.87719899999999
+Lee Hwy at Little Falls Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1176,-77.19387300000001,38.877035
+Lee Hwy at Bisvey Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1177,-77.195577,38.876869
+Blake Ln at Gray St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1178,-77.295186,38.87680199999999
+Lee Hwy at Bisvey Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1179,-77.195632,38.876656
+Blake Ln at Windwood Farms Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1180,-77.296092,38.87656599999999
+Jermantown Rd at Palmer St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1181,-77.296632,38.87668800000001
+Blake Ln at Bushman Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1182,-77.29429700000001,38.876487000000004
+Lee Hwy at Lee Oaks Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1183,-77.197461,38.876459
+Lee Hwy at Lee Oaks Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1184,-77.197113,38.87632
+Blake Ln at Cyrandall Valley Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1185,-77.289111,38.876404
+Blake Ln at Cyrandall Valley Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1186,-77.289672,38.876228999999995
+Blake Ln at Edgelea Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1187,-77.287503,38.876301
+Jermantown Rd at #2900,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1188,-77.303477,38.87609500000001
+Lee Hwy at West St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1189,-77.199512,38.876011999999996
+Lee Hwy at West St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,yes,1190,-77.199171,38.87586699999999
+Jermantown Rd at Chain Bridge Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1191,-77.303532,38.875794000000006
+Blake Ln at Oakton Crest Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1192,-77.2845,38.875938
+Jermantown Rd at Blake Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1193,-77.298751,38.875910999999995
+Rosehaven St at Roseforest Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1194,-77.308901,38.87576299999999
+Rosehaven St at Jermantown Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1195,-77.308572,38.875733
+Rt 29 Lee Hwy at Lawrence Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,no,1196,-77.202396,38.87574200000001
+Lee Hwy at Hartland Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1197,-77.222098,38.875722
+Lee Hwy at Lawrence Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1198,-77.202029,38.87556
+Lee Hwy at Hartland Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1199,-77.222521,38.875367
+Lee Hwy at Hollywood Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1200,-77.207193,38.87539799999999
+Lee Hwy at Meadow View Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1201,-77.20604800000001,38.875272
+Jermantown Rd at Borge St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1202,-77.30035,38.875352
+Lee Hwy at Windsor Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1203,-77.209483,38.875246
+Jermantown Rd at Borge St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1204,-77.300199,38.875164
+Lee Hwy at Mary St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1205,-77.212149,38.875146
+Lee Hwy at Windsor Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1206,-77.209405,38.875053
+Lee Hwy at Emma Lee St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1207,-77.2112,38.874934999999994
+Lee Hwy at Hilltop Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1208,-77.234099,38.873937
+Lee Hwy at Hilltop Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1209,-77.2344954,38.87367919999999
+Lee Hwy at Industry Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1210,-77.238772,38.873595
+Rosehaven St at #10530,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1211,-77.308728,38.87355500000001
+Lee Hwy at Industry Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1212,-77.238776,38.87338999999999
+Rosehaven St at #10530,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1213,-77.309019,38.873371
+Wilson Bl at John Marshall Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1214,-77.147564,38.873264999999996
+Lee Hwy at Fairhill Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1215,-77.24501,38.87314899999999
+Peyton Randolph Dr at Wilson Bl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1216,-77.149897,38.87305800000001
+Lee Hwy at Cedar Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1217,-77.245175,38.872946000000006
+Lee Hwy at Saxon Flowers Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1218,-77.24854,38.872694
+Arrowhead Dr at Arrowhead Cir,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1219,-77.31358,38.872778999999994
+Arrowhead Dr at Arrowhead Cir,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1220,-77.313746,38.872699999999995
+Lee Hwy at Hunter Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1221,-77.255631,38.87260999999998
+Lee Hwy at Braxton Wood Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1222,-77.257821,38.87256799999999
+Lee Hwy at Ellenwood Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1223,-77.25563,38.872426999999995
+Lee Hwy at Braxton Wood Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1224,-77.25786400000001,38.87236
+Peyton Randolph Dr at Willston Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1225,-77.150079,38.87219900000001
+Arlington Bl at Leesburg Pk,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1226,-77.157734,38.872164999999995
+Arlington Bl at Aspen Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1227,-77.161224,38.871835
+Willston Dr at Peyton Randolph Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1228,-77.149674,38.87181499999999
+Leesburg Pk at Sleepy Hollow Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1229,-77.155478,38.87145799999998
+Willston Dr at John Marshall Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1230,-77.148156,38.871413
+Arlington Bl at Beechwood Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1231,-77.164314,38.871318
+Arrowhead Dr at Arrowhead Cir,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1232,-77.311446,38.87131599999999
+Willston Dr at John Marshall Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1233,-77.14822,38.871311000000006
+Arrowhead Dr at Arrowhead Cir,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1234,-77.312004,38.871191
+Patrick Henry Dr at Willston Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1235,-77.1465,38.870924
+Castle Rd at Leesburg Pk,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1236,-77.154151,38.870479
+Arlington Bl at Cherry St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1237,-77.169752,38.870373
+Arlington Bl at Annandale Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1238,-77.175202,38.869761
+Arlington Bl at Annandale Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1239,-77.174205,38.86960499999999
+Patrick Henry Dr at Arlington Bl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1240,-77.146227,38.86966300000001
+Arlington Bl at Summerfield Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1241,-77.178873,38.869121
+Arlington Bl at Westmoreland Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1242,-77.179184,38.868778
+Arlington Bl at Greenway Bl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1243,-77.181317,38.868683
+Jermantown Rd at Oakton Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1244,-77.320672,38.868378
+Arlington Bl at Greenway Bl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1245,-77.181459,38.86840600000001
+Jermantown Rd at Pine St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1246,-77.320262,38.86843399999999
+Arlington Bl at Marshall St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1247,-77.183738,38.868309
+Arlington Bl at Barrett Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1248,-77.183997,38.867990999999996
+Arlington Bl at Wayne Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1249,-77.187362,38.86740499999999
+Arlington Bl at Olin Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1250,-77.142758,38.866846999999986
+Arlington Bl at Graham Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1251,-77.194671,38.86646300000001
+Arlington Bl at Arlington Bl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1252,-77.14068,38.866384
+Arlington Bl at Graham Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1253,-77.194376,38.86623699999999
+Arlington Bl at Allen St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1254,-77.200094,38.866234999999996
+Arlington Bl at Fenwick Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1255,-77.202553,38.866194
+Arlington Bl at Allen St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1256,-77.199807,38.865973
+Arlington Bl at Arlington Bl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1257,-77.202736,38.865931
+Leesburg Pk at Patrick Henry Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1258,-77.150597,38.86567999999999
+Arlington Bl at Prosperity Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1259,-77.239565,38.865249
+Arlington Bl at Barkley Gate Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1260,-77.251508,38.865387
+Arlington Bl at Chichester Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1261,-77.247902,38.86515299999999
+Arlington Bl at Covington St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1262,-77.25794800000001,38.86527199999999
+Arlington Bl at Barkley Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1263,-77.251464,38.86506800000001
+Arlington Bl at Circle Tower Apt,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,no,1264,-77.269215,38.86517599999999
+Arlington Bl at Covington St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1265,-77.258908,38.86498900000001
+Arlington Bl at #9211,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1266,-77.263756,38.864914999999996
+Arlington Bl at Circle Tower Apt,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1267,-77.267983,38.86484399999999
+Leesburg Pk at #6166,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1268,-77.148656,38.863144999999996
+Fair Lakes Pkwy at Legato Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1269,-77.364196,38.86220099999999
+Gallows Rd at Anderson Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1270,-77.227521,38.86149300000001
+Gallows Rd at Townsend St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1271,-77.22615,38.86003
+Gallows Rd at Townsend St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1272,-77.226479,38.859752
+Leesburg Pk at Lakeside View Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1273,-77.144235,38.858696
+Gallows Rd at INOVA Emergency,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1274,-77.22565,38.85818999999999
+Gallows Rd at INOVA Emergency,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1275,-77.22588,38.857488
+Leesburg Pk at Glenmore Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1276,-77.1420229,38.85752860000001
+Leesburg Pk at Glenmore Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1277,-77.1424666,38.857441099999996
+Glen Carlyn Dr at Leesburg Pk,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1278,-77.140283,38.855608
+Glen Carlyn Dr at Bellview Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1279,-77.140091,38.85381399999999
+Columbia Pk at Carlin Springs Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1280,-77.122666,38.85332499999999
+Leesburg Pk at Washington Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1281,-77.134532,38.853074
+Leesburg Pk at Payne St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1282,-77.133516,38.852809
+Carlin Springs Rd at Columbia Pk,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1283,-77.122161,38.852748
+Glen Carlyn Dr at Vista Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1284,-77.14108,38.85255999999998
+Vista Dr at Glen Carlyn Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1285,-77.140657,38.85251599999999
+Carlin Springs Rd at #3421,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1286,-77.121979,38.852352
+Vista Dr at Lake St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1287,-77.138263,38.851392
+Carlin Springs Rd at #3437,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1288,-77.123462,38.850952000000014
+Knollwood Dr at #6026,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1289,-77.140992,38.850938
+S Jefferson St at #3440,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1290,-77.11866,38.850851999999996
+Lake St at Knollwood Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1291,-77.138778,38.850044999999994
+Lake St at Tyler St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1292,-77.13899,38.849543
+Lake St at Tyler St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1293,-77.139289,38.84939099999999
+S Jefferson St at Second Entrance To Ctr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1294,-77.117958,38.848597000000005
+S Jefferson St at Crossroads Ctr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1295,-77.11826600000002,38.848498
+Carlin Springs Rd at Seminary Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1296,-77.12526,38.84737100000001
+Tyler St at Columbia Pk,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1297,-77.137757,38.84723699999999
+Tyler St at Columbia Pk,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1298,-77.137699,38.846956000000006
+Seminary Rd at Scoville St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1299,-77.12532,38.846413
+Leesburg Pk at Leesburg Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1300,-77.117399,38.845645999999995
+Leesburg Pk at Forest Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1301,-77.116017,38.845502
+Columbia Pk at Blair Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,no,1302,-77.140978,38.845212
+Seminary Rd at Magnolia Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1303,-77.12309,38.844474
+Columbia Pk at Marshall Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1304,-77.14170300000002,38.844128999999995
+Columbia Pk at Powell Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1305,-77.141939,38.84329100000001
+Seminary Rd at #5600,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1306,-77.12221500000001,38.842714
+Main St at Fair City Mall,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1307,-77.276128,38.84158099999999
+Columbia Pk at Aqua Ter,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1308,-77.149441,38.841162
+Columbia Pk at Aqua Ter,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1309,-77.149517,38.840859
+Little River Tpk at Persimmon Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1310,-77.268421,38.840889999999995
+Little River Tpk at Briary Wy,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1311,-77.26575000000001,38.840525
+Little River Tpk at Prince William Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1312,-77.262317,38.840058000000006
+Little River Tpk at Taylor Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1313,-77.262264,38.83978499999999
+Columbia Pk at Lakewood Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1314,-77.152703,38.839231
+Little River Tpk at Glenbrook Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1315,-77.257106,38.83946999999999
+Little River Tpk at Elizabeth Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1316,-77.255899,38.83903399999999
+Columbia Pk at Braddock Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1317,-77.152241,38.83924699999999
+Little River Tpk at Guinea Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1318,-77.251916,38.83873800000001
+Little River Tpk at Guinea Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1319,-77.251689,38.83844199999999
+Little River Tpk at Iva Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1320,-77.247568,38.837852000000005
+Little River Tpk at Prosperity Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1321,-77.246104,38.83794099999999
+Columbia Pk at Whispering Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1322,-77.166646,38.837962000000005
+Columbia Pk at Sleepy Hollow Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1323,-77.169882,38.83776099999999
+Columbia Pk at Downing St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1324,-77.161495,38.83767799999999
+Columbia Pk at Ashwood Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1325,-77.155502,38.837587000000006
+Columbia Pk at Ancient Oak Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1326,-77.169431,38.83751199999999
+Columbia Pk at Downing St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1327,-77.161527,38.837412
+Little River Tpk at Wakefield Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1328,-77.242844,38.83720899999999
+Columbia Pk at Ashwood Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1329,-77.155554,38.83724499999999
+Little River Tpk at Wakefield Chapel Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1330,-77.239224,38.837072
+Little River Tpk at Wakefield Chapel Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1331,-77.239331,38.836806
+Columbia Pk at Lincolnia Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1332,-77.157108,38.83664299999999
+Columbia Pk at Sleepy Hollow Manor,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1333,-77.175472,38.83657
+Little River Tpk at Duncan Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1334,-77.231501,38.835831999999996
+Columbia Pk at Wynnwood Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1335,-77.17965700000002,38.835743
+Columbia Pk at Rose Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1336,-77.182853,38.83570799999999
+Columbia Pk at Rose Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1337,-77.183494,38.83532499999998
+Columbia Pk at Evergreen Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1338,-77.187302,38.83413399999999
+Americana Dr at #4233,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1339,-77.214338,38.832905
+Little River Tpk at Hummer Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1340,-77.210443,38.832882
+Americana Dr at #4267,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1341,-77.216385,38.83282499999999
+John Marr Dr at Columbia Pk,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1342,-77.189377,38.832701
+Americana Dr at Heritage Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1343,-77.211909,38.832608
+Little River Tpk at Woodland Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1344,-77.207353,38.832466000000004
+Heritage Dr at Americana Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1345,-77.210663,38.832117999999994
+John Marr Dr at Columbia Pk,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1346,-77.1894921,38.8319541
+Little River Tpk at Medford Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1347,-77.204294,38.831943
+Little River Tpk at Medford Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1348,-77.20453,38.83169699999999
+Little River Tpk at Little River Ctr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1349,-77.201695,38.831558
+Little River Tpk at Markham St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1350,-77.199198,38.83089699999999
+John Marr Dr at Tom Davis Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1351,-77.190104,38.83025200000001
+Americana Dr at #4301,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1352,-77.218023,38.83020100000001
+Little River Tpk at Backlick Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1353,-77.19362,38.830105999999994
+Heritage Dr at McWhorter Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1354,-77.210366,38.82983900000001
+Heritage Dr at Donnybrook Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1355,-77.210969,38.829412999999995
+John Marr Dr at Little River Tpk,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1356,-77.190361,38.829136999999996
+Patriot Dr at Forest Glen Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1357,-77.213208,38.82872699999999
+Patriot Dr at Forest Glen Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1358,-77.213092,38.828549
+Little River Tpk at Evergreen Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1359,-77.184826,38.828588
+Americana Dr at Inverton Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1360,-77.218717,38.828126
+Patriot Dr at Briarwood Ct S,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1361,-77.215467,38.82804900000001
+Patriot Dr at Briarwood Ct N,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1362,-77.21569,38.82770699999999
+Little River Tpk at Morning Wind Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1363,-77.18121700000002,38.827389999999994
+Backlick Rd at Jayhawk St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1364,-77.194639,38.827231000000005
+Backlick Rd at Jayhawk St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1365,-77.1944,38.82726099999999
+Little River Tpk at Roberts Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1366,-77.180424,38.827415
+Braddock Rd at Tapestry Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1367,-77.294563,38.82674399999999
+Braddock Rd at Red Spruce Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1368,-77.291888,38.826679999999996
+Jayhawk St at Elan Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1369,-77.195714,38.82650399999999
+Braddock Rd at Red Spruce Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1370,-77.292448,38.826362
+Braddock Rd at Tapestry Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1371,-77.29515,38.826392
+Braddock Rd at Forestdale Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1372,-77.299994,38.826348999999986
+Braddock Rd at Burke Station Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1373,-77.288604,38.82624700000001
+Braddock Rd at Fairfax Cemetery,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1374,-77.286524,38.826416
+Jayhawk St at King Edward Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1375,-77.196078,38.82621999999999
+Braddock Rd at Forestdale Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1376,-77.299939,38.826043999999996
+Braddock Rd at Roanoke Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,yes,1377,-77.313016,38.82602599999999
+Patriot Dr at #7923,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1378,-77.21715,38.82594399999999
+Jayhawk St at Royal Court Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1379,-77.198853,38.825913
+Jayhawk St at Royal Court Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1380,-77.199061,38.82583799999999
+Patriot Dr at Americana Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1381,-77.219455,38.82592199999999
+Patriot Dr at #7923,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1382,-77.217033,38.825833
+Patriot Dr at Americana Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1383,-77.219314,38.825707
+Braddock Rd at Roanoke Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1384,-77.313079,38.825701
+Pickett Rd at Twinbrook Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1385,-77.274114,38.825565999999995
+Little River Tpk at Columbia Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1386,-77.174545,38.825322
+Ravensworth Rd at Rawlins Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1387,-77.200925,38.824755
+Ravensworth Rd at Rawlins Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1388,-77.201262,38.824606
+Braddock Rd at Carriage Park Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1389,-77.305051,38.824586000000004
+Little River Tpk at Pinecrest Vista Dr W,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1390,-77.169793,38.824472
+Little River Tpk at Willow Run Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1391,-77.170548,38.82433399999999
+Braddock Rd at Carriage Park Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1392,-77.305332,38.824194
+Braddock Rd at Sideburn Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1393,-77.308427,38.824254
+Braddock Rd at Herend Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1394,-77.281873,38.824208
+Braddock Rd at Herend Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1395,-77.282202,38.824
+Braddock Rd at Sideburn Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1396,-77.30724,38.82384700000001
+Pickett Rd at St Charles Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1397,-77.275784,38.82383899999999
+Americana Dr at #7914,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1398,-77.220928,38.823617
+Americana Dr at #7914,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1399,-77.221087,38.823598
+Little River Tpk at Pinecrest Vista Dr E,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,no,1400,-77.165868,38.82349800000001
+Twinbrook Rd at Tara Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1401,-77.272585,38.822978000000006
+Ravensworth Rd at Davian Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1402,-77.202182,38.822995
+Braddock Rd at Braddock Green Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1403,-77.280409,38.822824
+Ravensworth Rd at Davian Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1404,-77.202484,38.82275799999999
+Little River Tpk at Braddock Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1405,-77.162054,38.82253099999999
+Little River Tpk at Braddock Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1406,-77.162902,38.82244599999999
+Braddock Rd at Dequincey Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1407,-77.280061,38.822132999999994
+Pickett Rd at Helenwood Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1408,-77.276668,38.82219799999999
+Little River Tpk at Virginia St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1409,-77.158735,38.821411999999995
+Twinbrook Rd at Hermitage Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1410,-77.27177300000001,38.821186000000004
+Ravensworth Rd at Rocart Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1411,-77.20379600000001,38.820903
+Little River Tpk at Merritt Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1412,-77.155308,38.82086700000001
+Little River Tpk at Cherokee Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1413,-77.156012,38.82073999999999
+Americana Dr at Herkimer St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1414,-77.22146800000002,38.820341
+Twinbrook Rd at Nan Mill Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1415,-77.273095,38.819978
+Little River Tpk at Brookside Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1416,-77.149945,38.819694
+Little River Tpk at Brookside Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1417,-77.150464,38.819541
+Braddock Rd at Pickett Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1418,-77.276281,38.819461000000004
+Little River Tpk at Southland Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,yes,1419,-77.147774,38.81937299999999
+Pickett Rd at Braddock Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1420,-77.275678,38.819212
+Killebrew Dr at Heritage Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1421,-77.214559,38.81921
+Little River Tpk at Southland Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,yes,yes,1422,-77.147459,38.819081
+Killebrew Dr at Heritage Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1423,-77.214317,38.81915399999998
+Little River Tpk at Manitoba Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1424,-77.144896,38.818706
+Ravensworth Rd at Newcastle Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1425,-77.205606,38.81829900000001
+Heritage Dr at Newcastle Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1426,-77.212633,38.817963999999996
+Heritage Dr at Newcastle Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1427,-77.212339,38.817967
+Twinbrook Rd at Braddock Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1428,-77.27388,38.81764199999999
+Americana Dr at Entrance To Pool,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1429,-77.221046,38.817615999999994
+Killebrew Dr at Oreana Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1430,-77.216831,38.81754999999998
+Oreana Dr at Killebrew Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1431,-77.217133,38.817444
+Ravensworth Rd at Brook Hills Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1432,-77.206366,38.816975
+Americana Dr at Sauquoit Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1433,-77.218415,38.816653
+Americana Dr at Sauquoit Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1434,-77.218447,38.816323
+Twinbrook Rd at Twinbrook Run Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1435,-77.274607,38.816259
+Heritage Dr at Bristow Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1436,-77.208769,38.81620100000001
+Heritage Dr at Bristow Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1437,-77.208709,38.816016000000005
+Ravensworth Rd at Heritage Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1438,-77.20731,38.815858
+Braddock Rd at Olley Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1439,-77.270291,38.81542300000001
+Commonwealth Bl at Commonwealth Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1440,-77.308072,38.814398999999995
+Commonwealth Bl at Dequincey Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1441,-77.287581,38.814371
+Commonwealth Bl at Coleridge Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,no,1442,-77.285819,38.814074
+Commonwealth Bl at Roberts Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1443,-77.302356,38.81388200000001
+Sideburn Rd at Linfield St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1444,-77.308493,38.81369799999999
+Commonwealth Bl at Gainsborough Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1445,-77.290306,38.813611
+Commonwealth Bl at Wheatstone Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1446,-77.298763,38.813413999999995
+Braddock Rd at Humphries Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1447,-77.267962,38.813367
+Commonwealth Bl at Pumphrey Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1448,-77.295676,38.813086000000006
+Braddock Rd at Humphries Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1449,-77.267674,38.812491
+Braddock Rd at Glen Park Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1450,-77.231123,38.811311999999994
+Braddock Rd at Inverchapel Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1451,-77.228594,38.811354
+Braddock Rd at Port Royal Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1452,-77.22324900000001,38.811091999999995
+Braddock Rd at Queensberry Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1453,-77.224903,38.811074999999995
+Braddock Rd at Wakefield Chapel Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1454,-77.235872,38.811125999999994
+Braddock Rd at Southampton Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1455,-77.240689,38.81110399999999
+Braddock Rd at Inverchapel Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1456,-77.227907,38.81099400000001
+Braddock Rd at Glen Park Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1457,-77.231081,38.81095
+Braddock Rd at Bradfield Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1458,-77.263439,38.811001999999995
+Braddock Rd at Red Fox Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1459,-77.257809,38.81097599999999
+Braddock Rd at Wakefield Chapel Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1460,-77.235387,38.810818000000005
+Braddock Rd at Southampton Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1461,-77.23971300000001,38.81077799999999
+Braddock Rd at King David Bl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1462,-77.261825,38.810854
+Braddock Rd at Stone Haven Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1463,-77.245497,38.810880999999995
+Braddock Rd at Red Fox Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1464,-77.257798,38.81069899999999
+Braddock Rd at Stonehaven Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1465,-77.244589,38.810565
+Braddock Rd at Dunleigh Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1466,-77.261222,38.810601999999996
+Braddock Rd at Kings Park Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1467,-77.248402,38.810383
+Rolling Rd at Braddock Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1468,-77.256157,38.81008599999999
+Southampton Dr at Thames St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1469,-77.239783,38.809976999999996
+Southampton Dr at Lancashire Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1470,-77.239821,38.809812
+Rolling Rd at Lyngate Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1471,-77.256033,38.809411999999995
+Burke Lake Rd at Grantham St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1472,-77.252983,38.809248
+Zion Dr at Sideburn Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1473,-77.30878,38.809315
+Burke Lake Rd at Grantham St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1474,-77.252844,38.809110999999994
+Guinea Rd at Bronte Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1475,-77.278233,38.809135
+Southampton Dr at Thames St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1476,-77.239077,38.808581
+Zion Dr at Esabella Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1477,-77.305519,38.80851000000001
+Burke Lake Rd at Rolling Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,no,1478,-77.254604,38.808164000000005
+Rolling Rd at Burke Lake Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1479,-77.254974,38.808260999999995
+Southampton Dr at Thames St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1480,-77.23898,38.808203
+Burke Lake Rd at Rolling Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,no,no,1481,-77.254475,38.807961
+Zion Dr at #10340,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1482,-77.30419,38.80825600000001
+Rolling Rd at Burke Lake Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1483,-77.254633,38.807281999999994
+Zion Dr at Windsor Hills Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1484,-77.299098,38.807127
+Burke Lake Rd at Rolling Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1485,-77.256289,38.807028
+Southampton Dr at Parliament Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1486,-77.239629,38.80648200000001
+Parliament Dr at Southampton Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1487,-77.239874,38.806273
+Parliament Dr at Victoria Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1488,-77.243342,38.806307
+Parliament Dr at Parkway Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1489,-77.246185,38.80627199999999
+Parliament Dr at Kings Park Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1490,-77.248865,38.806281
+Parliament Dr at Victoria Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1491,-77.243844,38.806173
+Parliament Dr at Parkway Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1492,-77.247031,38.80615
+Parliament Dr at Kings Park Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1493,-77.249373,38.806147
+Burke Lake Rd at Signal Hill Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1494,-77.257734,38.806062999999995
+Burke Lake Rd at Signal Hill Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1495,-77.257352,38.80601299999999
+Lake Braddock Dr at Olley Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1496,-77.268509,38.806045999999995
+Lake Braddock Dr at Olley Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1497,-77.269211,38.805746
+Lake Braddock Dr at Tripolis Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1498,-77.270576,38.805595999999994
+Lake Braddock Dr at Wallingford Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1499,-77.274142,38.80555699999999
+Lake Braddock Dr at Bromyard Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1500,-77.267594,38.805534
+Lake Braddock Dr at Bromyard Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1501,-77.26724,38.805500999999985
+Lake Braddock Dr at Tripolis Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1502,-77.270906,38.80540899999999
+Parliament Dr at Victoria Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1503,-77.25205,38.805144999999996
+Lake Braddock Dr at Lighthouse La,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1504,-77.274124,38.80526700000001
+Parliament Dr at Rolling Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1505,-77.252527,38.80507299999999
+Zion Dr at Jib Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1506,-77.297022,38.80509599999999
+Burke Rd at Ashbourn Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1507,-77.279192,38.80460099999999
+Lake Braddock Dr at Blackburn Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1508,-77.274351,38.80366200000001
+Zion Dr at Grovewood Wy,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1509,-77.296963,38.803878
+Lake Braddock Dr at Burdett Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1510,-77.27410900000001,38.803688
+Lake Braddock Dr at Mersea Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1511,-77.267525,38.803439000000004
+Lake Braddock Dr at Mersea Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1512,-77.267275,38.80342599999999
+Burke Rd at Peppercorn Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1513,-77.278066,38.80330699999999
+Lake Braddock Dr at Cotherstone Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1514,-77.267806,38.80194999999999
+Lake Braddock Dr at Wesport Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1515,-77.275086,38.801863999999995
+Lake Braddock Dr at Wesport Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1516,-77.274773,38.80178
+Guinea Rd at Lakepointe Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1517,-77.285066,38.801656
+Lake Braddock Dr at Cotherstone Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1518,-77.267487,38.80175
+Lake Braddock Dr at Burke Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1519,-77.276418,38.801283999999995
+Lake Braddock Dr at Burke Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1520,-77.276171,38.80118199999998
+Zion Dr at Hillard Lake Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1521,-77.296038,38.801083
+Burke Lake Rd at Lake Braddock Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1522,-77.265153,38.80100399999999
+Burke Lake Rd at Lake Braddock Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1523,-77.26577,38.800737999999996
+Guinea Rd at Falmead Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1524,-77.292003,38.799555999999995
+Burke Centre Pkwy at Ox Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1525,-77.323602,38.798536999999996
+Burke Centre Pkwy at Oak Green Wy,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1526,-77.320591,38.79846799999999
+Burke Centre Pkwy at Oak Leather Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1527,-77.316696,38.797376000000014
+Oak Leather Dr at Oakenshaw Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1528,-77.316822,38.796487
+Burke Centre Pkwy at Oak Leather Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1529,-77.313513,38.795679
+Burke Centre Pkwy at Burnside Landing,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1530,-77.313799,38.795480999999995
+Clara Barton Dr at #10990,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1531,-77.32518800000001,38.794425999999994
+Burr Oak Wy at Oakland Pk Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1532,-77.318008,38.794246
+Burke Centre Pkwy at Waters Edge Landing Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1533,-77.309744,38.79276699999999
+Burke Centre Pkwy at Burnside Landing Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1534,-77.310017,38.79255100000001
+Forrester Bl at Rexford Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1535,-77.236629,38.79210299999999
+Forrester Bl at Queenston St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1536,-77.237188,38.791993999999995
+Forrester Bl at Royal Ridge Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1537,-77.238872,38.791973
+Burr Oak Wy at Carters Oak Wy,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1538,-77.321217,38.79191900000001
+Forrester Bl at Lakinhurst Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1539,-77.238472,38.791893
+Forrester Bl at Surrey Hill Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1540,-77.234869,38.79171600000001
+Forrester Bl at Surrey Hill Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1541,-77.235351,38.79165299999999
+Burke Centre Pkwy at Cove Landing Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1542,-77.307097,38.791419999999995
+Burke Centre Pkwy at Powells Landing Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1543,-77.307132,38.79109199999999
+Burr Oak Wy at Oakland Park Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1544,-77.323362,38.791073000000004
+Forrester Bl at Kingsford Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1545,-77.231975,38.790663
+Forrester Bl at Sherborn Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1546,-77.241081,38.790573
+Forrester Bl at Seabright Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1547,-77.231568,38.790259999999996
+Forrester Bl at Sherborn Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1548,-77.241217,38.79017499999999
+Carrleigh Pkwy at Talford Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1549,-77.227382,38.789951
+Carrleigh Pkwy at Talford Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1550,-77.227732,38.789839
+Carrleigh Pkwy at Greeley Bl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1551,-77.224972,38.789675
+Carrleigh Pkwy at Forrester Bl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1552,-77.2294,38.78960599999999
+Carrleigh Pkwy at Waterbury Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1553,-77.229067,38.78955800000001
+Hillside Rd at Hall St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1554,-77.244659,38.789033999999994
+Hillside Rd at Timber Hollow Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1555,-77.24498900000002,38.788721
+Burke Centre Pkwy at 1 Landing Wy,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1556,-77.303822,38.78854
+Hillside Rd at Forrest Hollow Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1557,-77.246519,38.788143000000005
+Hillside Rd at Veranda Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1558,-77.246916,38.78816199999999
+Burke Centre Pkwy at Wilmington Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1559,-77.288181,38.78786699999999
+Burke Centre Pkwy at Wilmington Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1560,-77.288178,38.787631000000005
+Greeley Bl at Langbrook Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1561,-77.223448,38.787276999999996
+Greeley Bl at Langbrook Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1562,-77.223302,38.787345
+Burke Centre Pkwy at Coffer Woods Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1563,-77.29115,38.78733
+Burke Centre Pkwy at Wheaton Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1564,-77.284949,38.78727800000001
+Burke Centre Pkwy at Coffer Woods Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1565,-77.291101,38.787099999999995
+Burke Centre Pkwy at Burke Commons Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1566,-77.299847,38.78688799999999
+Burke Centre Pkwy at Burke Pond Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1567,-77.284044,38.786577
+Hillside Rd at Selwood Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1568,-77.248863,38.786449
+Burke Centre Pkwy at Schoolhouse Woods Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1569,-77.293633,38.78649599999999
+Burke Centre Pkwy at Marshall Pond Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1570,-77.294253,38.786012
+Hillside Rd at Weeping Hollow Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1571,-77.248974,38.786035999999996
+Hillside Rd at Sweet Oak Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1572,-77.250126,38.78524999999999
+Greeley Bl at Bardu Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1573,-77.22265,38.785098999999995
+Burke Centre Pkwy at Wesley Pond Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1574,-77.281131,38.784757
+Burke Centre Pkwy at Wesley Pond Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1575,-77.28085,38.78492299999999
+Greeley Bl at Dabney Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1576,-77.222845,38.78461299999999
+Shiplett Bl at Capella Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1577,-77.270492,38.783959
+Shiplett Bl at Rockwell Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1578,-77.269661,38.78401499999999
+Capella Av at Mellet Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1579,-77.271806,38.783825
+Greeley Bl at Tanglewood Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1580,-77.222298,38.78339600000001
+Greeley Bl at Tanglewood Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1581,-77.221735,38.783290999999984
+Capella Av at Scorpio Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1582,-77.272806,38.782937999999994
+Greeley Bl at Bardu Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1583,-77.219982,38.782641
+Shiplett Bl at Fushimi Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1584,-77.267116,38.782524
+Greeley Bl at Bardu Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1585,-77.218933,38.78270700000001
+Shiplett Bl at Hatches Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1586,-77.266759,38.78253999999998
+Lee Chapel Rd at Covered Bridge Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1587,-77.277718,38.782348000000006
+Capella Av at Vandola Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1588,-77.273768,38.78204399999999
+Lee Chapel Rd at Covered Bridge Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1589,-77.277823,38.781747
+Capella Av at Vandola Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1590,-77.27384,38.781682999999994
+Hillside Rd at Moverly Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1591,-77.249587,38.78102299999999
+Hillside Rd at Moverly Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1592,-77.249745,38.780951999999985
+Old Keene Mill Rd at Ainsworth Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1593,-77.226388,38.78068300000001
+Old Keene Mill Rd at Ainsworth Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1594,-77.226152,38.780419
+Old Keene Mill Rd at Carrleigh Pkwy,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1595,-77.228987,38.780246999999996
+Capella Av at Orion Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1596,-77.275035,38.780125999999996
+Old Keene Mill Rd at Carrleigh Pkwy,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1597,-77.228532,38.78009
+Capella Av at Orion Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1598,-77.274889,38.78005999999999
+Old Keene Mill Rd at Bardu Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1599,-77.222956,38.780103999999994
+Shiplett Bl at Andromeda Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1600,-77.265274,38.779979
+Shiplett Bl at Andromeda Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1601,-77.265517,38.77973599999999
+Greeley Bl at Brompton St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1602,-77.216976,38.77983799999999
+Greeley Bl at Brompton St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1603,-77.216999,38.779709000000004
+Old Keene Mill Rd at Rolling Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1604,-77.231629,38.779695000000004
+Old Keene Mill Rd at Rolling Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1605,-77.231397,38.779489
+Old Keene Mill Rd at Bardu Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1606,-77.222092,38.779399999999995
+Capella Av at Lee Chapel Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1607,-77.276026,38.77899699999999
+Capella Av at Lee Chapel Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1608,-77.275957,38.778884
+Old Keene Mill at Spring Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1609,-77.188856,38.778843
+Old Keene Mill Rd at Rolling Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1610,-77.234655,38.77877999999999
+Hillside Rd at Surveyors Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1611,-77.247135,38.778594999999996
+Old Keene Mill Rd at Spring Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1612,-77.189327,38.778408
+Old Keene Mill Rd at Jansen Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1613,-77.220423,38.77848600000001
+Old Keene Mill Rd at Old Keene Mill Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1614,-77.237435,38.77843500000001
+Old Keene Mill at Jansen Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1615,-77.220669,38.778287999999996
+Hillside Rd at Surveyors Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1616,-77.246938,38.778637999999994
+Old Keene Mill Rd at Millwood Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1617,-77.237083,38.778245000000005
+Old Keene Mill Rd at Commerce St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1618,-77.192222,38.778275
+Greeley Bl at Alberta St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1619,-77.215847,38.77816399999999
+Old Keene Mill Rd at Commerce St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1620,-77.191717,38.778033
+Old Keene Mill Rd at Bauer Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1621,-77.241163,38.778099
+Greeley Bl at Alberta St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1622,-77.215632,38.77800400000001
+Shiplett Bl at Torrence St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1623,-77.265873,38.77781599999999
+Old Keene Mill Rd at English Ivy Wy,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1624,-77.239404,38.77771
+Old Keene Mill Rd at Lee Valley Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1625,-77.193868,38.77768400000001
+Old Keene Mill Rd at Hanover Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1626,-77.195407,38.777660000000004
+Shiplett Bl at Torrence St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1627,-77.266465,38.777441
+Old Keene Mill Rd at Hastings St,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1628,-77.197291,38.777369
+Greeley Bl at Harwood Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1629,-77.21561,38.77679599999999
+Old Keene Mill Rd at Hillside Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1630,-77.243801,38.776834
+Old Keene Mill Rd at Wyngate Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1631,-77.243701,38.776471
+Greeley at Harwood,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1632,-77.215675,38.77636300000001
+Old Keene Mill Rd at Greeley Bl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1633,-77.216486,38.77620499999999
+Old Keene Mill Rd at Byron Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1634,-77.202194,38.77593999999999
+Old Keene Mill Rd at Byron Av,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1635,-77.202101,38.77564499999999
+Old Keene Mill Rd at Greeley Bl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1636,-77.215754,38.775613
+Old Keene Mill Rd at Tiverton Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1637,-77.20639,38.774553
+Old Keene Mill Rd at Hunter Village Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1638,-77.205732,38.774376
+Old Keene Mill Rd at Harwood Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1639,-77.210104,38.774345
+Old Keene Mill Rd at Huntsman Bl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1640,-77.24841000000002,38.774132
+Old Keene Mill Rd at Harwood Pl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1641,-77.210047,38.774088000000006
+Old Keene Mill Rd at Huntsman Bl,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1642,-77.249671,38.774145999999995
+Old Keene Mill Rd at Keene Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1643,-77.259231,38.77368
+Old Keene Mill Rd at Keene Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1644,-77.259267,38.773407
+Old Keene Mill Rd at Field Master Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1645,-77.255319,38.773213000000005
+Old Keene Mill Rd at Fieldmaster Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1646,-77.255317,38.772960000000005
+Huntsman Bl at Bridle Wood Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1647,-77.24863100000002,38.772626
+Huntsman Bl at Bridle Wood Dr,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1648,-77.248917,38.77189400000001
+Huntsman Bl at Houndmaster Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1649,-77.249976,38.770067000000004
+Huntsman Bl at Houndmaster Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1650,-77.25014400000002,38.76965500000001
+Huntsman Bl at Side Saddle Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1651,-77.253057,38.768103
+Huntsman Bl at Side Saddle Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1652,-77.253,38.767879
+Huntsman Bl at Sydenstricker Rd,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1653,-77.253578,38.766639
+Huntsman Bl at Rockefeller Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1654,-77.262212,38.759537
+Huntsman Bl at Golden Ball Tavern Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1655,-77.263107,38.75785600000001
+Huntsman Bl at Golden Ball Tavern Ct,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1656,-77.26287,38.757827
+Huntsman Bl at Dorothy Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1657,-77.265158,38.754455
+Huntsman Bl at Dorothy Ln,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1658,-77.265002,38.754304999999995
+Huntsman Bl at Fairfax County Pkwy,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1659,-77.266681,38.752219
+Huntsman Bl at Fairfax County Pkwy,,Washington Metropolitan Area Transit Authority,WMATA Metrobus,bus_stop,platform,,,1660,-77.266312,38.75235099999998
+Innovation Center Metro Station - North Bus Bay,421,,Loudoun County Transit,bus_stop,platform,yes,yes,1661,-77.417661,38.9622022
+Reston Town Center Metro Bay H,420,,Loudoun County Transit,bus_stop,platform,yes,yes,1662,-77.3597608,38.9535405
+Innovation Center Metro Station - North Bus Bay,421,,Loudoun County Transit,bus_stop,platform,yes,yes,1663,-77.4179037,38.962268699999996
+Innovation Center Metro Station - North Bus Bay,421,,Loudoun County Transit,bus_stop,platform,yes,yes,1664,-77.4184039,38.96238389999999
+,,,,platform,platform,yes,yes,1665,-77.0806216,38.77443459999999
+,,,,bus_stop,platform,no,no,1666,-77.0598111,38.763491099999996
+Route 50 & Majestic Lane,2632,,Fairfax Connector,bus_stop,platform,yes,yes,1667,-77.3936971,38.879389700000004
+Stringfellow Road & Point Plesant Drive,3478,,Fairfax Connector,bus_stop,platform,no,no,1668,-77.4079249,38.871933299999995
+Stringfellow Road & Poplar Tree Road,3418,,Fairfax Connector,bus_stop,platform,no,no,1669,-77.4082284,38.87397629999999
+Route 50 and Middle Ridge Rd,5287,,Fairfax Connector,bus_stop,platform,yes,yes,1670,-77.3891772,38.8776304
+,,,,bus_stop,platform,no,yes,1671,-77.1587032,38.70908150000001
+,,,,bus_stop,platform,yes,yes,1672,-77.1586215,38.70866019999999
+Route 50 and Lees Corner Rd,4220,,Fairfax Connector,bus_stop,platform,yes,yes,1673,-77.4129959,38.8868873
+,3311,,,bus_stop,platform,no,no,1674,-77.3406495,38.95132590000001
+Route 50 and Galesbury Lane,4217,,Fairfax Connector,bus_stop,platform,no,no,1675,-77.4186979,38.8890634
+ROUTE 50 @ LEES CORNER RD,4291,,Fairfax Connector,bus_stop,platform,no,no,1676,-77.4139582,38.8876397
+ROUTE 50 @ ELMWOOD ST,4215,Fairfax Connector,Fairfax Connector,bus_stop,platform,yes,,1677,-77.4265677,38.89215409999999
+FAIR LAKES SHOPPING CENTER (West),1949,,Fairfax Connector,bus_stop,platform,,,1678,-77.3922506,38.858978500000006
+FAIR LAKES PKWY @ FAIR LAKES CIR,4197,,Fairfax Connector,bus_stop,platform,no,no,1679,-77.3892888,38.8612476
+Fair Lakes Blvd @ Great Heron Dr,1937,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,yes,1680,-77.4021523,38.855868799999996
+,2840,,Fairfax Connector,bus_stop,platform,yes,yes,1681,-77.16959250000001,38.751421900000004
+,3733,,Fairfax Connector,bus_stop,platform,no,yes,1682,-77.1676322,38.743046800000016
+,1359,,Fairfax Connector,bus_stop,platform,no,no,1683,-77.1658571,38.7433575
+,1358,,Fairfax Connector,bus_stop,platform,yes,yes,1684,-77.165139,38.742809300000005
+,2829,,Fairfax Connector,bus_stop,platform,no,no,1685,-77.1709999,38.74975239999999
+,2830,,Fairfax Connector,bus_stop,platform,yes,yes,1686,-77.170898,38.74860070000001
+,3727,,Fairfax Connector,bus_stop,platform,no,no,1687,-77.1702315,38.74282800000001
+Center St @ Pride Ave,5809,,Fairfax Connecter,bus_stop,platform,no,yes,1688,-77.38877,38.96702319999999
+,,,,bus_stop,platform,no,no,1689,-77.3919015,38.96394339999999
+,,,,bus_stop,platform,no,no,1690,-77.391655,38.964044
+,,,,bus_stop,platform,,,1691,-77.1551429,38.7975685
+,,,,bus_stop,platform,,,1692,-77.1549048,38.7975488
+,,,,bus_stop,platform,,,1693,-77.1571779,38.79700089999999
+,,,,bus_stop,platform,,,1694,-77.15251850000001,38.79850840000001
+,,,,bus_stop,platform,,,1695,-77.1518574,38.798571800000005
+,,,,bus_stop,platform,,,1696,-77.1572909,38.79961889999999
+,,,,bus_stop,platform,,,1697,-77.1564822,38.800930699999995
+,,,,bus_stop,platform,,,1698,-77.1565896,38.8012101
+,,,,bus_stop,platform,,,1699,-77.1487874,38.801942999999994
+Annandale Rd at Slade Run Dr,4838,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,1700,-77.1853064,38.856976
+Annandale Rd at Rose Ln,4839,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,1701,-77.1828983,38.857305100000005
+Annandale Rd at Blue Heron Dr,4867,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,1702,-77.1816368,38.85760569999999
+Annandale Rd at Beechtree Ln,4866,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,1703,-77.1799327,38.8578164
+Annandale Rd at Beechtree Ln,7227,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,1704,-77.1798718,38.857693
+Annandale Rd at Barrett Rd,,,Fairfax Connector,bus_stop,platform,,,1705,-77.1751544,38.86627909999999
+Annandale Road at Arlington Boulevard,,,Fairfax Connector,bus_stop,platform,yes,yes,1706,-77.174839,38.868748399999994
+Annandale Road at Arlington Boulevard,4845,,Fairfax Connector,bus_stop,platform,no,,1707,-77.1745441,38.868657999999996
+Florida Ave & Center St,1928,FairfaxConnector,Fairfax Connector,bus_stop,platform,no,no,1708,-77.3898144,38.9650718
+Annandale @ Arlington,4854,Fairfax Connector,Fairfax Connector,bus_stop,platform,,,1709,-77.17474310000001,38.87041909999999
+Annandale @ Arlington,4846,Fairfax Connector,Fairfax Connector,bus_stop,platform,,,1710,-77.1744443,38.8703835
+Annandale @ Jefferson,5691,Fairfax Connector,Fairfax Connector,bus_stop,platform,,,1711,-77.1744462,38.8717267
+Annandale @ Jefferson,4853,Fairfax Connector,Fairfax Connector,bus_stop,platform,,,1712,-77.1746388,38.87197389999999
+Annandale Rd @ James Lee St,7230,Fairfax Connector,Fairfax Connector,bus_stop,platform,yes,,1713,-77.174348,38.874377700000004
+Annandale @ James Lee,4852,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,,1714,-77.1745791,38.8743473
+Annandale at Sampson,4848,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,,1715,-77.1743413,38.8755652
+Annandale at Sampson,4851,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,,1716,-77.1745182,38.87564470000001
+Annandale at Scipio,4850,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,,1717,-77.1737977,38.8772076
+Annandale @ Brice,4849,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,,1718,-77.1732879,38.87760999999998
+Annandale @ Beechview,4841,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,1719,-77.1786699,38.85913000000001
+Annandale @ Beechview,4865,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,1720,-77.1788814,38.8593254
+Annandale Rd @ Graham Rd,4869,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,1721,-77.1898089,38.8558173
+Annandale Rd @ Hickory Hill Rd,4837,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,1722,-77.1900395,38.855506399999996
+Annandale Rd @ Dauphine Dr,7229,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,1723,-77.1913768,38.85489389999999
+Annandale @ Casilear,4870,Fairfax Connector,Fairfax Connector,bus_stop,platform,,,1724,-77.1927831,38.854099399999996
+,3452,,Fairfax Connector,bus_stop,platform,no,no,1725,-77.1374956,38.7637325
+,3446,,Fairfax Connector,bus_stop,platform,no,no,1726,-77.1371302,38.76352059999999
+,3450,,Fairfax Connector,bus_stop,platform,no,no,1727,-77.1366804,38.76231249999999
+,3458,,Fairfax Connector,bus_stop,platform,no,no,1728,-77.13672960000001,38.761678
+,1130,,Fairfax Connector,bus_stop,platform,no,no,1729,-77.1372866,38.760355600000004
+,3467,,Fairfax Connector,bus_stop,platform,no,no,1730,-77.1372008,38.76026160000001
+,3465,,Fairfax Connector,bus_stop,platform,no,no,1731,-77.1419819,38.76055000000001
+,2523,,Fairfax Connector,bus_stop,platform,no,no,1732,-77.1423352,38.7626928
+,6439,,Fairfax Connector,bus_stop,platform,no,no,1733,-77.1477588,38.7555067
+,6438,,Fairfax Connector,bus_stop,platform,no,no,1734,-77.1455643,38.7561632
+,147,,Fairfax Connector,bus_stop,platform,no,no,1735,-77.1460252,38.7568795
+,2521,,Fairfax Connector,bus_stop,platform,no,no,1736,-77.1449347,38.75734440000001
+,2529,,Fairfax Connector,bus_stop,platform,no,no,1737,-77.1441756,38.75794059999999
+,2530,,Fairfax Connector,bus_stop,platform,no,no,1738,-77.1434968,38.76017509999999
+,2526,,Fairfax Connector,bus_stop,platform,no,no,1739,-77.1437204,38.7603871
+,3466,,Fairfax Connector,bus_stop,platform,no,no,1740,-77.1412255,38.7604497
+,2533,,Fairfax Connector,bus_stop,platform,no,no,1741,-77.1521196,38.753290500000006
+,2517,,Fairfax Connector,bus_stop,platform,no,no,1742,-77.1493517,38.7551231
+,2518,Fairfax Connector,Fairfax Connector,bus_stop,platform,no,no,1743,-77.1484476,38.7551762
+,2532,,Fairfax Connector,bus_stop,platform,no,no,1744,-77.1577254,38.751457699999996
+,2535,,Fairfax Connector,bus_stop,platform,no,no,1745,-77.1584751,38.75080509999999
+,2528,,Fairfax Connector,bus_stop,platform,no,no,1746,-77.1590414,38.75047479999999
+,2522,,Fairfax Connector,bus_stop,platform,no,no,1747,-77.1615889,38.749745
+,2531,,Fairfax Connector,bus_stop,platform,no,no,1748,-77.1624963,38.7498586
+,2519,,Fairfax Connector,bus_stop,platform,no,no,1749,-77.1652217,38.75125009999999
+,2520,,Fairfax Connector,bus_stop,platform,no,no,1750,-77.1654588,38.751151
+,2838,,Fairfax Connector,bus_stop,platform,no,no,1751,-77.16959250000001,38.74556679999999
+,1348,,Fairfax Connector,bus_stop,platform,no,no,1752,-77.167223,38.7469097
+,6623,,Fairfax Connector,bus_stop,platform,no,no,1753,-77.1665218,38.75129489999999
+,1337,,Fairfax Connector,bus_stop,platform,no,no,1754,-77.1656102,38.75240459999999
+,1335,,Fairfax Connector,bus_stop,platform,no,no,1755,-77.1652205,38.7536851
+,1724,,Fairfax Connector,bus_stop,platform,no,no,1756,-77.1660552,38.754543
+,1718,,Fairfax Connector,bus_stop,platform,no,no,1757,-77.1659158,38.7545697
+,1722,,Fairfax Connector,bus_stop,platform,no,no,1758,-77.1681541,38.7558063
+,1723,,Fairfax Connector,bus_stop,platform,no,no,1759,-77.1685233,38.75593049999999
+,1719,,Fairfax Connector,bus_stop,platform,no,no,1760,-77.1688107,38.7565428
+,3854,,Fairfax Connector,bus_stop,platform,no,no,1761,-77.1696843,38.75655089999999
+,3855,,Fairfax Connector,bus_stop,platform,no,no,1762,-77.1708341,38.756965099999995
+,1345,,Fairfax Connector,bus_stop,platform,no,no,1763,-77.1639637,38.7559224
+,1344,,Fairfax Connector,bus_stop,platform,no,no,1764,-77.16365470000001,38.75594449999999
+,1357,,Fairfax Connector,bus_stop,platform,no,no,1765,-77.1614882,38.75823979999999
+,1338,,Fairfax Connector,bus_stop,platform,no,no,1766,-77.1616644,38.758442099999996
+,,,Fairfax Connector,bus_stop,platform,,,1767,-77.1569615,38.7629097
+,,,Fairfax Connector,bus_stop,platform,,,1768,-77.1563308,38.764467200000006
+,,,Fairfax Connector,bus_stop,platform,,,1769,-77.1365284,38.7863117
+,,,Fairfax Connector,bus_stop,platform,,,1770,-77.1365944,38.7899421
+,,,Fairfax Connector,bus_stop,platform,,,1771,-77.1538917,38.7721608
+,,,Fairfax Connector,bus_stop,platform,,,1772,-77.153654,38.772148300000005
+,,,Fairfax Connector,bus_stop,platform,,,1773,-77.1542307,38.7735208
+,,,Fairfax Connector,bus_stop,platform,,,1774,-77.1540629,38.77402800000001
+,,,Fairfax Connector,bus_stop,platform,,,1775,-77.1523674,38.7744462
+,,,Fairfax Connector,bus_stop,platform,,,1776,-77.1521378,38.7746118
+,,,Fairfax Connector,bus_stop,platform,,,1777,-77.1510889,38.774442
+,,,Fairfax Connector,bus_stop,platform,,,1778,-77.1489664,38.77616309999999
+,,,Fairfax Connector,bus_stop,platform,,,1779,-77.1484948,38.7763737
+,,,Fairfax Connector,bus_stop,platform,,,1780,-77.1478081,38.77771390000001
+,,,Fairfax Connector,bus_stop,platform,,,1781,-77.1472905,38.77798669999999
+,,,Fairfax Connector,bus_stop,platform,,,1782,-77.1463729,38.77967149999999
+,,,Fairfax Connector,bus_stop,platform,,,1783,-77.1460151,38.780530600000006
+,,,Fairfax Connector,bus_stop,platform,,,1784,-77.1457391,38.78077530000001
+,3524,,Fairfax Connector,bus_stop,platform,no,no,1785,-77.1386034,38.7647663
+,6837,,Fairfax Connecter,bus_stop,platform,no,,1786,-77.2335296,38.92512749999999
+Belvoir Rd at 18th St,6135,Fairfax Connector,Fairfax Connector,bus_stop,platform,,,1787,-77.136459,38.6919143
+21st St at Middleton Rd,6149,Fairfax Connector,Fairfax Connector,bus_stop,platform,,,1788,-77.1370359,38.6877771
+,,,Fairfax Connecter,bus_stop,platform,no,no,1789,-77.3878529,38.96858399999999
+,,,Fairfax Connecter,bus_stop,platform,no,no,1790,-77.3885757,38.96708729999999
+Center St & Locust St,1591,,Fairfax Connecter,bus_stop,platform,no,no,1791,-77.3879355,38.9691118
+,1341,,Fairfax Connector,bus_stop,platform,no,no,1792,-77.1649927,38.7415824
+,6584,,Fairfax Connector,bus_stop,platform,no,no,1793,-77.1610634,38.7416773
+,1340,,Fairfax Connector,bus_stop,platform,yes,yes,1794,-77.163659,38.740722700000006
+,6583,,Fairfax Connector,bus_stop,platform,no,no,1795,-77.1510438,38.74414480000001
+,6580,,Fairfax Connector,bus_stop,platform,no,no,1796,-77.1497498,38.7439093
+,,,,bus_stop,platform,yes,,1797,-77.4064138,38.95489469999999

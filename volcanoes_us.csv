@@ -1,0 +1,129 @@
+volcano_name,vnum,volcano_code,region,observatory,alert_level,color_code,threat_level,alert_date,notice,latitude,longitude
+Folsoms Bluff,,ak102,Alaska,avo,UNASSIGNED,UNASSIGNED,,,,58.40881,-155.21516
+Mount Churchill,315030.0,ak33,Alaska,avo,UNASSIGNED,UNASSIGNED,,,,61.4187,-141.7152
+Alinchak,312132.0,ak299,Alaska Peninsula,avo,UNASSIGNED,UNASSIGNED,Low Threat,,,57.869,-155.422
+Aniakchak,312090.0,ak14,Alaska Peninsula,avo,NORMAL,GREEN,High Threat,2026-05-05 22:31:29,"AVO Aniakchak GREEN/NORMAL - Port Heiden Receive Facility repairs have sufficiently restored power, moving monitoring status of Aniakchak Volcano from UNASSIGNED to GREEN/NORMAL",56.9058,-158.209
+Black Peak,312080.0,ak25,Alaska Peninsula,avo,UNASSIGNED,UNASSIGNED,Moderate Threat,,,56.5512,-158.787
+Chiginagak,312110.0,ak49,Alaska Peninsula,avo,UNASSIGNED,UNASSIGNED,Moderate Threat,,,57.13348,-156.99147
+Dana,312050.0,ak72,Alaska Peninsula,avo,UNASSIGNED,UNASSIGNED,Moderate Threat,,,55.64205,-161.21551
+Denison,312210.0,ak74,Alaska Peninsula,avo,UNASSIGNED,UNASSIGNED,Moderate Threat,,,58.4173,-154.451
+Douglas,312270.0,ak80,Alaska Peninsula,avo,UNASSIGNED,UNASSIGNED,Moderate Threat,,,58.8596,-153.5351
+Dutton,312011.0,ak83,Alaska Peninsula,avo,NORMAL,GREEN,High Threat,2019-09-06 18:29:39,AVO Dutton GREEN/NORMAL - Network upgraded from analog to digital,55.1867,-162.2744
+Emmons Lake volcanic center,312020.0,ak93,Alaska Peninsula,avo,UNASSIGNED,UNASSIGNED,Moderate Threat,,,55.3409,-162.0726
+Fourpeaked,312260.0,ak103,Alaska Peninsula,avo,UNASSIGNED,UNASSIGNED,Low Threat,2014-02-08 00:45:35,AVO Fourpeaked UNASSIGNED/UNASSIGNED - Fourpeaked Volcano has been moved to unassigned status.,58.7703,-153.6738
+Frosty,312010.0,ak105,Alaska Peninsula,avo,UNASSIGNED,UNASSIGNED,Moderate Threat,2016-11-15 00:18:30,AVO Frosty UNASSIGNED/UNASSIGNED - Avalanche observed from Cold Bay. No volcanic unrest.,55.0673,-162.8354
+Griggs,312190.0,ak112,Alaska Peninsula,avo,NORMAL,GREEN,High Threat,2022-03-18 23:33:23,AVO Griggs GREEN/NORMAL - Aviation color code and alert level changed to GREEN/NORMAL due to reestabilished communication links to instrumental monitoring data.,58.3572,-155.1037
+Kaguyak,312250.0,ak143,Alaska Peninsula,avo,UNASSIGNED,UNASSIGNED,High Threat,,,58.6113,-154.0245
+Katmai,312170.0,ak147,Alaska Peninsula,avo,NORMAL,GREEN,High Threat,2026-09-01 00:04:06,AVO Katmai GREEN/NORMAL - Resuspended ash observed from 1912 eruption. Aviation color code and alert level remain at GREEN/NORMAL.,58.279,-154.9533
+Kialagvik,312120.0,ak151,Alaska Peninsula,avo,UNASSIGNED,UNASSIGNED,Moderate Threat,,,57.2019,-156.7467
+Kukak,312230.0,ak174,Alaska Peninsula,avo,UNASSIGNED,UNASSIGNED,Moderate Threat,,,58.4528,-154.3573
+Kupreanof,312060.0,ak175,Alaska Peninsula,avo,UNASSIGNED,UNASSIGNED,Moderate Threat,2026-09-11 19:48:03,AVO Kupreanof UNASSIGNED/UNASSIGNED - Mount Kupreanof relatively quiet; volcano lowered to UNASSIGNED.,56.0126,-159.7912
+Mageik,312150.0,ak187,Alaska Peninsula,avo,NORMAL,GREEN,High Threat,2023-01-11 23:08:56,AVO Mageik GREEN/NORMAL - Aviation color code and alert level remain at GREEN/NORMAL.  ,58.1946,-155.2544
+Martin,312140.0,ak189,Alaska Peninsula,avo,NORMAL,GREEN,High Threat,2023-01-11 23:08:56,AVO Martin GREEN/NORMAL - Aviation color code and alert level remain at GREEN/NORMAL.  ,58.1692,-155.3566
+Novarupta,312180.0,ak203,Alaska Peninsula,avo,NORMAL,GREEN,High Threat,2022-03-18 23:33:23,AVO Novarupta GREEN/NORMAL - Aviation color code and alert level changed to GREEN/NORMAL due to reestabilished communication links to instrumental monitoring data.,58.2654,-155.1591
+Pavlof,312030.0,ak210,Alaska Peninsula,avo,NORMAL,GREEN,High Threat,2026-01-23 21:37:59,AVO Pavlof GREEN/NORMAL - Seismic activity decreased to background levels. Aviation Color Code and Volcano Alert Level lowered to GREEN/NORMAL on January 21.,55.4173,-161.8937
+Pavlof Sister,312040.0,ak211,Alaska Peninsula,avo,UNASSIGNED,UNASSIGNED,High Threat,,,55.4569,-161.8544
+Snowy Mountain,312200.0,ak257,Alaska Peninsula,avo,NORMAL,GREEN,Moderate Threat,2022-03-18 23:33:23,AVO Snowy Mountain GREEN/NORMAL - Aviation color code and alert level changed to GREEN/NORMAL due to reestabilished communication links to instrumental monitoring data.,58.3336,-154.6859
+Steller,312220.0,ak265,Alaska Peninsula,avo,UNASSIGNED,UNASSIGNED,Moderate Threat,,,58.4301,-154.3903
+Stepovak Bay group,312051.0,ak304,Alaska Peninsula,avo,UNASSIGNED,UNASSIGNED,Low Threat,,,55.9125,-160.041
+Trident,312160.0,ak288,Alaska Peninsula,avo,NORMAL,GREEN,High Threat,2024-01-10 20:04:36,AVO Trident GREEN/NORMAL - Seismicity beneath Trident Volcano has decreased; Aviation Color Code and Volcano Alert Level lowered to GREEN/NORMAL,58.2343,-155.1026
+Ugashik-Peulik,312130.0,ak295,Alaska Peninsula,avo,NORMAL,GREEN,High Threat,2022-10-19 23:05:08,AVO Ugashik-Peulik GREEN/NORMAL - Aviation color code and alert level changed to GREEN/NORMAL due to reconnection with seismic stations,57.7503,-156.37
+Ukinrek Maars,312131.0,ak296,Alaska Peninsula,avo,NORMAL,GREEN,Moderate Threat,2022-10-19 23:05:08,AVO Ukinrek Maars GREEN/NORMAL - Aviation color code and alert level changed to GREEN/NORMAL due to reconnection with seismic stations,57.8338,-156.5139
+Veniaminof,312070.0,ak301,Alaska Peninsula,avo,NORMAL,GREEN,High Threat,2021-07-09 21:30:29,AVO Veniaminof GREEN/NORMAL - Monitored staus restored to GREEN/NORMAL this week.,56.1979,-159.3931
+Yantarni,312100.0,ak328,Alaska Peninsula,avo,UNASSIGNED,UNASSIGNED,Moderate Threat,,,57.0179,-157.1864
+Adagdak,311800.0,ak3,Aleutians,avo,UNASSIGNED,UNASSIGNED,Moderate Threat,,,51.9905,-176.5852
+Akutan,311320.0,ak6,Aleutians,avo,NORMAL,GREEN,Very High Threat,2019-09-06 18:29:39,AVO Akutan GREEN/NORMAL - Existing digital equipment refurbished with more robust digital installation,54.13308,-165.98555
+Amukta,311190.0,ak10,Aleutians,avo,UNASSIGNED,UNASSIGNED,Moderate Threat,,,52.49419,-171.25476
+Atka volcanic complex,311160.0,ak17,Aleutians,avo,NORMAL,GREEN,High Threat,2026-07-21 20:08:42,AVO Atka volcanic complex GREEN/NORMAL - Unrest has declined. Color Code and Alert Level Level lowered to GREEN/NORMAL.,52.3309,-174.139
+Buldir,311010.0,ak34,Aleutians,avo,UNASSIGNED,UNASSIGNED,Low Threat,,,52.3488,175.909
+Carlisle,311230.0,ak40,Aleutians,avo,UNASSIGNED,UNASSIGNED,Low Threat,,,52.8906,-170.0576
+Cleveland,311240.0,ak52,Aleutians,avo,NORMAL,GREEN,Moderate Threat,2024-07-08 21:06:48,"AVO Cleveland GREEN/NORMAL - Activity at background, Aviation Color Code and Volcano Alert Level lowered to GREEN/NORMAL.",52.8222,-169.945
+Fisher,311350.0,ak100,Aleutians,avo,NORMAL,GREEN,Moderate Threat,2026-03-09 19:18:33,AVO Fisher GREEN/NORMAL - Aviation Color Code and Volcano Alert Level are changed to GREEN/NORMAL due to restoration of real-time seismic monitoring.,54.6692,-164.3524
+Gareloi,311070.0,ak106,Aleutians,avo,NORMAL,GREEN,High Threat,2026-10-06 18:37:45,AVO Gareloi GREEN/NORMAL - Unrest has declined. Color Code and Alert Level Level lowered to GREEN/NORMAL.,51.7892,-178.796
+Great Sitkin,311120.0,ak111,Aleutians,avo,WATCH,ORANGE,High Threat,2026-11-04 20:38:53,AVO Great Sitkin ORANGE/WATCH - Slow eruption of lava within the summit crater continues.,52.0765,-176.1109
+Herbert,311220.0,ak117,Aleutians,avo,UNASSIGNED,UNASSIGNED,Low Threat,,,52.741,-170.113
+Isanotski,311370.0,ak135,Aleutians,avo,NORMAL,GREEN,Low Threat,,,54.76799,-163.72904
+Kagamil,311260.0,ak142,Aleutians,avo,UNASSIGNED,UNASSIGNED,Low Threat,,,52.9726,-169.719
+Kanaga,311110.0,ak144,Aleutians,avo,NORMAL,GREEN,High Threat,2024-02-27 20:55:59,AVO Kanaga GREEN/NORMAL - Aviation Color Code and Volcano Alert Level decreased to GREEN/NORMAL earlier today.,51.9242,-177.1623
+Kiska,311020.0,ak161,Aleutians,avo,UNASSIGNED,UNASSIGNED,Moderate Threat,,,52.1031,177.6035
+Little Sitkin,311050.0,ak182,Aleutians,avo,NORMAL,GREEN,Moderate Threat,2022-07-14 22:40:33,AVO Little Sitkin GREEN/NORMAL - Aviation Color Code and Alert Level changed to GREEN/NORMAL due to upgraded communications link,51.9531,178.5356
+Makushin,311310.0,ak188,Aleutians,avo,NORMAL,GREEN,Very High Threat,2020-12-16 00:59:56,AVO Makushin GREEN/NORMAL - Aviation Color Code and Alert Level decreased to GREEN/NORMAL.,53.8899,-166.925
+Moffett,311111.0,ak192,Aleutians,avo,UNASSIGNED,UNASSIGNED,Moderate Threat,,,51.937,-176.741
+Mount Recheshnoi,311280.0,ak229,Aleutians,avo,UNASSIGNED,UNASSIGNED,Moderate Threat,,,53.1536,-168.5382
+Okmok,311290.0,ak206,Aleutians,avo,NORMAL,GREEN,High Threat,2026-01-30 02:55:41,AVO Okmok GREEN/NORMAL - Resuspended ash observed from multiple sources on Unmak Island. Okmok Volcano aviation color code and alert level remain at GREEN/NORMAL,53.397,-168.166
+Roundtop,311380.0,ak236,Aleutians,avo,UNASSIGNED,UNASSIGNED,Moderate Threat,,,54.7992,-163.5914
+Seguam,311180.0,ak246,Aleutians,avo,UNASSIGNED,UNASSIGNED,High Threat,,,52.316,-172.51
+Segula,311030.0,ak247,Aleutians,avo,UNASSIGNED,UNASSIGNED,Low Threat,,,52.0138,178.134
+Semisopochnoi,311060.0,ak248,Aleutians,avo,NORMAL,GREEN,High Threat,2026-02-27 20:55:44,AVO Semisopochnoi GREEN/NORMAL - Small explosion on February 22. Volcano remains at GREEN/NORMAL.,51.9288,179.5977
+Shishaldin,311360.0,ak252,Aleutians,avo,NORMAL,GREEN,High Threat,2026-11-02 22:29:55,AVO Shishaldin GREEN/NORMAL - Unrest continues to slowly decline towards background levels with current activity not expected to lead to eruption.,54.7554,-163.9711
+Takawangha,311090.0,ak277,Aleutians,avo,NORMAL,GREEN,Low Threat,2024-01-29 23:13:47,AVO Takawangha GREEN/NORMAL - Aviation color code and alert level changed to GREEN/NORMAL due to restoration of local monitoring data.,51.867,-178.027
+Tanaga,311080.0,ak280,Aleutians,avo,NORMAL,GREEN,Moderate Threat,2024-01-29 23:13:47,AVO Tanaga GREEN/NORMAL - Aviation color code and alert level changed to GREEN/NORMAL due to restoration of local monitoring data.,51.884,-178.143
+Tanax̂ Angunax̂,311241.0,ak278,Aleutians,avo,UNASSIGNED,UNASSIGNED,Low Threat,,,52.839,-169.758
+Vsevidof,311270.0,ak307,Aleutians,avo,UNASSIGNED,UNASSIGNED,Moderate Threat,,,53.1256,-168.6937
+Westdahl,311340.0,ak322,Aleutians,avo,NORMAL,GREEN,High Threat,2026-03-09 19:18:33,AVO Westdahl GREEN/NORMAL - Aviation Color Code and Volcano Alert Level are changed to GREEN/NORMAL due to restoration of real-time seismic monitoring.,54.5171,-164.6476
+Yunaska,311210.0,ak329,Aleutians,avo,UNASSIGNED,UNASSIGNED,Moderate Threat,,,52.649,-170.659
+San Francisco Volcanic Field,329020.0,az1,Arizona,yvo,UNASSIGNED,UNASSIGNED,Moderate Threat,,,35.37,-111.5
+Uinkaret volcanic field,329010.0,az2,Arizona,yvo,UNASSIGNED,UNASSIGNED,Very Low Threat,,,36.38,-113.13
+Clear Lake Volcanic Field,323100.0,ca4,California,calvo,NORMAL,GREEN,High Threat,,,38.97,-122.77
+Coso Volcanic Field,323180.0,ca5,California,calvo,NORMAL,GREEN,Moderate Threat,2019-07-11 23:36:44,CALVO Coso Volcanic Field GREEN/NORMAL - No eruption threat at Coso Volcanic Field; EQ swarm intensity declining.,36.03,-117.82
+Lassen Volcanic Center,323080.0,ca9,California,calvo,NORMAL,GREEN,Very High Threat,2009-11-18 16:05:08,"CALVO Lassen Volcanic Center GREEN/NORMAL - Information Statement for the November 2 through 10, 2009, Lassen Peak swarm activity",40.492,-121.508
+Long Valley Caldera,323822.0,ca11,California,calvo,NORMAL,GREEN,Very High Threat,2012-01-13 01:46:31,CALVO Long Valley Caldera GREEN/NORMAL - ,37.7,-118.87
+Mammoth Mountain,323150.0,ca12,California,calvo,NORMAL,GREEN,Moderate Threat,,,37.631,-119.032
+Medicine Lake volcano,323020.0,ca13,California,calvo,NORMAL,GREEN,High Threat,,,41.611,-121.554
+Mono Lake Volcanic Field,323110.0,ca15,California,calvo,NORMAL,GREEN,Moderate Threat,,,38.0,-119.03
+Mono-Inyo Craters,323120.0,ca21,California,calvo,NORMAL,GREEN,High Threat,,,37.82,-119.02
+Mount Shasta,323010.0,ca16,California,calvo,NORMAL,GREEN,Very High Threat,,,41.409,-122.193
+Salton Buttes,323200.0,ca20,California,calvo,NORMAL,GREEN,Low Threat,,,33.2,-115.62
+Ubehebe Craters,323160.0,ca19,California,calvo,NORMAL,GREEN,Moderate Threat,,,37.02,-117.45
+Dotsero Volcanic Center,328010.0,co1,Colorado,yvo,UNASSIGNED,UNASSIGNED,Moderate Threat,,,39.65,-107.03
+Hayes,313050.0,ak116,Cook Inlet-South Central,avo,UNASSIGNED,UNASSIGNED,High Threat,,,61.5991,-152.4182
+Iliamna,313020.0,ak124,Cook Inlet-South Central,avo,NORMAL,GREEN,High Threat,2026-08-14 21:05:43,AVO Iliamna GREEN/NORMAL - Large avalanche detected on eastern flank. No increase in volcanic unrest.,60.0319,-153.0918
+Redoubt,313030.0,ak231,Cook Inlet-South Central,avo,NORMAL,GREEN,Very High Threat,2010-04-23 20:27:31,AVO Redoubt GREEN/NORMAL - Small swarm at Redoubt Volcano. No sign of imminent eruption. No other activity to report.,60.4852,-152.7438
+Spurr,313040.0,ak260,Cook Inlet-South Central,avo,NORMAL,GREEN,Very High Threat,2025-08-22 19:07:53,AVO Spurr GREEN/NORMAL - Aviation Color Code and Volcano Alert Level were decreased to GREEN/NORMAL on August 20,61.2989,-152.2539
+Haleakala,332060.0,hi1,Hawaii,hvo,NORMAL,GREEN,Moderate Threat,2026-10-01 21:30:20,HVO Haleakala GREEN/NORMAL - No activity of concern for Haleakalā.,20.708,-156.25
+Hualalai,332040.0,hi2,Hawaii,hvo,NORMAL,GREEN,High Threat,2026-10-01 21:30:20,HVO Hualalai GREEN/NORMAL - No activity of concern for Hualālai.,19.692,-155.87
+Kilauea,332010.0,hi3,Hawaii,hvo,WATCH,ORANGE,Very High Threat,2026-11-04 20:03:18,HVO Kilauea ORANGE/WATCH - Intermittent lava flows have continued from the north vent over the past day. High fountaining remains a possibility today or anytime within the next few days.,19.421,-155.287
+Mauna Kea,332030.0,hi5,Hawaii,hvo,NORMAL,GREEN,Moderate Threat,2026-10-01 21:30:20,HVO Mauna Kea GREEN/NORMAL - No activity of concern for Mauna Kea.,19.82,-155.47
+Mauna Loa,332020.0,hi6,Hawaii,hvo,NORMAL,GREEN,Very High Threat,2026-10-01 21:30:20,"HVO Mauna Loa GREEN/NORMAL - Mauna Loa earthquake counts decreased in September compared to August, and minor inflation continues.",19.475,-155.608
+Black Butte Crater lava field,324010.0,id3,Idaho,yvo,UNASSIGNED,UNASSIGNED,Low Threat,,,43.18,-114.35
+Craters of the Moon volcanic field,324020.0,id1,Idaho,yvo,UNASSIGNED,UNASSIGNED,Low Threat,,,43.42,-113.5
+Hells Half Acre lava field,324040.0,id2,Idaho,yvo,UNASSIGNED,UNASSIGNED,Low Threat,,,43.5,-112.45
+Wapi Lava Field,324030.0,id4,Idaho,yvo,UNASSIGNED,UNASSIGNED,Low Threat,,,42.88,-113.22
+Buzzard Creek,315001.0,ak35,Interior Alaska,avo,UNASSIGNED,UNASSIGNED,Low Threat,,,64.061082,-148.431932
+Soda Lakes,326010.0,nv1,Nevada,calvo,UNASSIGNED,UNASSIGNED,Moderate Threat,,,39.51764,-118.880719
+Carrizozo lava flow,327110.0,nm1,New Mexico,yvo,UNASSIGNED,UNASSIGNED,Very Low Threat,,,33.78,-105.93
+Red Hill-Quemado volcanic field,327812.0,nm4,New Mexico,yvo,UNASSIGNED,UNASSIGNED,Very Low Threat,,,34.25,-108.83
+Valles Caldera,327817.0,nm2,New Mexico,yvo,UNASSIGNED,UNASSIGNED,Moderate Threat,,,35.87,-106.57
+Zuni-Bandera volcanic field,327120.0,nm3,New Mexico,yvo,UNASSIGNED,UNASSIGNED,Very Low Threat,,,34.8,-108.0
+Belknap Crater,322060.0,or1,Oregon,cvo,UNASSIGNED,UNASSIGNED,Low Threat,,,44.285,-121.841
+Blue Lake Crater,322030.0,or2,Oregon,cvo,UNASSIGNED,UNASSIGNED,Low Threat,,,44.42,-121.77
+Cinnamon Butte,322150.0,or3,Oregon,cvo,UNASSIGNED,UNASSIGNED,Very Low Threat,,,43.241,-122.108
+Crater Lake,322160.0,or4,Oregon,cvo,NORMAL,GREEN,Very High Threat,,,42.93,-122.12
+Davis Lake volcanic field,322100.0,or5,Oregon,cvo,UNASSIGNED,UNASSIGNED,Very Low Threat,,,43.57,-121.82
+Devils Garden lava field,322120.0,or6,Oregon,cvo,UNASSIGNED,UNASSIGNED,Very Low Threat,,,43.512,-120.861
+Diamond Craters volcanic field,322170.0,or7,Oregon,cvo,UNASSIGNED,UNASSIGNED,Very Low Threat,,,43.1,-118.75
+Jordan Craters volcanic field,322190.0,or10,Oregon,cvo,UNASSIGNED,UNASSIGNED,Very Low Threat,,,43.15,-117.47
+Mount Bachelor,322090.0,or11,Oregon,cvo,UNASSIGNED,UNASSIGNED,Moderate Threat,,,43.979,-121.688
+Mount Hood,322010.0,or12,Oregon,cvo,NORMAL,GREEN,Very High Threat,2021-06-06 04:38:06,CVO Mount Hood GREEN/NORMAL - Magnitude 3.9 earthquake ~4 km south of Mount Hood at 2051 PDT,45.374,-121.695
+Mount Jefferson,322020.0,or13,Oregon,cvo,NORMAL,GREEN,Low Threat,,,44.674,-121.8
+Newberry,322110.0,or15,Oregon,cvo,NORMAL,GREEN,Very High Threat,2024-12-18 21:47:10,"CVO Newberry GREEN/NORMAL - Renewed geothermal work at Newberry volcano will cause small, non-volcanic earthquakes. It should not impact the volcano’s state of activity.",43.722,-121.229
+Sand Mountain volcanic field,322040.0,or17,Oregon,cvo,UNASSIGNED,UNASSIGNED,Very Low Threat,,,44.38,-121.93
+Three Sisters,322070.0,or20,Oregon,cvo,NORMAL,GREEN,Very High Threat,2022-01-31 20:45:17,CVO Three Sisters GREEN/NORMAL - An increase in the rate of ground uplift has been detected by satellite. It is like past periods of uplift. Small earthquakes also detected in the same area. No sign of imminent eruption.,44.103,-121.768
+Espenberg,314010.0,ak95,Seward Peninsula,avo,UNASSIGNED,UNASSIGNED,,,,66.3493,-164.333
+Imuruk Lake,314060.0,ak125,Seward Peninsula,avo,UNASSIGNED,UNASSIGNED,Very Low Threat,,,65.6,-163.92
+Behm Canal-Rudyerd Bay,315070.0,ak22,Southeast Alaska,avo,UNASSIGNED,UNASSIGNED,Very Low Threat,,,55.3196,-131.051
+Edgecumbe,315040.0,ak90,Southeast Alaska,avo,NORMAL,GREEN,Moderate Threat,2024-02-09 19:57:42,AVO Edgecumbe GREEN/NORMAL - Aviation Color Code and Alert Level remains at GREEN/NORMAL.,57.0509,-135.7611
+Tlevak Strait-Suemez Island,315060.0,ak284,Southeast Alaska,avo,UNASSIGNED,UNASSIGNED,Very Low Threat,,,55.2496,-133.302
+Ingakslugwat Hills,314030.0,ak127,Southwest Alaska,avo,UNASSIGNED,UNASSIGNED,Low Threat,,,61.43,-164.47
+St. Michael,314040.0,ak262,Southwest Alaska,avo,UNASSIGNED,UNASSIGNED,Low Threat,,,63.4493,-162.123
+Black Rock Desert volcanic field,327050.0,ut2,Utah,yvo,UNASSIGNED,UNASSIGNED,Moderate Threat,,,38.97,-112.5
+Markagunt Plateau volcanic field,327040.0,ut3,Utah,yvo,UNASSIGNED,UNASSIGNED,Low Threat,,,37.58,-112.67
+Glacier Peak,321020.0,wa3,Washington,cvo,NORMAL,GREEN,Very High Threat,,,48.112,-121.113
+Indian Heaven Volcanic Field,321070.0,wa5,Washington,cvo,UNASSIGNED,UNASSIGNED,Low Threat,,,45.93,-121.82
+Mount Adams,321040.0,wa1,Washington,cvo,NORMAL,GREEN,High Threat,2024-10-03 19:37:15,"CVO Mount Adams GREEN/NORMAL - The USGS Cascades Volcano Observatory and Pacific Northwest Seismic Network located six earthquakes at Mount Adams, ranging from magnitudes 0.9 to 2.0.",46.206,-121.49
+Mount Baker,321010.0,wa2,Washington,cvo,NORMAL,GREEN,Very High Threat,,,48.777,-121.813
+Mount Rainier,321030.0,wa6,Washington,cvo,NORMAL,GREEN,Very High Threat,2025-08-25 22:38:40,CVO Mount Rainier GREEN/NORMAL - Earthquake activity at Mount Rainier has returned to typical rates of seismicity.,46.853,-121.76
+Mount St. Helens,321050.0,wa4,Washington,cvo,NORMAL,GREEN,Very High Threat,2026-10-15 20:01:03,CVO Mount St. Helens GREEN/NORMAL - Resuspended ash observed from the 1980 eruption of Mount St. Helens. Aviation color code and alert level remain at GREEN/NORMAL,46.2,-122.18
+West Crater volcanic field,321060.0,wa7,Washington,cvo,UNASSIGNED,UNASSIGNED,Low Threat,,,45.88,-122.08
+Wrangell,315020.0,ak326,Wrangell Volcanic Field,avo,NORMAL,GREEN,High Threat,2024-10-01 18:04:56,AVO Wrangell GREEN/NORMAL - The seismic network on Mount Wrangell volcano is now functioning.,62.00572,-144.01935
+Yellowstone,325010.0,wy1,Wyoming,yvo,NORMAL,GREEN,High Threat,2026-11-02 16:09:54,YVO Yellowstone GREEN/NORMAL - YVO Monthly Update: background seismicity and deformation,44.43,-110.67
